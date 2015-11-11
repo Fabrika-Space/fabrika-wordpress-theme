@@ -2,4 +2,4 @@ deployment:
   stage:
     branch: [master]
     commands:
-      - ./deploy.sh stage
+      - ./deploy.sh

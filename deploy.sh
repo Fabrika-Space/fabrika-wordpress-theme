@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-ssh ubuntu@$107.21.123.188 << EOF
+ssh -v ubuntu@107.21.123.188 << EOF
 
   # setup ssh keys
   # NOTE: this section needed to add needed deploy keys
