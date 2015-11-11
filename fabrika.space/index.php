@@ -162,13 +162,23 @@ get_header(); ?>
 							<?php
 								$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'post_date', 'order' => 'ASC' );
 								$postslist = get_posts( $args );
+								$no_active = true;
+								$now_date = date_parse(date("Y-m-d"));
 
 								foreach ( $postslist as $post ) :
 								  setup_postdata( $post ); 
 									$eventDate = date_parse(get_post_meta($post->ID, 'EventDate', true));
 
-							?>
-									<a href="<?php the_permalink(); ?>" class="item"><!--TODO:Check if the event day is today and if yes, set item_act class-->
+									if($no_active && $eventDate > $now_date){
+										$no_active = false;
+									?>
+										<a href="<?php the_permalink(); ?>" class="item act">
+
+									<?php }else{ ?>
+
+										<a href="<?php the_permalink(); ?>" class="item">
+									<?php } ?>
+
 										<div class="itemImg">
 											<img src="<?php echo get_post_meta($post->ID, 'Photo', true); ?>" />
 										</div>
