@@ -38,9 +38,9 @@ get_header(); ?>
 					</div>
 					<div class="social">
 						<ul>
-							<li><a href="#" class="icon_fb"></a></li>
-							<li><a href="#" class="icon_tw"></a></li>
-							<li><a href="#" class="icon_pi"></a></li>
+							<li><a href="http://facebook.com/fabrika.space/" class="icon_fb"></a></li>
+							<li><a href="http://twitter.com/_fabrika_" class="icon_tw"></a></li>
+							<!--li><a href="#" class="icon_pi"></a></li-->
 						</ul>
 					</div>
 				</div>
