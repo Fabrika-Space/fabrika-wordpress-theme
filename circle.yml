@@ -1,6 +1,3 @@
-machine:
-  override:
-    - exit 0;
 dependencies:
   override:
     - exit 0;
