@@ -1,3 +1,15 @@
+machine:
+  override:
+    - exit 0;
+dependencies:
+  override:
+    - exit 0;
+database:
+  override:
+    - exit 0;
+test:
+  override:
+    - exit 0;
 deployment:  
   stage:
     branch: [master]
