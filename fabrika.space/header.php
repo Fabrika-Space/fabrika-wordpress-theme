@@ -45,8 +45,8 @@
 				<span class="closeMainMenu"></span>
 				<ul>
 					<li <?php if(is_front_page()) {echo "class='act'"; }; ?>><a href="/">Главная</a></li>
-					<li <?php if(is_page_template( 'allnews.php' )) {echo "class='act'"; }; ?>><a href="/news">Новости</a></li>
-					<li <?php if(is_page_template( 'allevents.php' )) {echo "class='act'"; }; ?>><a href="/events">События</a></li>
+					<li <?php if(is_page_template( 'allnews.php' )) {echo "class='act'"; }; ?>><a href="/News">Новости</a></li>
+					<li <?php if(is_page_template( 'allevents.php' )) {echo "class='act'"; }; ?>><a href="/Events">События</a></li>
 
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/coworking/" )) {echo "class='act'"; }; ?>><a href="/etc/coworking">Коворкинг</a></li>
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/confererence/" )) {echo "class='act'"; }; ?>><a href="/etc/confererence/">Конференц-сервис</a></li>
