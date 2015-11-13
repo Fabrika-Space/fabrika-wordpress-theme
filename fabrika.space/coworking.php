@@ -120,6 +120,13 @@
 				</div>
 			</div>
 
+			<div class="section">
+				<div class="sectionTitle">Карта</div>
+				<div class="sectionContent">
+					<img src="img/map.png" />
+				</div>
+			</div>
+
 <!-- 			<div class="section">
 				<div class="sectionTitle">отзывы</div>
 				<div class="sectionContent">

@@ -1588,6 +1588,19 @@ input[type="password"] {
 	color: #000000;
 }
 
+.section.coworkingMap .sectionTitle {
+	border-bottom: 1px solid #dddad7;
+}
+
+.section.coworkingMap .sectionContent {
+	background: #fff;
+	text-align: center;
+}
+
+.section.coworkingMap .sectionContent img {
+	max-width: 100%;
+	display: inline-block;
+}
 
 
 
