@@ -9,7 +9,18 @@
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-	<title>Home</title>
+	<title>FABRIKA.SPACE | коворкинг | ивент-зона | бар</title>
+	<meta name="description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
+	<link rel="image_src" href="/wp-content/themes/fabrika.space/img/cover.jpg">
+	<meta itemprop="image" content="/wp-content/themes/fabrika.space/img/cover.jpg">
+
+	
+	<meta property="og:title" content="FABRIKA.SPACE | коворкинг | ивент-зона | бар">
+	<meta property="og:description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
+	<meta property="og:url" content="http://fabrika.space/">
+	<meta property="og:image" content="/wp-content/themes/fabrika.space/img/cover.jpg">
+
+
 	<meta charset="utf-8" />
 	<link rel="stylesheet" type="text/css" href="/wp-content/themes/fabrika.space/css/style.css" />
 	<link rel="stylesheet" type="text/css" href="/wp-content/themes/fabrika.space/css/devices.css" />
