@@ -32,7 +32,7 @@ get_header(); ?>
 					<div class="blockContactsText">
 						<ul>
 							<li><span class="icon_location">Харьков, ул. Карла Маркса, 1</span></li>
-							<!--li><a href="tel:80501234567" class="icon_tel">8 (050) 123 45 67</a></li-->
+							<li><a href="tel:+380681001144" class="icon_tel">8 (050) 123 45 67</a></li>
 							<li><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></li>
 						</ul>
 					</div>
