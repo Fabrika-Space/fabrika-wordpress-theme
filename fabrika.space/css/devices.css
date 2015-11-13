@@ -118,6 +118,12 @@
 		height: 175px;
 	}
 
+	.section.services .sectionContent .itemsServices,
+	.section.coworkingFriendly .itemsCoworkingFriendly {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+
 }
 
 @media screen and (max-width: 899px) {
@@ -215,9 +221,8 @@
 	.newsCol .item {
 		padding: 0 20px;
 	}
-	.innerPage #all {
+	.innerPage #main {
 		padding-top: 0;
-		background-image: none;
 	}
 	.innerPage #content {
 		padding-top: 50px;
@@ -505,6 +510,23 @@
 	.postDate {
 		left: 30px;
 	}
+	.innerPage #main.coworkingMain {
+		background: #fff;
+		padding-top: 0;
+	}
+	.innerPage .coworkingMain #content {
+		padding-top: 0;
+	}
+	.innerPage .coworkingMain #content h1 {
+		position: static;
+		margin-bottom: 20px;
+	}
+	.section.services .sectionContent .itemsServices {
+		text-align: center;
+	}
+	.section.coworkingFriendly .itemsCoworkingFriendly {
+		text-align: center;
+	}
 }
 
 
@@ -535,6 +557,16 @@
 	.news .lastnews .imgLastnews,
 	.events .item .itemImg {
 		display: none;
+	}
+
+	.section.coworkingFriendly .itemsCoworkingFriendly .item {
+		padding-left: 20px;
+		padding-right: 20px;
+		width: 280px;
+	}
+	.section.coworkingFriendly .itemsCoworkingFriendly .item .img {
+		height: auto;
+		padding: 20px 0;
 	}
 }
 

@@ -55,7 +55,6 @@ body {
 }
 
 .innerPage #all {
-	padding: 210px 0 80px 0;
 	position: relative;
 }
 
@@ -253,7 +252,13 @@ input[type="password"] {
 /*****************/
 
 #main {
+	padding-top: 210px;
+	padding-bottom: 80px;
+}
 
+.homePage #main {
+	padding-top: 0;
+	padding-bottom: 0;
 }
 
 #content {
@@ -1385,6 +1390,206 @@ input[type="password"] {
 .eventItem .info .txt p {
 	display: inline;
 }
+
+
+/***** coworkingPage ******/
+
+.innerPage #main.coworkingMain {
+	padding-top: 750px;
+	padding-bottom: 0;
+	background: #cfccc8 url('../img/coverCoworking.jpg') no-repeat center top;
+}
+
+.innerPage .coworkingMain + #footer {
+	position: static;
+	background: #cfccc8;
+}
+
+.innerPage .coworkingMain + #footer .footContacts {
+	padding-bottom: 0;
+}
+
+.innerPage .coworkingMain #content {
+	position: relative;
+}
+
+.innerPage .coworkingMain #content h1 {
+	position: absolute;
+	left: 0;
+	bottom: 100%;
+	width: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.section.pricing .sectionTitle {
+	border-bottom: 1px solid #dddad7;
+}
+
+.section.pricing .sectionContent {
+	background: #fff;
+	padding-bottom: 40px;
+}
+
+.pricingTypes {
+	text-align: center;
+	padding: 45px 0 0 0;
+}
+
+.pricingTypes .pricingType {
+	display: inline-block;
+	width: 400px;
+	max-width: 100%;
+	padding-bottom: 40px;
+}
+
+.pricingTypes .pricingType .titlePricingType {
+	font-weight: 700;
+	font-size: 24px;
+	color: #333333;
+	display: block;
+	padding-bottom: 30px;
+}
+
+.pricingTypes .pricingType .listPricingType {
+	font-size: 24px;
+	color: #333333;
+	line-height: 48px;
+}
+
+.btnPricing {
+	text-align: center;
+}
+
+.btnPricing a {
+	display: inline-block;
+	height: 58px;
+	line-height: 58px;
+	padding: 0 45px;
+	border: 1px solid #cfccc8;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 24px;
+	color: #333333;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.section.services .sectionTitle {
+	border-bottom: 1px solid #dddad7;
+}
+
+.section.services .sectionContent {
+	background: #fff;
+}
+
+.section.services .sectionContent .itemsServices {
+	max-width: 1000px;
+	margin: 0 auto;
+	font-size: 0;
+	padding: 40px 0 10px 0;
+}
+
+.section.services .sectionContent .itemsServices .item {
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 0 30px 0;
+	width: 200px;
+}
+
+.section.services .sectionContent .itemsServices .item .img {
+	font-size: 0;
+}
+
+.section.services .sectionContent .itemsServices .item .title {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+
+
+
+
+
+
+
+.section.coworkingFriendly .sectionTitle {
+	border-bottom: 1px solid #dddad7;
+}
+
+.section.coworkingFriendly .sectionContent {
+	background: #fff;
+}
+
+.section.coworkingFriendly .descriptionCoworkingFriendly {
+	text-align: center;
+	max-width: 800px;
+	margin: 0 auto;
+	font-size: 18px;
+	color: #666666;
+	line-height: 21px;
+	padding: 35px 20px 0 20px;
+}
+
+.section.coworkingFriendly .itemsCoworkingFriendly {
+	font-size: 0;
+	padding-top: 80px;
+}
+
+.section.coworkingFriendly .itemsCoworkingFriendly .item {
+	display: inline-block;
+	vertical-align: top;
+	width: 300px;
+	padding: 0 50px 90px 50px;
+
+}
+
+.section.coworkingFriendly .itemsCoworkingFriendly .item .city {
+	font-size: 24px;
+	font-weight: 700;
+	color: #333333;
+	line-height: 1;
+	text-transform: uppercase;
+}
+
+.section.coworkingFriendly .itemsCoworkingFriendly .item .space {
+	font-size: 24px;
+	color: #333333;
+	line-height: 1;
+	text-transform: uppercase;
+}
+
+.section.coworkingFriendly .itemsCoworkingFriendly .item .img {
+	height: 270px;
+}
+
+.section.coworkingFriendly .itemsCoworkingFriendly .item .img img {
+	vertical-align: middle;
+	max-width: 100%;
+}
+
+.section.coworkingFriendly .itemsCoworkingFriendly .item .img:after {
+	content: '';
+	display: inline-block;
+	vertical-align: middle;
+	width: 0;
+	height: 100%;
+}
+
+.section.coworkingFriendly .itemsCoworkingFriendly .item .itemContacts {
+	font-size: 18px;
+	color: #333;
+	line-height: 21px;
+}
+
+.section.coworkingFriendly .itemsCoworkingFriendly .item .itemContacts a {
+	color: #000000;
+}
+
+
+
 
 /*****************/
 /*****FOOTER******/
