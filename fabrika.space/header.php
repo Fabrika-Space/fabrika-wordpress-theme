@@ -11,14 +11,14 @@
 
 	<title>Fabrika.space | коворкинг | ивент-зона | бар</title>
 	<meta name="description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
-	<link rel="image_src" href="/wp-content/themes/fabrika.space/img/cover.jpg">
-	<meta itemprop="image" content="/wp-content/themes/fabrika.space/img/cover.jpg">
+	<link rel="image_src" href="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
+	<meta itemprop="image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
 
 	
 	<meta property="og:title" content="FABRIKA.SPACE | коворкинг | ивент-зона | бар">
 	<meta property="og:description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
 	<meta property="og:url" content="http://fabrika.space/">
-	<meta property="og:image" content="/wp-content/themes/fabrika.space/img/cover.jpg">
+	<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
 
 
 	<meta charset="utf-8" />
@@ -45,8 +45,8 @@
 				<span class="closeMainMenu"></span>
 				<ul>
 					<li <?php if(is_front_page()) {echo "class='act'"; }; ?>><a href="/">Главная</a></li>
-					<li <?php if(is_page_template( 'allnews.php' )) {echo "class='act'"; }; ?>><a href="/News">Новости</a></li>
-					<li <?php if(is_page_template( 'allevents.php' )) {echo "class='act'"; }; ?>><a href="/Events">События</a></li>
+					<li <?php if(is_page_template( 'allnews.php' )) {echo "class='act'"; }; ?>><a href="/news">Новости</a></li>
+					<li <?php if(is_page_template( 'allevents.php' )) {echo "class='act'"; }; ?>><a href="/events">События</a></li>
 
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/coworking/" )) {echo "class='act'"; }; ?>><a href="/etc/coworking">Коворкинг</a></li>
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/confererence/" )) {echo "class='act'"; }; ?>><a href="/etc/confererence/">Конференц-сервис</a></li>
