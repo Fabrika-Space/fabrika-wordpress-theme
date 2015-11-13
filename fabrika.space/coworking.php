@@ -28,7 +28,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="btnPricing"><a href="#">Забронировать</a></div>
+					<!-- <div class="btnPricing"><a href="#">Забронировать</a></div> -->
 				</div>
 			</div>
 
