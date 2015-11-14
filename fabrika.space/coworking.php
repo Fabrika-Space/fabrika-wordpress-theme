@@ -48,7 +48,7 @@ Template Name: coworking
 				</div>
 			</div>
 
-			<div class="section services">
+			<!--div class="section services">
 				<div class="sectionTitle">Услуги</div>
 				<div class="sectionContent">
 					<div class="itemsServices">
@@ -134,7 +134,7 @@ Template Name: coworking
 						</div>
 					</div>
 				</div>
-			</div>
+			</div-->
 
 			<div class="section">
 				<div class="sectionTitle">Карта</div>
