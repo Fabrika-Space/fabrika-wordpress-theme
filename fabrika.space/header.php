@@ -48,8 +48,8 @@
 					<li <?php if(is_page_template( 'allnews.php' )) {echo "class='act'"; }; ?>><a href="/News">Новости</a></li>
 					<li <?php if(is_page_template( 'allevents.php' )) {echo "class='act'"; }; ?>><a href="/Events">События</a></li>
 
-					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/coworking/" )) {echo "class='act'"; }; ?>><a href="/etc/coworking">Коворкинг</a></li>
-					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/confererence/" )) {echo "class='act'"; }; ?>><a href="/etc/confererence/">Конференц-сервис</a></li>
+					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/coworking/" )) {echo "class='act'"; }; ?>><a href="/coworking/">Коворкинг</a></li>
+					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/confererence/" )) {echo "class='act'"; }; ?>><a href="/etc/confererence/">Ивент-зона</a></li>
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/bar/" )) {echo "class='act'"; }; ?>><a href="/etc/bar/">Бар</a></li>
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/contacts/" )) {echo "class='act'"; }; ?>><a href="/etc/contacts/">Контакты</a></li>
 				</ul>
