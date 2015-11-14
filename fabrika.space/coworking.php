@@ -1,3 +1,8 @@
+<?php
+/*
+Template Name: coworking
+*/
+?>
 <?php get_header(); ?>
 
 
