@@ -40,7 +40,7 @@ get_header(); ?>
 						<ul>
 							<li><a href="http://facebook.com/fabrika.space/" class="icon_fb"></a></li>
 							<li><a href="http://twitter.com/_fabrika_" class="icon_tw"></a></li>
-							<!--li><a href="#" class="icon_pi"></a></li-->
+							<li><a href="https://foursquare.com/v/fabrika/55565bbf498eae863fff5b6c" class="icon_location"></a></li>
 						</ul>
 					</div>
 				</div>
