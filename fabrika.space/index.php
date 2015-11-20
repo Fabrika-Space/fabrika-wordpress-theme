@@ -11,14 +11,12 @@ get_header(); ?>
 			<!--**************** SLIDER ****************-->
 			<div class="slider">
 				<div class="innerSlider">
-					<div class="sliderItem" style="background-image: url('wp-content/uploads/2015/11/IMG_4046.jpg');" data-title="1 Этаж - Бар">
-					</div>
-					<div class="sliderItem" style="background-image: url('wp-content/uploads/2015/11/IMG_4027.jpg');" data-title="2 Этаж - Офисы">
-					</div>
-					<div class="sliderItem" style="background-image: url('wp-content/uploads/2015/11/IMG_3964.jpg');" data-title="3 Этаж - Конференц-зал">
-					</div>
-					<div class="sliderItem" style="background-image: url('wp-content/uploads/2015/11/IMG_4004.jpg');" data-title="4 Этаж - Коворкинг"></div>
+					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderBar.jpg');" data-title="1 Этаж - Бар"></div>
+					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/');" data-title="2 Этаж - Офисы"></div>
+					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderConferenceService.jpg');" data-title="3 Этаж - Конференц-зал"></div>
+					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderCoworking.jpg');" data-title="4 Этаж - Коворкинг"></div>
 				</div>
+
 				<div class="arrows">
 					<div class="leftArrow"></div>
 					<div class="rightArrow"></div>
@@ -82,7 +80,7 @@ get_header(); ?>
 					</a>
 					<a href="/etc/confererence/" class="item">
 						<div class="itemImg">
-							<img src="/wp-content/themes/fabrika.space/img/conference-service.jpg" />
+							<img src="/wp-content/themes/fabrika.space/img/conferenceService.jpg" />
 						</div>
 						<div class="itemLayerOverImg">
 							<div class="itemTitle">Конференц-сервис</div>
