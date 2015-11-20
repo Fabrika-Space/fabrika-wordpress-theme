@@ -66,7 +66,7 @@ get_header(); ?>
 
 			<!--**************** PARTS_OF_BUILDING ****************-->
 			<div class="section partsOfBuilding">
-				<div class="sectionTitle">Их есть у нас</div>
+				<div class="sectionTitle">Мы</div>
 				<div class="sectionContent">
 					<a href="/etc/coworking/" class="item">
 						<div class="itemImg">
@@ -75,7 +75,7 @@ get_header(); ?>
 						<div class="itemLayerOverImg">
 							<div class="itemTitle">Коворкинг</div>
 							<div class="itemDesc">
-								<div class="txt">Nunc et aliquam est. Praesent nec ante mauris. Nullam sit amet ante enim. Curabitur interdum in arcu sed tincidunt. Mauris iaculis, nisi nec .</div>
+								<div class="txt">Коворкинг – все, что нужно для фрилансера или небольшой компании</div>
 								<span class="readMore">read more</span>
 							</div>
 						</div>
@@ -87,7 +87,7 @@ get_header(); ?>
 						<div class="itemLayerOverImg">
 							<div class="itemTitle">Конференц-сервис</div>
 							<div class="itemDesc">
-								<div class="txt">Nunc et aliquam est. Praesent nec ante mauris. Nullam sit amet ante enim. Curabitur interdum in arcu sed tincidunt. Mauris iaculis, nisi nec .</div>
+								<div class="txt">Event zone - площадка концентрации разнообразных мероприятий</div>
 								<span class="readMore">read more</span>
 							</div>
 						</div>
@@ -99,7 +99,7 @@ get_header(); ?>
 						<div class="itemLayerOverImg">
 							<div class="itemTitle">Бар</div>
 							<div class="itemDesc">
-								<div class="txt">Nunc et aliquam est. Praesent nec ante mauris. Nullam sit amet ante enim. Curabitur interdum in arcu sed tincidunt. Mauris iaculis, nisi nec .</div>
+								<div class="txt">Бар – любимое место всех гостей: оптимальное для переговоров, отдыха и общения</div>
 								<span class="readMore">read more</span>
 							</div>
 						</div>
