@@ -154,7 +154,7 @@ Template Name: coworking
 			<div class="section coworkingFriendly">
 				<div class="sectionTitle">Coworking friendly</div>
 				<div class="sectionContent">
-					<div class="descriptionCoworkingFriendly">Наши резиденты могут воспользоваться бесплатным днем для работы в коворкинг-сеть наших партнеров во Львове.</div>
+					<div class="descriptionCoworkingFriendly">Резиденты Фабрики могут воспользоваться бесплатным днем для работы в коворкингах наших партнеров во Львове и Киеве.</div>
 					<div class="itemsCoworkingFriendly">
 						<div class="item">
 							<div class="city">Львов</div>
@@ -168,8 +168,21 @@ Template Name: coworking
 								+38 (096) 96-93-641
 							</div>
 						</div>
+						<div class="item">
+							<div class="city">Киев</div>
+							<div class="space">Часопис</div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/friends/logoChasopys.jpg" /></div>
+							<div class="itemContacts">
+								<a href="http://coworking.chasopys.ua" target="_blank">http://coworking.chasopys.ua</a>
+								<br />
+								<a href="mailto:coworking@chasopys.kiev.ua">coworking@chasopys.kiev.ua</a>
+								<br />
+								+38 (095) 20-68-621
+							</div>
+						</div>
 					</div>
 				</div>
+
 			</div>
 
 		</div><!-- end #content-->
