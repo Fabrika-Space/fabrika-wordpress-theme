@@ -13,7 +13,7 @@ get_header(); ?>
 				<div class="innerSlider">
 					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderBar.jpg');" data-title="1 Этаж - Бар"></div>
 					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderOffices.jpg');" data-title="2 Этаж - Офисы"></div>
-					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderConferenceService.jpg');" data-title="3 Этаж - Конференц-зал"></div>
+					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderConferenceService.jpg');" data-title="3 Этаж - Event Zone"></div>
 					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderCoworking.jpg');" data-title="4 Этаж - Коворкинг"></div>
 				</div>
 
@@ -83,9 +83,9 @@ get_header(); ?>
 							<img src="/wp-content/themes/fabrika.space/img/conferenceService.jpg" />
 						</div>
 						<div class="itemLayerOverImg">
-							<div class="itemTitle">Конференц-сервис</div>
+							<div class="itemTitle">Event Zone</div>
 							<div class="itemDesc">
-								<div class="txt">Event zone - площадка концентрации разнообразных мероприятий</div>
+								<div class="txt">Event Zone - площадка концентрации разнообразных мероприятий</div>
 								<span class="readMore">read more</span>
 							</div>
 						</div>
