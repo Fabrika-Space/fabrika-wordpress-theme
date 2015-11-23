@@ -137,7 +137,7 @@ Template Name: coworking
 				</div>
 			</div-->
 
-			<div class="section">
+			<div class="section coworkingMap">
 				<div class="sectionTitle">Карта</div>
 				<div class="sectionContent">
 					<img src="/wp-content/themes/fabrika.space/img/map.png" />
