@@ -22,7 +22,7 @@ Template Name: coworking
 				<div class="sectionContent">
 					<div class="priceCategory">
 						<div class="head">
-							<div class="img"><img src="img/imgDev.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgDev.png" /></div>
 							<div class="title">Для одного человека</div>
 						</div>
 						<div class="body">
@@ -99,7 +99,7 @@ Template Name: coworking
 
 					<div class="priceCategory">
 						<div class="head">
-							<div class="img"><img src="img/imgTeam.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgTeam.png" /></div>
 							<div class="title">Командам</div>
 						</div>
 						<div class="body">
@@ -122,61 +122,61 @@ Template Name: coworking
 				<div class="sectionContent">
 					<div class="itemsServices">
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceInternet.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceInternet.png" /></div>
 							<div class="title">бесплатный<br /> скоростной<br /> интернет</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceSkypeRooms.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceSkypeRooms.png" /></div>
 							<div class="title">3 отдельные комнаты<br /> для скайп<br /> переговоров и<br /> телефонных звонков</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceCookies.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceCookies.png" /></div>
 							<div class="title">бесплатные<br /> печеньки</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceCoffeeAndTea.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceCoffeeAndTea.png" /></div>
 							<div class="title">бесплатные<br /> кофе и чай </div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceWorktime.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceWorktime.png" /></div>
 							<div class="title">работаем<br /> семь дней в неделю<br /> с девяти до девяти</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceMarkerBoard.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceMarkerBoard.png" /></div>
 							<div class="title">маркерная доска</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceRestroomOnTheRoof.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceRestroomOnTheRoof.png" /></div>
 							<div class="title">зона отдыха<br /> на крыше</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServicePrinter.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServicePrinter.png" /></div>
 							<div class="title">принтер,<br /> сканер</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceMeetingRoom.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceMeetingRoom.png" /></div>
 							<div class="title">комната для<br /> переговоров</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceBar.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceBar.png" /></div>
 							<div class="title">бар и ресторан<br /> на 1 этаже</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceKitchen.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceKitchen.png" /></div>
 							<div class="title">кухня:<br /> холодильник,<br /> тостер,<br /> чайник,<br /> вода и кофемашина</div>
 						</div>
 
 						<div class="subtitleServices">Будет в ближайшее время</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServicePersonalLocker.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServicePersonalLocker.png" /></div>
 							<div class="title">шкафчики под ключ<br /> для личных вещей</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceShower.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceShower.png" /></div>
 							<div class="title">душ</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/services/imgServiceProjector.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceProjector.png" /></div>
 							<div class="title">зал с проектором<br /> для лекций<br /> и мастерклассов<br /> на 20-30 человек</div>
 						</div>
 					</div>
@@ -205,7 +205,7 @@ Template Name: coworking
 						<div class="item">
 							<div class="city">Львов</div>
 							<div class="space">Startup depot</div>
-							<div class="img"><img src="img/friends/logoStartupdepot.jpg" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/friends/logoStartupdepot.jpg" /></div>
 							<div class="itemContacts">
 								<a href="http://startupdepot.lviv.ua" target="_blank">http://startupdepot.lviv.ua</a>
 								<br />
@@ -217,7 +217,7 @@ Template Name: coworking
 						<div class="item">
 							<div class="city">Киев</div>
 							<div class="space">Часопис</div>
-							<div class="img"><img src="img/friends/logoChasopys.jpg" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/friends/logoChasopys.jpg" /></div>
 							<div class="itemContacts">
 								<a href="http://coworking.chasopys.ua" target="_blank">http://coworking.chasopys.ua</a>
 								<br />
@@ -229,7 +229,7 @@ Template Name: coworking
 						<div class="item">
 							<div class="city">Одесса</div>
 							<div class="space">ТЕРМИНАЛ42</div>
-							<div class="img"><img src="img/friends/logoTerminal24.jpg" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/friends/logoTerminal24.jpg" /></div>
 							<div class="itemContacts">
 								<a href="http://terminal42.com.ua/" target="_blank">http://terminal42.com.ua/</a>
 								<br />
