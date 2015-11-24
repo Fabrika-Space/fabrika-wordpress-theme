@@ -7,7 +7,7 @@ Template Name: coworking
 
 
 	<!--**************** MAIN ****************-->
-	<div id="main" class="coworkingMain">
+	<div id="main" class="pageStyleLikeHome coworkingMain">
 		<!--**************** CONTENT ****************-->
 		<div id="content" class="clear">
 			<h1>Коворкинг</h1>
