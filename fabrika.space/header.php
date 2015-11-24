@@ -54,7 +54,7 @@
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/contacts/" )) {echo "class='act'"; }; ?>><a href="/etc/contacts/">Контакты</a></li>
 				</ul>
 			</div>
-			<a href="#" class="logo"><img src="/wp-content/themes/fabrika.space/img/logo.png" /></a>
+			<a href="#" class="logo"><img src="/wp-content/themes/fabrika.space/img/logo.svg" /></a>
 		</div>
 	</header><!-- end #header-->
 
