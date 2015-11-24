@@ -12,130 +12,176 @@ Template Name: coworking
 		<div id="content" class="clear">
 			<h1>Коворкинг</h1>
 			
-			<div class="post clear">				
-				На четвертом этаже Фабрики расположился уютный коворкинг. Мы постарались создать атмосферу с домашним уютом и полноценной рабочей обстановкой.
-
-				Здесь вы получите все необходимые условия: оргтехника, свободный доступ Интернет, удобные столы и стулья. Кроме этого есть оборудованная кухня, где можно приготовить тосты с вкусным чаем или ароматным кофе.		
+			<div class="simpleTextBlock">
+				<p>На четвертом этаже Фабрики расположился уютный коворкинг. Мы постарались создать атмосферу с домашним уютом и полноценной рабочей обстановкой.</p>
+				<p>Здесь вы получите все необходимые условия: оргтехника, свободный доступ Интернет, удобные столы и стулья. Кроме этого есть оборудованная кухня, где можно приготовить тосты с вкусным чаем или ароматным кофе.</p>
 			</div>
 
 			<div class="section pricing">
 				<div class="sectionTitle">цены</div>
 				<div class="sectionContent">
-					<div class="pricingTypes">
-						<div class="pricingType">
-							<span class="titlePricingType">Фиксированное место</span>
-							<div class="listPricingType">
-								<div>1 день — 150 грн</div>
-								<div>5 дней — 600 грн</div>
-								<div>10 дней — 1 300 грн</div>
-								<div>Месяц — 2 600 грн</div>
-							</div>
+					<div class="priceCategory">
+						<div class="head">
+							<div class="img"><img src="img/imgDev.png" /></div>
+							<div class="title">Для одного человека</div>
 						</div>
-						<div class="pricingType">
-							<span class="titlePricingType">Плавающее место</span>
-							<div class="listPricingType">
-								<div>1 день — 150 грн</div>
-								<div>5 дней — 600 грн</div>
-								<div>10 дней — 1 200 грн</div>
-								<div>Месяц — 2 400 грн</div>
+						<div class="body">
+							<div class="typePriceCategories">
+								<div class="typePriceCategory">
+									<span class="title">На короткое время</span>
+									<div class="table">
+										<table>
+											<tr>
+												<td>1 час</td>
+												<td>—</td>
+												<td>50 грн</td>
+											</tr>
+											<tr>
+												<td>2-й час</td>
+												<td>—</td>
+												<td>30 грн</td>
+											</tr>
+											<tr>
+												<td>3-й час</td>
+												<td>—</td>
+												<td>20 грн</td>
+											</tr>
+											<tr class="border">
+												<td>1 день</td>
+												<td>—</td>
+												<td>150 грн</td>
+											</tr>
+											<tr>
+												<td>5 дней</td>
+												<td>—</td>
+												<td>600 грн</td>
+											</tr>
+										</table>
+									</div>
+								</div>
+								<div class="typePriceCategory">
+									<span class="title">Фиксированное место</span>
+									<div class="table">
+										<table>
+											<tr>
+												<td>10 дней</td>
+												<td>—</td>
+												<td>1300 грн</td>
+											</tr>
+											<tr>
+												<td>1 месяц</td>
+												<td>—</td>
+												<td>2600 грн</td>
+											</tr>
+										</table>
+									</div>
+								</div>
+								<div class="typePriceCategory">
+									<span class="title">Плавающее место</span>
+									<div class="table">
+										<table>
+											<tr>
+												<td>10 дней</td>
+												<td>—</td>
+												<td>1200 грн</td>
+											</tr>
+											<tr>
+												<td>1 месяц</td>
+												<td>—</td>
+												<td>2400 грн</td>
+											</tr>
+										</table>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
-					<!--div class="listPricingType">
-						1 час - 50 грн, каждый следующий - 30 грн
-					</div-->
+
+					<div class="priceCategory">
+						<div class="head">
+							<div class="img"><img src="img/imgTeam.png" /></div>
+							<div class="title">Командам</div>
+						</div>
+						<div class="body">
+							<div class="teamPricing">
+								<div class="titlePriceTeam">Три человека — 7200 грн в месяц</div>
+								<div class="notePriceTeam">(3 фиксированных места по цене не фиксированных)</div>
+								<div class="txtPriceTeam">Больше трех человек — оговаривается индивидуально</div>
+							</div>
+						</div>
+					</div>
+
 					<!-- <div class="btnPricing"><a href="#">Забронировать</a></div> -->
-					&nbsp;* До конца 2015 года действуют специальная скидка -50%!
+
+					<div class="priceDiscount">* До конца 2015 года действуект специальная скидка— 50%!</div>
 				</div>
 			</div>
 
-			<!--div class="section services">
+			<div class="section services">
 				<div class="sectionTitle">Услуги</div>
 				<div class="sectionContent">
 					<div class="itemsServices">
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем<br />круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceInternet.png" /></div>
+							<div class="title">бесплатный<br /> скоростной<br /> интернет</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceSkypeRooms.png" /></div>
+							<div class="title">3 отдельные комнаты<br /> для скайп<br /> переговоров и<br /> телефонных звонков</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceCookies.png" /></div>
+							<div class="title">бесплатные<br /> печеньки</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceCoffeeAndTea.png" /></div>
+							<div class="title">бесплатные<br /> кофе и чай </div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceWorktime.png" /></div>
+							<div class="title">работаем<br /> семь дней в неделю<br /> с девяти до девяти</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceMarkerBoard.png" /></div>
+							<div class="title">маркерная доска</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceRestroomOnTheRoof.png" /></div>
+							<div class="title">зона отдыха<br /> на крыше</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServicePrinter.png" /></div>
+							<div class="title">принтер,<br /> сканер</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceMeetingRoom.png" /></div>
+							<div class="title">комната для<br /> переговоров</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceBar.png" /></div>
+							<div class="title">бар и ресторан<br /> на 1 этаже</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceKitchen.png" /></div>
+							<div class="title">кухня:<br /> холодильник,<br /> тостер,<br /> чайник,<br /> вода и кофемашина</div>
+						</div>
+
+						<div class="subtitleServices">Будет в ближайшее время</div>
+						<div class="item">
+							<div class="img"><img src="img/services/imgServicePersonalLocker.png" /></div>
+							<div class="title">шкафчики под ключ<br /> для личных вещей</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceShower.png" /></div>
+							<div class="title">душ</div>
 						</div>
 						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
-						</div>
-						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
-						</div>
-						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
-						</div>
-						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
-						</div>
-						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
-						</div>
-						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
-						</div>
-						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
-						</div>
-						<div class="item">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgItemService.jpg" /></div>
-							<div class="title">Работаем круглосуточно</div>
+							<div class="img"><img src="img/services/imgServiceProjector.png" /></div>
+							<div class="title">зал с проектором<br /> для лекций<br /> и мастерклассов<br /> на 20-30 человек</div>
 						</div>
 					</div>
 				</div>
-			</div-->
+			</div>
 
 			<div class="section coworkingMap">
 				<div class="sectionTitle">Карта</div>
@@ -154,12 +200,12 @@ Template Name: coworking
 			<div class="section coworkingFriendly">
 				<div class="sectionTitle">Coworking friendly</div>
 				<div class="sectionContent">
-					<div class="descriptionCoworkingFriendly">Резиденты Фабрики могут воспользоваться бесплатным днем для работы в коворкингах наших партнеров во Львове и Киеве.</div>
+					<div class="descriptionCoworkingFriendly">Наши резиденты могут воспользоваться бесплатным днем для работы в коворкинг-сеть наших партнеров: во Львове, Харькове, Одессе и Минске.</div>
 					<div class="itemsCoworkingFriendly">
 						<div class="item">
 							<div class="city">Львов</div>
 							<div class="space">Startup depot</div>
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/friends/logoStartupdepot.jpg" /></div>
+							<div class="img"><img src="img/friends/logoStartupdepot.jpg" /></div>
 							<div class="itemContacts">
 								<a href="http://startupdepot.lviv.ua" target="_blank">http://startupdepot.lviv.ua</a>
 								<br />
@@ -171,7 +217,7 @@ Template Name: coworking
 						<div class="item">
 							<div class="city">Киев</div>
 							<div class="space">Часопис</div>
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/friends/logoChasopys.jpg" /></div>
+							<div class="img"><img src="img/friends/logoChasopys.jpg" /></div>
 							<div class="itemContacts">
 								<a href="http://coworking.chasopys.ua" target="_blank">http://coworking.chasopys.ua</a>
 								<br />
@@ -180,9 +226,20 @@ Template Name: coworking
 								+38 (095) 20-68-621
 							</div>
 						</div>
+						<div class="item">
+							<div class="city">Одесса</div>
+							<div class="space">ТЕРМИНАЛ42</div>
+							<div class="img"><img src="img/friends/logoTerminal24.jpg" /></div>
+							<div class="itemContacts">
+								<a href="http://terminal42.com.ua/" target="_blank">http://terminal42.com.ua/</a>
+								<br />
+								<a href="mailto:info@terminal42.com.ua">info@terminal42.com.ua</a>
+								<br />
+								+38 (048) 735-72-75
+							</div>
+						</div>
 					</div>
 				</div>
-
 			</div>
 
 		</div><!-- end #content-->

@@ -124,6 +124,10 @@
 		margin: 0 auto;
 	}
 
+	.priceCategory .body .typePriceCategory {
+		width: 260px;
+		margin-left: 10px;
+	}
 }
 
 @media screen and (max-width: 899px) {
@@ -510,22 +514,36 @@
 	.postDate {
 		left: 30px;
 	}
-	.innerPage #main.coworkingMain {
+
+	.simpleTextBlock {
+		padding: 40px 30px 30px 30px;
+	}
+	.innerPage #main.pageStyleLikeHome {
 		background: #fff;
 		padding-top: 0;
 	}
-	.innerPage .coworkingMain #content {
+	.innerPage #main.pageStyleLikeHome #content {
 		padding-top: 0;
 	}
-	.innerPage .coworkingMain #content h1 {
+	.innerPage #main.pageStyleLikeHome #content h1 {
 		position: static;
 		margin-bottom: 20px;
 	}
-	.section.services .sectionContent .itemsServices {
-		text-align: center;
-	}
 	.section.coworkingFriendly .itemsCoworkingFriendly {
 		text-align: center;
+	}
+
+	.priceCategory .body .typePriceCategory,
+	.priceCategory .body .typePriceCategory:first-child {
+		margin: 0 auto;
+		display: block;
+	}
+	.priceCategory {
+		margin: 0 30px;
+	}
+	.priceCategory .body .notePriceTeam:after {
+		width: 200px;
+		margin-left: -100px;
 	}
 }
 

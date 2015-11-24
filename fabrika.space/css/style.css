@@ -190,7 +190,7 @@ input[type="password"] {
 
 .logo {
 	float: left;
-	margin: 36px 0 0 50px;
+	margin: 30px 0 0 50px;
 	line-height: 100px;
 	font-size: 0;
 }
@@ -198,11 +198,13 @@ input[type="password"] {
 .logo img {
 	display: block;
 	vertical-align: middle;
+	width: 211px;
 }
 
 .mainMenu {
 	float: right;
 	position: relative;
+	padding-right: 25px;
 }
 
 .mainMenu ul {
@@ -215,7 +217,7 @@ input[type="password"] {
 
 .mainMenu ul li {
 	display: inline-block;
-	margin: 0 0 0 30px;
+	margin: 0 0 0 25px;
 	padding: 0;
 	position: relative;
 }
@@ -233,6 +235,7 @@ input[type="password"] {
 	cursor: pointer;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	letter-spacing: -0.5px;
 }
 
 .mainMenu .actLine {
@@ -559,12 +562,6 @@ input[type="password"] {
 	background-position: -136px 0;
 	width: 17px;
 	height: 22px;
-}
-
-.introduction .blockContacts .social .icon_location {
-	background-position: -52px 0;
-	width: 15px;
-	height: 20px;
 }
 
 .introductionText {
@@ -1400,26 +1397,43 @@ input[type="password"] {
 
 /***** coworkingPage ******/
 
-.innerPage #main.coworkingMain {
-	padding-top: 750px;
-	padding-bottom: 0;
-	background: #cfccc8 url('../img/coverCoworking.jpg') no-repeat center top;
+.simpleTextBlock {
+	background: #fff;
+	padding: 67px 50px 50px 50px;
+	margin-bottom: 20px;
 }
 
-.innerPage .coworkingMain + #footer {
+.innerPage #main.coworkingMain {
+	padding-top: 750px;
+	background-image: url('../img/coverCoworking.jpg');
+}
+
+.innerPage #main.contactsMain {
+	padding-top: 750px;
+	background-image: url('../img/coverContacts.jpg');
+}
+
+.innerPage #main.pageStyleLikeHome {
+	background-color: #cfccc8;
+	padding-bottom: 0;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.innerPage #main.pageStyleLikeHome + #footer {
 	position: static;
 	background: #cfccc8;
 }
 
-.innerPage .coworkingMain + #footer .footContacts {
+.innerPage #main.pageStyleLikeHome + #footer .footContacts {
 	padding-bottom: 0;
 }
 
-.innerPage .coworkingMain #content {
+.innerPage .pageStyleLikeHome #content {
 	position: relative;
 }
 
-.innerPage .coworkingMain #content h1 {
+.innerPage #main.pageStyleLikeHome #content h1 {
 	position: absolute;
 	left: 0;
 	bottom: 100%;
@@ -1429,58 +1443,173 @@ input[type="password"] {
 	box-sizing: border-box;
 }
 
+
+
+
+
+
 .section.pricing .sectionTitle {
 	border-bottom: 1px solid #dddad7;
 }
 
 .section.pricing .sectionContent {
 	background: #fff;
+	padding-top: 20px;
 	padding-bottom: 40px;
 }
 
-.pricingTypes {
+.priceCategory {
+	margin: 0 50px;
+}
+
+.priceCategory .head {
 	text-align: center;
-	padding: 45px 0 0 0;
+	padding: 20px 0;
+	border-bottom: 1px solid #ccc;
 }
 
-.pricingTypes .pricingType {
+.priceCategory .head .img {
+
+}
+
+.priceCategory .head .title {
+	font-weight: 700;
+	font-size: 28px;
+	color: #333333;
+	line-height: 1;
+	padding-top: 3px;
+}
+
+.priceCategory .body {
+	text-align: center;
+	font-size: 24px;
+	color: #333333;
+}
+
+.priceCategory .body .typePriceCategories {
+	font-size: 0;
+}
+
+.priceCategory .body .typePriceCategory {
 	display: inline-block;
-	width: 400px;
-	max-width: 100%;
-	padding-bottom: 40px;
+	vertical-align: top;
+	width: 300px;
+	margin-left: 100px;
+	padding-top: 50px;
 }
 
-.pricingTypes .pricingType .titlePricingType {
+.priceCategory .body .typePriceCategory:first-child {
+	margin-left: 0;
+}
+
+.priceCategory .body .typePriceCategory .title {
+	display: block;
 	font-weight: 700;
 	font-size: 24px;
 	color: #333333;
-	display: block;
-	padding-bottom: 30px;
+	line-height: 1;
 }
 
-.pricingTypes .pricingType .listPricingType {
-	font-size: 24px;
-	color: #333333;
-	line-height: 48px;
+.priceCategory .body .typePriceCategory .table {
+	padding-top: 30px;
 }
+
+.priceCategory .body .typePriceCategory .table table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.priceCategory .body .typePriceCategory .table table tr,
+.priceCategory .body .typePriceCategory .table table tr td {
+	margin: 0;
+	padding: 0;
+}
+
+.priceCategory .body .typePriceCategory .table table tr td {
+	text-align: left;
+	padding: 15px 0;
+	font-size: 24px;
+	color: #333;
+}
+
+.priceCategory .body .typePriceCategory .table table tr td:first-child {
+	text-align: right;
+}
+
+.priceCategory .body .typePriceCategory .table table tr td:nth-child(2) {
+	width: 40px;
+	text-align: center;
+}
+
+.priceCategory .body .typePriceCategory .table table tr.border td {
+	border-top: 1px solid #ccc;
+	padding-top: 30px;
+}
+
+.priceCategory .body .teamPricing {
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 34px;
+}
+
+.priceCategory .body .titlePriceTeam {
+	padding: 38px 0 12px 0;
+}
+
+.priceCategory .body .notePriceTeam {
+	font-size: 18px;
+	padding-bottom: 12px;
+	margin-bottom: 36px;
+	position: relative;
+}
+
+.priceCategory .body .notePriceTeam:after {
+	content: '';
+	width: 300px;
+	height: 1px;
+	background: #ccc;
+	display: block;
+	position: absolute;
+	left: 50%;
+	bottom: 0;
+	margin-left: -150px;
+}
+
+.priceCategory .body .txtPriceTeam {
+	padding-bottom: 48px;
+}
+
+
 
 .btnPricing {
 	text-align: center;
+	padding-bottom: 25px;
 }
 
 .btnPricing a {
 	display: inline-block;
 	height: 58px;
 	line-height: 58px;
-	padding: 0 45px;
-	border: 1px solid #cfccc8;
+	width: 300px;
+	border: 1px solid #333333;
+	border-bottom-width: 2px;
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 24px;
-	color: #333333;
+	color: #000;
 	cursor: pointer;
 	text-decoration: none;
 }
+
+.priceDiscount {
+	text-align: center;
+	font-size: 18px;
+	color: #333333;
+	margin: 0 30px;
+}
+
+
+
 
 .section.services .sectionTitle {
 	border-bottom: 1px solid #dddad7;
@@ -1490,18 +1619,26 @@ input[type="password"] {
 	background: #fff;
 }
 
+.section.services .sectionContent .subtitleServices {
+	font-weight: 700;
+	font-size: 27px;
+	color: #333333;
+	padding: 10px 0 50px 0;
+}
+
 .section.services .sectionContent .itemsServices {
 	max-width: 1000px;
 	margin: 0 auto;
 	font-size: 0;
-	padding: 40px 0 10px 0;
+	padding: 60px 0 30px 0;
+	text-align: center;
 }
 
 .section.services .sectionContent .itemsServices .item {
 	text-align: center;
 	display: inline-block;
 	vertical-align: top;
-	margin: 0 0 30px 0;
+	margin: 0 0 50px 0;
 	width: 200px;
 }
 
@@ -1510,8 +1647,10 @@ input[type="password"] {
 }
 
 .section.services .sectionContent .itemsServices .item .title {
-	font-size: 14px;
-	line-height: 18px;
+	font-size: 18px;
+	color: #333;
+	line-height: 21px;
+	padding-top: 26px;
 }
 
 
@@ -1574,6 +1713,7 @@ input[type="password"] {
 .section.coworkingFriendly .itemsCoworkingFriendly .item .img img {
 	vertical-align: middle;
 	max-width: 100%;
+	max-height: 220px;
 }
 
 .section.coworkingFriendly .itemsCoworkingFriendly .item .img:after {
