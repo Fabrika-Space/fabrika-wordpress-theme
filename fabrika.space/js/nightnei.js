@@ -69,11 +69,11 @@ $(document).ready(function(){
 	});
 
 	$('.events').each(function(){
-		var currentMarginLeft = 0;
 		var parentNode = $(this);
 		var wrapper = parentNode.find('.innerListItems');
 		var length = wrapper.find('.item').length;
 		var slideWidth = wrapper.find('.item').width();
+		var currentMarginLeft = - ( $(this).find('.listItems .item').last().offset().left + slideWidth - $(this).find('.listItems').width() );
 
 		wrapper.width(length*slideWidth);
 
