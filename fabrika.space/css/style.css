@@ -740,6 +740,7 @@ input[type="password"] {
 	background: #fff;
 	display: block;
 	text-decoration: none;
+	height: 400px;
 }
 
 .news .lastnews .imgLastnews {
