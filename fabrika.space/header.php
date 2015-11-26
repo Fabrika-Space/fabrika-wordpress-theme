@@ -51,7 +51,7 @@
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/coworking/" )) {echo "class='act'"; }; ?>><a href="/coworking/">Коворкинг</a></li>
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/confererence/" )) {echo "class='act'"; }; ?>><a href="/etc/confererence/">Ивент-зона</a></li>
 					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/bar/" )) {echo "class='act'"; }; ?>><a href="/etc/bar/">Бар</a></li>
-					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/contacts/" )) {echo "class='act'"; }; ?>><a href="/etc/contacts/">Контакты</a></li>
+					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/contacts/" )) {echo "class='act'"; }; ?>><a href="/contacts/">Контакты</a></li>
 				</ul>
 			</div>
 			<a href="#" class="logo"><img src="/wp-content/themes/fabrika.space/img/logo.svg" /></a>

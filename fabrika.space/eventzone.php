@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: coworking
+Template Name: event-zone
 */
 ?>
 <?php get_header(); ?>
@@ -9,7 +9,7 @@ Template Name: coworking
 	<div id="main" class="pageStyleLikeHome eventzoneMain">
 		<!--**************** CONTENT ****************-->
 		<div id="content" class="clear">
-			<h1>Ивент-зоны</h1>
+			<h1>Ивент-зона</h1>
 
 			<div class="section eventRooms bgWhite">
 				<div class="sectionTitle borderBottomTitle">три пространства в фабрике</div>
