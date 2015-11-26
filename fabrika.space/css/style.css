@@ -2107,7 +2107,7 @@ input[type="password"] {
 .section.menuBar .contentMenuBar {
 	float: left;
 	width: 800px;
-	padding-top: 30px;
+	padding: 60px 0;
 }
 
 .section.menuBar .contentMenuBar .categoryMenuBar {
@@ -2120,6 +2120,7 @@ input[type="password"] {
 	font-weight: 700;
 	text-transform: uppercase;
 	padding: 0 0 20px 0;
+	cursor: pointer;
 }
 
 .section.menuBar .contentMenuBar .categoryMenuBar .titleCategoryMenuBar:after {
@@ -2182,13 +2183,375 @@ input[type="password"] {
 	display: block;
 }
 
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage {
+
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .img {
+	margin-left: 200px;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .img img {
+	width: 100%;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data {
+	float: left;
+	width: 200px;
+	padding-top: 6px;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data .title {
+	font-size: 20px;
+	color: #fff;
+	font-weight: 700;
+	display: block;
+	margin-bottom: 18px;
+	padding: 0 10px;
+	line-height: 1;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data .title div:before {
+	content: '';
+	position: absolute;
+	left: -20px;
+	top: 0;
+	padding-bottom: 0;
+	width: 20px;
+	height: 100%;
+	background: #000;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data .title div {
+	background: #000;
+	display: inline;
+	position: relative;
+	left: 10px;
+	z-index: 2;
+	padding: 4px 0;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data .title div span {
+	position: relative;
+    left: -10px;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data .desc {
+	font-size: 16px;
+	color: #666666;
+	display: block;
+	line-height: 1;
+	padding-bottom: 18px;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data .price {
+	font-size: 18px;
+	color: #000;
+	font-weight: 700;
+	display: block;
+	padding-bottom: 18px;
+}
+
 
 
 .section.menuBar .rightSidebarMenuBar {
 	float: left;
 	width: 400px;
+	padding: 24px 0 0 0;
 }
 
+.section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar {
+	padding: 0 50px;
+	border-bottom: 1px solid #dddad7;
+}
+
+.section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar .h2 {
+	font-size: 24px;
+	color: #000;
+	font-weight: 700;
+	display: block;
+	text-align: center;
+	padding: 36px 0 24px 0;
+	text-transform: uppercase;
+}
+
+.section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar .item {
+	position: relative;
+	padding-bottom: 44px;
+}
+
+.section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar .item .txt {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+
+}
+
+.section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar .item .txt .title {
+	background: rgba(0,0,0,0.5);
+	font-size: 20px;
+	color: #fff;
+	line-height: 20px;
+	padding: 25px 20px;
+	display: block;
+}
+
+.section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar .item .txt .price {
+	background: #000;
+	display: inline-block;
+	background: #000;
+	font-size: 18px;
+	color: #fff;
+	height: 35px;
+	line-height: 35px;
+	padding: 0 20px;
+}
+
+.section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar .item .img {
+	margin-bottom: 12px;
+}
+
+.section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar .item .desc {
+	font-size: 15px;
+	line-height: 20px;
+	color: #333333;
+	display: block;
+}
+
+.section.reservation {
+
+}
+
+.section.reservation .sectionContent {
+	padding: 50px 50px 30px 50px;
+}
+
+.section.reservation .select {
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.section.reservation .select:before {
+	content: '';
+	position: absolute;
+	right: 10px;
+	top: 15px;
+	border-width: 5px 3px 0 3px;
+	border-color: #333 transparent transparent transparent;
+	border-style: solid;
+}
+
+.section.reservation .select select {
+	width: 150px;
+	height: 35px;
+	border: 1px solid #cccccc;
+	border-radius: 0;
+	-webkit-appearance: initial;
+	background: #fff;
+	padding-left: 13px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background: none;
+	position: relative;
+	z-index: 2;
+}
+
+.section.reservation .data {
+	margin-bottom: 18px;
+	font-size: 0;
+}
+
+.section.reservation .data .numberPeople {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 20px 20px 0;
+}
+
+.section.reservation .data .date {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.section.reservation .data .date label {
+	width: 33px;
+	height: 33px;
+	border: 1px solid #cccccc;
+	border-right: none;
+	display: inline-block;
+	text-align: center;
+}
+
+.section.reservation .data .date label:before {
+	content: '';
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	margin: 9px 0 0 0;
+	background: url('../img/sprite.png') no-repeat -378px 0;
+}
+
+.section.reservation .data .date input {
+	width: 195px;
+}
+
+.section.reservation .data .time {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+	width: 121px;
+	margin-bottom: 20px;
+}
+
+.section.reservation .data .time label {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	vertical-align: middle;
+	background: url('../img/sprite.png') no-repeat -393px 0;
+}
+
+.section.reservation .data .time input {
+	width: 70px;
+	vertical-align: middle;
+	margin-left: 9px;
+	width: 96px;
+	padding-right: 0;
+}
+
+.section.reservation .data .name {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 25px 20px 0;
+}
+
+.section.reservation .data .name label {
+	width: 40px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.section.reservation .data .name input {
+	width: 200px;
+}
+
+.section.reservation .data .phone {
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 20px;
+}
+
+.section.reservation .data .phone label {
+	width: 115px;
+}
+
+.section.reservation .data .phone input {
+	width: 160px;
+}
+
+.section.reservation .data label {
+	font-size: 16px;
+	color: #333333;
+	font-weight: 700;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 4px 0;
+}
+
+.section.reservation .data input {
+	border: 1px solid #cccccc;
+	height: 35px;
+	line-height: 35px;
+	margin: 0;
+	padding: 0 13px;
+	font-size: 16px;
+	color: #333333;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	vertical-align: middle;
+}
+
+.section.reservation .textareaComment {
+	margin-bottom: 30px;
+}
+
+.section.reservation .textareaComment textarea{
+	width: 800px;
+	height: 74px;
+	border: 1px solid #cfccc8;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 12px;
+	font-size: 16px;
+	color: #333333;
+	resize: none;
+}
+
+.section.reservation .ourTel {
+	float: right;
+	width: 275px;
+	padding: 8px 0 0 25px;
+}
+
+.section.reservation .ourTel .title {
+	font-size: 16px;
+	color: #666666;
+}
+
+.section.reservation .ourTel .phone {
+	font-size: 16px;
+	color: #000;
+}
+
+.section.reservation .ourTel .desc {
+	display: block;
+	font-size: 13px;
+	color: #666666;
+	letter-spacing: -0.5px;
+	white-space: nowrap;
+	padding-top: 6px;
+}
+
+.section.reservation .note {
+	float: left;
+	font-size: 13px;
+	color: #999999;
+	line-height: 15px;
+	display: block;
+	margin: 14px 0 0 0;
+}
+
+.section.reservation .submit {
+	width: 400px;
+	margin: 0 auto;
+}
+
+.section.reservation .submit input {
+	border: 1px solid #cfccc8;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	display: block;
+	cursor: pointer;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-weight: 700;
+	font-size: 24px;
+	color: #000;
+	text-transform: uppercase;
+	background: none;
+}
 
 /*****************/
 /*****FOOTER******/

@@ -98,5 +98,17 @@ $(document).ready(function(){
 	$('.closeMainMenu').on('click', function(){
 		$('.mainMenu').removeClass('show');
 	});
+
+	$('.titleCategoryMenuBar').on('click', function(){
+		$(this).toggleClass('act');
+	});
+
+	Date.prototype.toDateInputValue = (function() {
+		var local = new Date(this);
+		local.setMinutes(this.getMinutes() - this.getTimezoneOffset());
+		return local.toJSON().slice(0,10);
+	});
+	var dateEl = document.querySelector('.reservation .date [type="date"]');
+	dateEl && dateEl.value = new Date().toDateInputValue();
 	
 });
