@@ -109,6 +109,6 @@ $(document).ready(function(){
 		return local.toJSON().slice(0,10);
 	});
 	var dateEl = document.querySelector('.reservation .date [type="date"]');
-	dateEl && dateEl.value = new Date().toDateInputValue();
+	dateEl && (dateEl.value = new Date().toDateInputValue());
 	
 });
