@@ -143,6 +143,35 @@
     	text-align: center;
     	width: auto;
     }
+
+    .section.menuBar .rightSidebarMenuBar,
+	.section.menuBar .sectionContent:before {
+		display: none;
+	}
+	.section.menuBar .contentMenuBar {
+		width: auto;
+		float: none;
+	}
+	.section.menuBar .contentMenuBar .categoryMenuBar {
+		padding: 0 50px;
+	}
+	.section.reservation .ourTel {
+		float: none;
+		padding: 0 0 15px 0;
+	}
+	.section.reservation .data {
+		margin-bottom: 0;
+	}
+	.section.reservation .note {
+		float: none;
+		margin: 0 0 25px 0;
+	}
+	.section.reservation .textareaComment {
+		margin-bottom: 10px;
+	}
+	.section.reservation .textareaComment textarea {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 899px) {
@@ -619,6 +648,55 @@
 		margin-left: 0;
 		margin-bottom: 50px;
 	}
+
+	.section.staffBar .listStaffBar .item {
+		margin: 0 30px 50px 30px;
+		width: 260px;
+	}
+	
+
+	.section.aboutBar .sectionContent:before {
+		display: none;
+	}
+	.section.aboutBar .txtAboutBar {
+		float: none;
+		width: auto;
+		padding: 30px;
+	}
+	.section.aboutBar .worktimeAboutBar {
+		float: none;
+		width: auto;
+		padding-top: 0;
+		padding-bottom: 50px;
+	}
+	.section.aboutBar .worktimeAboutBar .txt br {
+		display: none;
+	}
+	.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .img {
+		margin-left: 0;
+	}
+	.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data {
+		float: none;
+		width: auto;
+	}
+	.section.reservation .submit {
+		width: 260px;
+	}
+	.section.reservation .submit input {
+		font-size: 16px;
+	}
+	.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage {
+		margin-bottom: 50px;
+	}
+	.section.reservation .sectionContent {
+		padding: 30px;
+	}
+	.section.menuBar .contentMenuBar .categoryMenuBar {
+		padding: 0 30px;
+	}
+	.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listTxtItems .txtItem .title {
+		padding-right: 100px;
+	}
 }
 
 
@@ -646,4 +724,5 @@
 		top: -12px;
 		margin-right: -20px;
 	}
+
 }
