@@ -169,6 +169,13 @@ input[type="password"] {
 	display: none;
 }
 
+.bgWhite {
+	background: #fff;
+}
+
+.borderBottomTitle {
+	border-bottom: 1px solid #ceccc7;
+}
 
 /*****************/
 /******HEADER*****/
@@ -1510,6 +1517,15 @@ input[type="password"] {
 	line-height: 1;
 }
 
+.priceCategory .body .typePriceCategory .countPeople {
+	display: block;
+	font-weight: 700;
+	font-size: 18px;
+	color: #333333;
+	line-height: 1;
+	padding-top: 7px;
+}
+
 .priceCategory .body .typePriceCategory .table {
 	padding-top: 30px;
 }
@@ -1609,11 +1625,6 @@ input[type="password"] {
 }
 
 
-
-
-.section.services .sectionTitle {
-	border-bottom: 1px solid #dddad7;
-}
 
 .section.services .sectionContent {
 	background: #fff;
@@ -1748,6 +1759,434 @@ input[type="password"] {
 	display: inline-block;
 }
 
+
+
+
+
+
+
+/************ eventzone ************/
+
+
+.innerPage #main.eventzoneMain {
+	padding-top: 750px;
+	background-image: url('../img/coverEventzone.jpg');
+}
+
+.eventRooms {
+
+}
+
+.eventRooms .descEventRooms {
+	text-align: center;
+	padding: 30px 0 44px 0;
+	font-size: 24px;
+	color: #333333;
+}
+
+.eventRooms .listEventRooms {
+	font-size: 0;
+	text-align: center;
+	padding: 0 0 22px 0;
+}
+
+.eventRooms .listEventRooms .item {
+	width: 300px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	margin: 0 50px;
+}
+
+.eventRooms .listEventRooms .item .title {
+	font-size: 18px;
+	color: #333333;
+	line-height: 21px;
+	padding: 0 0 40px 0;
+}
+
+.eventRooms .listEventRooms .item .img {
+	padding: 0 0 22px 0;
+	height: 193px;
+}
+
+.eventRooms .listEventRooms .item .moreDetails {
+	padding: 0 0 22px 0;
+}
+
+.eventRooms .listEventRooms .item .moreDetails a {
+	font-size: 14px;
+	color: #000;
+}
+
+.eventzoneMain .section.services .sectionContent .itemsServices {
+	
+}
+
+.eventzoneMain .section.services .sectionContent .itemsServices .item {
+	width: 300px;
+}
+
+.roomsDescription {
+	margin: 0 50px;
+}
+
+.roomsDescription .item {
+	min-height: 300px;
+}
+
+.roomsDescription .item .img {
+	float: left;
+	width: 250px;
+	height: 250px;
+	background-blend-mode: multiply;
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+.roomsDescription .item .txt {
+	margin-left: 300px;
+	font-size: 18px;
+	color: #333333;
+	line-height: 21px;
+}
+
+.roomsDescription .item .txt .name {
+	font-size: 24px;
+	font-weight: 700;
+	vertical-align: bottom;
+}
+
+.roomsDescription .item .txt p {
+	font-size: inherit;
+	color: inherit;
+	margin: 0;
+	padding: 0 0 1em 0;
+}
+
+
+.services .priceCategory {
+	padding-bottom: 50px;
+}
+
+.txtHelpPricing {
+	font-size: 14px;
+	color: #333333;
+	text-align: center;
+	padding: 5px 10px 30px 10px;
+}
+
+.plansAndPhotosEventRooms {
+
+}
+
+.plansAndPhotosEventRooms .item {
+	position: relative;
+
+}
+
+.plansAndPhotosEventRooms .item .title {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	font-size: 24px;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+	color: #fff;
+
+}
+
+.plansAndPhotosEventRooms .item .img img {
+	width: 100%;
+}
+
+.plansAndPhotosEventRooms .item .map {
+	float: left;
+	width: 750px;
+}
+
+.plansAndPhotosEventRooms .item .map img {
+	max-width: 100%;
+}
+
+.bgTransparentRed {
+	background: rgba(204,0,0,0.5);
+}
+
+.bgTransparentBlue {
+	background: rgba(51,51,204,0.5);
+}
+
+.bgTransparentGreen {
+	background: rgba(102,153,0,0.5);
+}
+
+.plansAndPhotosEventRooms .item .lastEvent {
+	padding: 50px 0 50px 50px;
+	width: 350px;
+	float: left;
+}
+
+.plansAndPhotosEventRooms .item .lastEvent .titleLastEvent {
+	font-size: 18px;
+	line-height: 18px;
+	color: #000;
+	padding-bottom: 18px;
+}
+
+.plansAndPhotosEventRooms .item .lastEvent .imgLastEvent {
+	padding-bottom: 25px;
+}
+
+.plansAndPhotosEventRooms .item .lastEvent .imgLastEvent img {
+	width: 100%;
+}
+
+.plansAndPhotosEventRooms .item .lastEvent .txtLastEvent {
+	font-size: 16px;
+	line-height: 20.3px;
+	color: #666666;
+	overflow: hidden;
+	height: 42px;
+}
+
+.ourClients {
+
+}
+
+.listOurClients {
+	text-align: center;
+}
+
+.listOurClients .item {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 50px 20px;
+}
+
+
+
+
+
+/**************** BAR  *****************/
+.innerPage #main.barMain {
+	padding-top: 750px;
+	background-image: url('../img/coverBar.jpg');
+}
+
+.section.aboutBar {
+
+}
+
+.section.aboutBar .sectionContent {
+	position: relative;
+}
+
+.section.aboutBar .sectionContent:before {
+	content: '';
+	position: absolute;
+	right: 33.4%;
+	top: 0;
+	height: 100%;
+	border-left: 1px solid #ceccc7;
+
+}
+
+.section.aboutBar .txtAboutBar {
+	float: left;
+	width: 66.6%;
+	padding: 70px 50px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-size: 18px;
+	color: #666666;
+	line-height: 21px;
+}
+
+.section.aboutBar .worktimeAboutBar {
+	float: left;
+	width: 33.4%;
+	text-align: center;
+	padding: 30px 0 24px 0;
+}
+
+.section.aboutBar .worktimeAboutBar .txt {
+	font-size: 18px;
+	color: #666666;
+	line-height: 21px;
+	padding: 14px 0 26px 0;
+	position: relative;
+}
+
+.section.aboutBar .worktimeAboutBar .txt:after {
+	content: '';
+	position: absolute;
+	left: 50%;
+	bottom: 0;
+	margin-left: -7.5px;
+	width: 15px;
+	height: 21px;
+	display: block;
+	background: url('../img/sprite.png') no-repeat -363px top;
+}
+
+.section.staffBar {
+
+}
+
+.section.staffBar .listStaffBar {
+	font-size: 0;
+	padding: 25px 0 0 0;
+	text-align: center;
+}
+
+.section.staffBar .listStaffBar .item {
+	display: inline-block;
+	vertical-align: top;
+	width: 300px;
+	margin: 0 25px 50px 25px;
+	background: #f7f7f7;
+	padding-bottom: 12px;
+}
+
+.section.staffBar .listStaffBar .item .img {
+	margin-bottom: 20px;
+}
+
+.section.staffBar .listStaffBar .item .img img {
+	max-width: 100%;
+}
+
+.section.staffBar .listStaffBar .item .workPosition {
+	display: block;
+	font-size: 18px;
+	color: #666666;
+	line-height: 21px;
+}
+
+.section.staffBar .listStaffBar .item .name {
+	display: block;
+	font-size: 18px;
+	color: #666666;
+	line-height: 21px;
+	font-weight: bold;
+}
+
+.section.staffBar .listStaffBar .item .desc {
+	display: block;
+	font-size: 18px;
+	color: #666666;
+	line-height: 21px;
+}
+
+.section.menuBar {
+
+}
+
+.section.menuBar .sectionContent {
+	position: relative;
+}
+
+.section.menuBar .sectionContent:before {
+	content: '';
+	position: absolute;
+	right: 400px;
+	top: 0;
+	width: 0;
+	height: 100%;
+	display: block;
+	border-left: 1px solid #dddad7;
+}
+
+.section.menuBar .contentMenuBar {
+	float: left;
+	width: 800px;
+	padding-top: 30px;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar {
+	padding: 0 0 0 50px;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .titleCategoryMenuBar {
+	font-size: 24px;
+	color: #000;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 0 0 20px 0;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .titleCategoryMenuBar:after {
+	content: '';
+	border-style: solid;
+	border-color: transparent transparent transparent #000;
+	border-width: 5px 8px;
+	margin: -6px 0 0 18px;
+	display: inline-block;
+	vertical-align: middle;
+	-webkit-transition: -webkit-transform 0.1s linear;
+	-moz-transition: -moz-transform 0.1s linear;
+	transition: transform 0.1s linear;
+	-webkit-transform-origin: 5px 5px;
+	-moz-transform-origin: 5px 5px;
+	transform-origin: 5px 5px;
+	width: 0;
+	height: 0;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .titleCategoryMenuBar.act:after {
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar {
+	height: 0;
+	overflow: hidden;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .titleCategoryMenuBar.act + .bodyCategoryMenuBar {
+	height: auto;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listTxtItems {
+	padding-bottom: 70px;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listTxtItems .txtItem {
+	font-size: 18px;
+	color: #231f20;
+	line-height: 21px;
+	padding-bottom: 20px;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listTxtItems .txtItem .price {
+	float: right;
+	font-weight: 700;
+	padding-right: 12px;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listTxtItems .txtItem .title {
+	display: block;
+	font-weight: 700;
+	border-bottom: 1px solid #dddad7;
+}
+
+.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listTxtItems .txtItem .desc {
+	display: block;
+}
+
+
+
+.section.menuBar .rightSidebarMenuBar {
+	float: left;
+	width: 400px;
+}
 
 
 /*****************/
