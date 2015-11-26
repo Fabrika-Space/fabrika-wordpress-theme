@@ -118,9 +118,12 @@ get_header(); ?>
 						  setup_postdata( $post ); 
 							if($latest){?> 
 									<a href="<?php the_permalink(); ?>" class="lastnews">
-										<div class="imgLastnews">
-											<img src="<?php echo get_post_meta($post->ID, 'Photo', true); ?>" />
-										</div>
+										$img = get_post_meta($post->ID, 'Photo', true);
+										<?php if($img){ ?>
+											<div class="imgLastnews">
+												<img src="<?php echo $img; ?>" />
+											</div>
+										<?php } ?>	
 										<div class="contentLastnews">
 											<span class="title"><?php the_title(); ?></span>
 											<span class="date"><?php the_date(); ?></span>
