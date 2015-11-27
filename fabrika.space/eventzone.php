@@ -219,10 +219,10 @@ Template Name: event-zone
 				<div class="sectionContent">
 					<div class="listOurClients">
 						<div class="item">
-							<img src="/wp-content/themes/fabrika.space/img/ourClients/imgClentToptechphoto.png" />
+							<img src="/wp-content/themes/fabrika.space/img/ourClients/imgClientToptechphoto.png" style="height: 35px;" />
 						</div>
 						<div class="item">
-							<img src="/wp-content/themes/fabrika.space/img/ourClients/imgClientIteam.png" />
+							<img src="/wp-content/themes/fabrika.space/img/ourClients/imgClientIteam.png" style="height: 60px;" />
 						</div>
 					</div>
 				</div>
