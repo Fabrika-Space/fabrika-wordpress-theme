@@ -200,7 +200,7 @@ Template Name: coworking
 			<div class="section coworkingFriendly">
 				<div class="sectionTitle">Coworking friendly</div>
 				<div class="sectionContent">
-					<div class="descriptionCoworkingFriendly">Наши резиденты могут воспользоваться бесплатным днем для работы в коворкинг-сеть наших партнеров: во Львове, Харькове, Одессе и Минске.</div>
+					<div class="descriptionCoworkingFriendly">Наши резиденты могут воспользоваться бесплатным днем для работы в коворкинг-сеть наших партнеров: во Львове, Киеве и Одессе.</div>
 					<div class="itemsCoworkingFriendly">
 						<div class="item">
 							<div class="city">Львов</div>
