@@ -571,6 +571,13 @@ input[type="password"] {
 	height: 22px;
 }
 
+.introduction .blockContacts .social .icon_location {
+	background-position: -52px 0;
+	width: 15px;
+	height: 20px;
+	margin-top: 1px;
+}
+
 .introductionText {
 	margin-left: 400px;
 	position: relative;
