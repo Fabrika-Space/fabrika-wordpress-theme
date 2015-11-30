@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: event-zone
+Template Name: bar
 */
 ?>
 <?php get_header(); ?>
@@ -20,7 +20,7 @@ Template Name: event-zone
 						<p>Maecenas dui ex, facilisis id lorem eget, gravida suscipit nunc. In at vehicula nisl. Suspendisse consequat, ligula mattis hendrerit vulputate.</p>
 					</div>
 					<div class="worktimeAboutBar">
-						<img src="img/services/imgServiceWorktime.png" />
+						<img src="/wp-content/themes/fabrika.space/img/services/imgServiceWorktime.png" />
 						<div class="txt">
 							<p>Работаем<br /> семь дней в неделю<br /> с девяти до девяти</p>
 							<p>Харьков,<br /> ул. Карла Маркса, 1</p>
@@ -29,7 +29,7 @@ Template Name: event-zone
 				</div>
 			</div>
 
-			<div class="section reservation bgWhite">
+			<!--div class="section reservation bgWhite">
 				<div class="sectionTitle borderBottomTitle">Бронь</div>
 				<div class="sectionContent">
 					<div class="data">
@@ -72,7 +72,7 @@ Template Name: event-zone
 					<div class="note">Заявка будет обработана в течении 15 минут.<br /> Если возникнут вопросы, мы вам перезвоним.</div>
 					<div class="submit"><input type="submit" value="Забронировать столик" /></div>
 				</div>
-			</div>
+			</div-->
 
 			<div class="section menuBar bgWhite">
 				<div class="sectionTitle borderBottomTitle">Меню</div>
@@ -146,7 +146,7 @@ Template Name: event-zone
 											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
 											<span class="price">50 грн</span>
 										</div>
-										<div class="img"><img src="img/imgMenuBarItem1.jpg" /></div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgMenuBarItem1.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
@@ -154,7 +154,7 @@ Template Name: event-zone
 											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
 											<span class="price">50 грн</span>
 										</div>
-										<div class="img"><img src="img/imgMenuBarItem2.jpg" /></div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgMenuBarItem2.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
@@ -162,7 +162,7 @@ Template Name: event-zone
 											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
 											<span class="price">50 грн</span>
 										</div>
-										<div class="img"><img src="img/imgMenuBarItem3.jpg" /></div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgMenuBarItem3.jpg" /></div>
 									</div>
 								</div>
 							</div>
@@ -177,7 +177,7 @@ Template Name: event-zone
 									<span class="title">В связи с холодами у нас появился глинтвейн</span>
 									<span class="price"><b>35</b> грн</span>
 								</div>
-								<div class="img"><img src="img/imgModuleRightSidebarMenuBar.jpg"></div>
+								<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgModuleRightSidebarMenuBar.jpg"></div>
 								<span class="desc">Состав: красное/белое вино, коньяк, цедра апельсина, яблоки, корица молотая, корица-палочка, апельсиновый сок, мёд, звёздочка бадьяна и гвоздика</span>
 							</div>
 							<div class="item">
@@ -185,7 +185,7 @@ Template Name: event-zone
 									<span class="title">Медный всадник</span>
 									<span class="price"><b>35</b> грн</span>
 								</div>
-								<div class="img"><img src="img/imgModuleRightSidebarMenuBar.jpg"></div>
+								<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgModuleRightSidebarMenuBar.jpg"></div>
 								<span class="desc">Состав: кальвадос, апельсиновый джем, анисовая настойка перно, сок лимона, яблочный сок и яблочный сироп</span>
 							</div>
 						</div>
@@ -196,7 +196,7 @@ Template Name: event-zone
 									<span class="title">Сэт «Бронепоезд» 5 шт</span>
 									<span class="price"><b>35</b> грн</span>
 								</div>
-								<div class="img"><img src="img/imgModuleRightSidebarMenuBar.jpg"></div>
+								<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgModuleRightSidebarMenuBar.jpg"></div>
 								<span class="desc">Шот сет из 5 шотов за 100 грн.</span>
 							</div>
 						</div>
@@ -210,19 +210,19 @@ Template Name: event-zone
 				<div class="sectionContent">
 					<div class="listStaffBar">
 						<div class="item">
-							<div class="img"><img src="img/imgBarmen1.jpg" height="300" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgBarmen1.jpg" height="300" /></div>
 							<span class="workPosition">Барриста</span>
 							<span class="name">Иван Петров</span>
 							<span class="desc">многократный призер-чемпионер</span>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/imgBarmen2.jpg" height="300" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgBarmen2.jpg" height="300" /></div>
 							<span class="workPosition">Бармен</span>
 							<span class="name">Иван Петров</span>
 							<span class="desc">на все руки мастер</span>
 						</div>
 						<div class="item">
-							<div class="img"><img src="img/imgBarmen3.jpg" height="300" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgBarmen3.jpg" height="300" /></div>
 							<span class="workPosition">Администратор</span>
 							<span class="name">Иван Петров</span>
 							<span class="desc">держит руку на пульсе</span>
