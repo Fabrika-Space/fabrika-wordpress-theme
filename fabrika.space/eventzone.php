@@ -224,6 +224,9 @@ Template Name: event-zone
 						<div class="item">
 							<img src="/wp-content/themes/fabrika.space/img/ourClients/imgClientIteam.png" style="height: 60px;" />
 						</div>
+						<div class="item">
+							<img src="/wp-content/themes/fabrika.space/img/ourClients/imgClientDevpro.png" style="height: 35px;" />
+						</div>
 					</div>
 				</div>
 			</div>
