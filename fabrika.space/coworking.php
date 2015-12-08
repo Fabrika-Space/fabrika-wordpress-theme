@@ -165,12 +165,12 @@ Template Name: coworking
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceKitchen.png" /></div>
 							<div class="title">кухня:<br /> холодильник,<br /> тостер,<br /> чайник,<br /> вода и кофемашина</div>
 						</div>
-
-						<div class="subtitleServices">Будет в ближайшее время</div>
 						<div class="item">
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServicePersonalLocker.png" /></div>
 							<div class="title">шкафчики под ключ<br /> для личных вещей</div>
 						</div>
+
+						<div class="subtitleServices">Будет в ближайшее время</div>
 						<div class="item">
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceShower.png" /></div>
 							<div class="title">душ</div>
