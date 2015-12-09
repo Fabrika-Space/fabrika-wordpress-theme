@@ -186,7 +186,14 @@ Template Name: coworking
 			<div class="section coworkingMap">
 				<div class="sectionTitle">Карта</div>
 				<div class="sectionContent">
-					<img src="/wp-content/themes/fabrika.space/img/map.png" />
+					<div class="mapWrapper">
+						<span class="subtitleCoworking">Зона работы</span>
+						<img src="/wp-content/themes/fabrika.space/img/coworkingWorkPlace.gif" />
+					</div>
+					<div class="mapWrapper">
+						<span class="subtitleCoworking">Зона отдыха</span>
+						<img src="/wp-content/themes/fabrika.space/img/coworkingRestPlace.gif" style="margin-top: 20px;" />
+					</div>
 				</div>
 			</div>
 

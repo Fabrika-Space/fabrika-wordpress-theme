@@ -1760,13 +1760,25 @@ input[type="password"] {
 .section.coworkingMap .sectionContent {
 	background: #fff;
 	text-align: center;
+	padding: 80px 0 40px 0;
 }
 
-.section.coworkingMap .sectionContent img {
+.section.coworkingMap .sectionContent .mapWrapper {
+	padding: 0 30px 50px 30px;
+}
+
+.section.coworkingMap .sectionContent .mapWrapper .subtitleCoworking {
+	display: block;
+	font-weight: 700;
+	font-size: 27px;
+	color: #333333;
+	padding: 0 0 0px 0;
+}
+
+.section.coworkingMap .sectionContent .mapWrapper img {
 	max-width: 100%;
 	display: inline-block;
 }
-
 
 
 
