@@ -245,6 +245,18 @@ Template Name: coworking
 								+38 (048) 735-72-75
 							</div>
 						</div>
+						<div class="item">
+							<div class="city">Днепропетровск</div>
+							<div class="space">Coworking "365"</div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/friends/logoCoworking365.jpg" /></div>
+							<div class="itemContacts">
+								<a href="http://coworking365.com.ua/" target="_blank">http://coworking365.com.ua/</a>
+								<br />
+								<a href="mailto:wow@coworking365.com.ua">wow@coworking365.com.ua</a>
+								<br />
+								+38 (067) 777-73-65
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
