@@ -63,11 +63,11 @@ Template Name: coworking
 									<span class="title">Фиксированное место</span>
 									<div class="table">
 										<table>
-											<tr>
+											<!-- <tr>
 												<td>10 дней</td>
 												<td>—</td>
 												<td>1300 грн</td>
-											</tr>
+											</tr> -->
 											<tr>
 												<td>1 месяц</td>
 												<td>—</td>
@@ -83,7 +83,7 @@ Template Name: coworking
 											<tr>
 												<td>10 дней</td>
 												<td>—</td>
-												<td>1200 грн</td>
+												<td>1100 грн</td>
 											</tr>
 											<tr>
 												<td>1 месяц</td>
