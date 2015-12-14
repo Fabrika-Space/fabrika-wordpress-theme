@@ -113,7 +113,7 @@ Template Name: coworking
 
 					<!-- <div class="btnPricing"><a href="#">Забронировать</a></div> -->
 
-					<div class="priceDiscount">* До конца 2015 года действуект специальная скидка— 50%!</div>
+					<div class="priceDiscount">* До конца 2015 года действует специальная скидка —50%. При оплате за Январь 2016 до конца Декабря 2015 скидка -20%.</div>
 				</div>
 			</div>
 
