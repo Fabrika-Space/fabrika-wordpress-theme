@@ -20,9 +20,45 @@ Template Name: coworking
 			<div class="section pricing">
 				<div class="sectionTitle">цены</div>
 				<div class="sectionContent">
+
+					<div class="popupPayCoworking">
+						<div class="bg"></div>
+						<div class="popup">
+							<div class="title">бронирование</div>
+
+							<div class="date">
+								<div class="item">
+									<div class="label">Начало</div>
+									<input type="date" name="startDate" />
+								</div>
+								<div class="item">
+									<div class="label">конец</div>
+									<input type="date" name="endDate" />
+								</div>
+							</div>
+
+							<div class="phone">
+								<div class="label">телефон</div>
+								<div class="prefixPhone">8</div>
+								<div class="codePhone"><input type="text" maxlength="3" name="phone3" /></div>
+								<div class="numbPhone"><input type="text" maxlength="9" name="phone9" /></div>
+							</div>
+
+							<div class="email">
+								<div class="label">email</div>
+								<input type="email" name="email" />
+							</div>
+
+							<div class="btns">
+								<div class="btn btnCancel">ОТМЕНА</div>
+								<div class="btn btnOk">оплатить</div>
+							</div>
+						</div>
+					</div>
+
 					<div class="priceCategory">
 						<div class="head">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgDev.png" /></div>
+							<div class="img"><img src="img/imgDev.png" /></div>
 							<div class="title">Для одного человека</div>
 						</div>
 						<div class="body">
@@ -37,14 +73,29 @@ Template Name: coworking
 												<td>50 грн</td>
 											</tr>
 											<tr>
+												<td colspan="3">
+													<span class="btnPayCoworking" data-title="1 час - 50 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiNTAiLCJjdXJyZW5jeSI6IlVBSCIsImRlc2NyaXB0aW9uIjoi0JrQvtCy0L7RgNC60LjQvdCzIDEg0YfQsNGBIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUiLCJwYXlfd2F5IjoiY2FyZCxsaXFwYXksZGVsYXllZCxpbnZvaWNlLHByaXZhdDI0In0%3D&signature=wMe3%2Bw%2B1T7T5pLeOLaWFw7%2F0%2Fus%3D">Оплатить</span>
+												</td>
+											</tr>
+											<tr>
 												<td>2-й час</td>
 												<td>—</td>
 												<td>30 грн</td>
 											</tr>
 											<tr>
+												<td colspan="3">
+													<span class="btnPayCoworking" data-title="2-й час - 30 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMzAiLCJjdXJyZW5jeSI6IlVBSCIsImRlc2NyaXB0aW9uIjoi0JrQvtCy0L7RgNC60LjQvdCzIDLQuSDRh9Cw0YEiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSIsInBheV93YXkiOiJjYXJkLGxpcXBheSxkZWxheWVkLGludm9pY2UscHJpdmF0MjQifQ%3D%3D&signature=T23%2FVcCJirtyFCq8W4%2FbxhajZAg%3D">Оплатить</span>
+												</td>
+											</tr>
+											<tr>
 												<td>3-й час</td>
 												<td>—</td>
 												<td>20 грн</td>
+											</tr>
+											<tr>
+												<td colspan="3">
+													<span class="btnPayCoworking" data-title="3-й час - 20 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMjAiLCJjdXJyZW5jeSI6IlVBSCIsImRlc2NyaXB0aW9uIjoi0JrQvtCy0L7RgNC60LjQvdCzIDPQuSDRh9Cw0YEiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSIsInBheV93YXkiOiJjYXJkLGxpcXBheSxkZWxheWVkLGludm9pY2UscHJpdmF0MjQifQ%3D%3D&signature=QPwfdAA2gW66nyO9ItDw%2Bu7P%2BuY%3D">Оплатить</span>
+												</td>
 											</tr>
 											<tr class="border">
 												<td>1 день</td>
@@ -52,9 +103,19 @@ Template Name: coworking
 												<td>150 грн</td>
 											</tr>
 											<tr>
+												<td colspan="3">
+													<span class="btnPayCoworking" data-title="1 день - 150 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTUwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6ItCa0L7QstC%2B0YDQutC40L3QsyAxINC00LXQvdGMIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUiLCJwYXlfd2F5IjoiY2FyZCxsaXFwYXksZGVsYXllZCxpbnZvaWNlLHByaXZhdDI0In0%3D&signature=xIctB2eepxF%2B%2F9IbJkZqMf1MMnU%3D">Оплатить</span>
+												</td>
+											</tr>
+											<tr>
 												<td>5 дней</td>
 												<td>—</td>
 												<td>600 грн</td>
+											</tr>
+											<tr>
+												<td colspan="3">
+													<span class="btnPayCoworking" data-title="5 дней - 600 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiNjAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6ItCa0L7QstC%2B0YDQutC40L3QsyA1INC00L3QtdC5IiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUiLCJwYXlfd2F5IjoiY2FyZCxsaXFwYXksZGVsYXllZCxpbnZvaWNlLHByaXZhdDI0In0%3D&signature=Hfs76eCNYuEajRcLVAfzbOGyPno%3D">Оплатить</span>
+												</td>
 											</tr>
 										</table>
 									</div>
@@ -63,15 +124,25 @@ Template Name: coworking
 									<span class="title">Фиксированное место</span>
 									<div class="table">
 										<table>
-											<!-- <tr>
+											<tr>
 												<td>10 дней</td>
 												<td>—</td>
 												<td>1300 грн</td>
-											</tr> -->
+											</tr>
+											<tr>
+												<td colspan="3">
+													<span class="btnPayCoworking" data-title="10 дней - 1300 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTMwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQmtC%2B0LLQvtGA0LrQuNC90LMgMTAg0LTQvdC10LksINGE0LjQutGB0LjRgNC%2B0LLQsNC90L3QvtC1INC80LXRgdGC0L4iLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSIsInBheV93YXkiOiJjYXJkLGxpcXBheSxkZWxheWVkLGludm9pY2UscHJpdmF0MjQifQ%3D%3D&signature=%2F43zu%2F4Hos3qROoHasoX7GAvKx8%3D">Оплатить</span>
+												</td>
+											</tr>
 											<tr>
 												<td>1 месяц</td>
 												<td>—</td>
 												<td>2600 грн</td>
+											</tr>
+											<tr>
+												<td colspan="3">
+													<span class="btnPayCoworking" data-title="1 месяц - 2600 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMjYwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQmtC%2B0LLQvtGA0LrQuNC90LMgMSDQvNC10YHRj9GGLCDRhNC40LrRgdC40YDQvtCy0LDQvdC90L7QtSDQvNC10YHRgtC%2BIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUiLCJwYXlfd2F5IjoiY2FyZCxsaXFwYXksZGVsYXllZCxpbnZvaWNlLHByaXZhdDI0In0%3D&signature=hlfX7Blgl8vpALZObn35V3QZcJQ%3D">Оплатить</span>
+												</td>
 											</tr>
 										</table>
 									</div>
@@ -83,12 +154,22 @@ Template Name: coworking
 											<tr>
 												<td>10 дней</td>
 												<td>—</td>
-												<td>1100 грн</td>
+												<td>1200 грн</td>
+											</tr>
+											<tr>
+												<td colspan="3">
+													<span class="btnPayCoworking" data-title="10 дней - 1200 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTIwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQmtC%2B0LLQvtGA0LrQuNC90LMgMTAg0LTQvdC10LksINC%2F0LvQsNCy0LDRjtGJ0LXQtSDQvNC10YHRgtC%2BIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUiLCJwYXlfd2F5IjoiY2FyZCxsaXFwYXksZGVsYXllZCxpbnZvaWNlLHByaXZhdDI0In0%3D&signature=CZ268XNRmzuhwuCYCuf19%2BlCd5E%3D">Оплатить</span>
+												</td>
 											</tr>
 											<tr>
 												<td>1 месяц</td>
 												<td>—</td>
 												<td>2400 грн</td>
+											</tr>
+											<tr>
+												<td colspan="3">
+													<span class="btnPayCoworking" data-title="1 месяц - 2400 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMjQwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQmtC%2B0LLQvtGA0LrQuNC90LMgMSDQvNC10YHRj9GGLCDQv9C70LDQstCw0Y7RidC10LUg0LzQtdGB0YLQviIsInR5cGUiOiJidXkiLCJsYW5ndWFnZSI6InJ1IiwicGF5X3dheSI6ImNhcmQsbGlxcGF5LGRlbGF5ZWQsaW52b2ljZSxwcml2YXQyNCJ9&signature=KRoHzUi0jH5z%2Btt%2BGD%2Bi09l3Wa0%3D">Оплатить</span>
+												</td>
 											</tr>
 										</table>
 									</div>
@@ -99,21 +180,22 @@ Template Name: coworking
 
 					<div class="priceCategory">
 						<div class="head">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgTeam.png" /></div>
+							<div class="img"><img src="img/imgTeam.png" /></div>
 							<div class="title">Командам</div>
 						</div>
 						<div class="body">
 							<div class="teamPricing">
 								<div class="titlePriceTeam">Три человека — 7200 грн в месяц</div>
 								<div class="notePriceTeam">(3 фиксированных места по цене не фиксированных)</div>
-								<div class="txtPriceTeam">Больше трех человек — оговаривается индивидуально</div>
+								
+								<span class="btnPayCoworking" data-title="Три человека - 7200 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiNzIwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQmtC%2B0LLQvtGA0LrQuNC90LMgMSDQvNC10YHRj9GGINC00LvRjyDQutC%2B0LzQsNC90LTRiyDQuNC3IDPRhSDRh9C10LvQvtCy0LXQuiIsInR5cGUiOiJidXkiLCJsYW5ndWFnZSI6InJ1IiwicGF5X3dheSI6ImNhcmQsbGlxcGF5LGRlbGF5ZWQsaW52b2ljZSxwcml2YXQyNCJ9&signature=1lZLr5UZbGRztH3UpNe47T2FQd8%3D">Оплатить</span>
+
+								<div class="grayLine"></div>
+								<div class="titlePriceTeam">Больше трех человек — оговаривается индивидуально</div>
+								<div class="notePriceTeam2">* До конца 2015 года действует специальная скидка —50%. При оплате за Январь 2016 до конца Декабря 2015 скидка -20%.</div>
 							</div>
 						</div>
 					</div>
-
-					<!-- <div class="btnPricing"><a href="#">Забронировать</a></div> -->
-
-					<div class="priceDiscount">* До конца 2015 года действует специальная скидка —50%. При оплате за Январь 2016 до конца Декабря 2015 скидка -20%.</div>
 				</div>
 			</div>
 

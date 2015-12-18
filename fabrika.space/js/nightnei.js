@@ -110,5 +110,70 @@ $(document).ready(function(){
 	});
 	var dateEl = document.querySelector('.reservation .date [type="date"]');
 	dateEl && (dateEl.value = new Date().toDateInputValue());
+
+
+	// PAY COWORKING
+	$('.btnPayCoworking').on('click', function(){
+		var data = $(this).data();
+		$('.popupPayCoworking').addClass('show').data('url', data.url).data('title', data.title);
+	});
+
+
+	$('.popupPayCoworking').on('click', '.btnCancel', function(e){
+		$(e.delegateTarget).removeClass('show');
+	});
+
+	$('.popupPayCoworking').on('click', '.btnOk', function(e){
+		var form = $(e.delegateTarget);
+		var payload = {
+			'username': 'Coworking reservation',
+			'icon_url': 'https://s3.amazonaws.com/pics.io/assets/img/logo_48x48.png',
+			'fields': []
+		};
+
+		var config = {
+			title: form.data().title,
+			value: ''
+		};
+		
+		var start = form.find('[name="startDate"]').val();
+		var end = form.find('[name="endDate"]').val();
+		var phone3 = form.find('[name="phone3"]').val();
+		var phone9 = form.find('[name="phone9"]').val();
+		var email = form.find('[name="email"]').val();
+
+		if( !(start && end && phone3 && phone9 && email) ) {
+			alert('Пожалуйста, заполните все поля формы')
+			return;
+		}
+		
+		config.value += 'Period: ' + start + ' - ' + end + '\n';
+		config.value += 'Phone: ' + '8 (' + phone3 + ') ' + phone9 + '\n';
+		config.value += 'Email: ' + email + '\n';
+
+		payload.fields.push(config);
+
+
+		$.ajax({
+			type: 'POST',
+			//url: 'https://hooks.slack.com/services/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',
+			url: 'https://hooks.slack.com/services/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',
+			data: JSON.stringify(payload),
+			success: function(data) {
+				form.removeClass('show');
+				var url = form.data().url;
+				form.removeData('url');
+				form.removeData('title');
+				window.open(url);
+			},
+			error: function(){
+				form.removeClass('show');
+				form.removeData('url');
+				form.removeData('title');
+				alert('Произошла ошибка. Вы все еще можете забронировать коворкинг по телефонам: +38 (068) 100 11 44, +38 (099) 502 32 46');
+			}
+		});
+		
+	});
 	
 });
