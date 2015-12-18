@@ -39,9 +39,14 @@ Template Name: coworking
 
 							<div class="phone">
 								<div class="label">телефон</div>
-								<div class="prefixPhone">8</div>
+								<div class="prefixPhone">+38</div>
 								<div class="codePhone"><input type="text" maxlength="3" name="phone3" /></div>
 								<div class="numbPhone"><input type="text" maxlength="9" name="phone9" /></div>
+							</div>
+
+							<div class="name">
+								<div class="label">name</div>
+								<input type="email" name="name" />
 							</div>
 
 							<div class="email">

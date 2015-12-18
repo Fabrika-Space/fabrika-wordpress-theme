@@ -31,6 +31,9 @@
 	<script src="https://use.typekit.net/ofq1pbu.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 
+	<link href="/wp-content/themes/fabrika.space/css/jquery-ui.min.css" rel="stylesheet">
+	<script src="/wp-content/themes/fabrika.space/js/jquery-ui.min.js"></script>
+
 </head>
 <body class="<?php if(is_front_page()) {echo "homePage";}else{echo "innerPage";}; ?>  tk-proxima-nova">
 

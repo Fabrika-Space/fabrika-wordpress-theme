@@ -1,5 +1,13 @@
 $(document).ready(function(){
 
+	$('.datepicker').datepicker({
+		firstDay: 1,
+		dayNamesMin: ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'],
+		monthNames: ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь'],
+		monthNamesShort: ['Января', 'Февраля', 'Марта', 'Апреля', 'Мая', 'Июня', 'Июля', 'Августа', 'Сентября', 'Октября', 'Ноября', 'Декабря'],
+		dateFormat: 'd M, yy',
+	});
+
 	$('.mainMenu').each(function(){
 		var actItem = $(this).find('.act');
 		if(!actItem){
@@ -140,15 +148,17 @@ $(document).ready(function(){
 		var end = form.find('[name="endDate"]').val();
 		var phone3 = form.find('[name="phone3"]').val();
 		var phone9 = form.find('[name="phone9"]').val();
+		var name = form.find('[name="name"]').val();
 		var email = form.find('[name="email"]').val();
 
-		if( !(start && end && phone3 && phone9 && email) ) {
+		if( !(start && end && phone3 && phone9 && name && email) ) {
 			alert('Пожалуйста, заполните все поля формы')
 			return;
 		}
 		
 		config.value += 'Period: ' + start + ' - ' + end + '\n';
 		config.value += 'Phone: ' + '8 (' + phone3 + ') ' + phone9 + '\n';
+		config.value += 'Name: ' + name + '\n';
 		config.value += 'Email: ' + email + '\n';
 
 		payload.fields.push(config);
