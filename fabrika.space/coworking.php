@@ -29,11 +29,11 @@ Template Name: coworking
 							<div class="date">
 								<div class="item">
 									<div class="label">Начало</div>
-									<input type="date" name="startDate" />
+									<input type="text" class="datepicker" name="startDate" />
 								</div>
 								<div class="item">
 									<div class="label">конец</div>
-									<input type="date" name="endDate" />
+									<input type="text" class="datepicker" name="endDate" />
 								</div>
 							</div>
 
@@ -45,7 +45,7 @@ Template Name: coworking
 							</div>
 
 							<div class="name">
-								<div class="label">name</div>
+								<div class="label">Имя</div>
 								<input type="email" name="name" />
 							</div>
 
