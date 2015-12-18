@@ -58,7 +58,7 @@ Template Name: coworking
 
 					<div class="priceCategory">
 						<div class="head">
-							<div class="img"><img src="img/imgDev.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgDev.png" /></div>
 							<div class="title">Для одного человека</div>
 						</div>
 						<div class="body">
@@ -180,7 +180,7 @@ Template Name: coworking
 
 					<div class="priceCategory">
 						<div class="head">
-							<div class="img"><img src="img/imgTeam.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgTeam.png" /></div>
 							<div class="title">Командам</div>
 						</div>
 						<div class="body">
