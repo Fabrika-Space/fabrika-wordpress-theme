@@ -127,7 +127,7 @@ $(document).ready(function(){
 		var form = $(e.delegateTarget);
 		var payload = {
 			'username': 'Coworking reservation',
-			'icon_url': 'https://s3.amazonaws.com/pics.io/assets/img/logo_48x48.png',
+			'icon_url': 'https://slack.com/img/icons/app-57.png',
 			'fields': []
 		};
 
