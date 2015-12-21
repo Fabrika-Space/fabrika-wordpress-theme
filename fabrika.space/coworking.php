@@ -159,7 +159,7 @@ Template Name: coworking
 											</tr>
 											<tr>
 												<td colspan="3">
-													<span class="btnPayCoworking" data-title="10 дней - 1200 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTIwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQmtC%2B0LLQvtGA0LrQuNC90LMgMTAg0LTQvdC10LksINC%2F0LvQsNCy0LDRjtGJ0LXQtSDQvNC10YHRgtC%2BIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUiLCJwYXlfd2F5IjoiY2FyZCxsaXFwYXksZGVsYXllZCxpbnZvaWNlLHByaXZhdDI0In0%3D&signature=CZ268XNRmzuhwuCYCuf19%2BlCd5E%3D">Оплатить</span>
+													<span class="btnPayCoworking" data-title="10 дней - 1100 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTEwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQmtC%2B0LLQvtGA0LrQuNC90LMgMTAg0LTQvdC10LksINC%2F0LvQsNCy0LDRjtGJ0LXQtSDQvNC10YHRgtC%2BIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUiLCJwYXlfd2F5IjoiY2FyZCxsaXFwYXksZGVsYXllZCxpbnZvaWNlLHByaXZhdDI0In0%3D&signature=ksg6ZO03O5KawKcrO3oW8cZf4rw%3D">Оплатить</span>
 												</td>
 											</tr>
 											<tr>
