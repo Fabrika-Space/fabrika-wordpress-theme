@@ -173,7 +173,8 @@ $(document).ready(function(){
 				var url = form.data().url;
 				form.removeData('url');
 				form.removeData('title');
-				window.open(url);
+				var link = $('<a href="'+url+'" target="_blank"></a>');
+				link[0].click();
 			},
 			error: function(){
 				form.removeClass('show');
@@ -184,5 +185,5 @@ $(document).ready(function(){
 		});
 		
 	});
-	
+
 });
