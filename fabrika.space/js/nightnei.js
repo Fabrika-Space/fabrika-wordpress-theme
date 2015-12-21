@@ -145,18 +145,17 @@ $(document).ready(function(){
 		};
 		
 		var start = form.find('[name="startDate"]').val();
-		var end = form.find('[name="endDate"]').val();
 		var phone3 = form.find('[name="phone3"]').val();
 		var phone9 = form.find('[name="phone9"]').val();
 		var name = form.find('[name="name"]').val();
 		var email = form.find('[name="email"]').val();
 
-		if( !(start && end && phone3 && phone9 && name && email) ) {
+		if( !(start && phone3 && phone9 && name && email) ) {
 			alert('Пожалуйста, заполните все поля формы')
 			return;
 		}
 		
-		config.value += 'Period: ' + start + ' - ' + end + '\n';
+		config.value += 'Date: ' + start + '\n';
 		config.value += 'Phone: ' + '8 (' + phone3 + ') ' + phone9 + '\n';
 		config.value += 'Name: ' + name + '\n';
 		config.value += 'Email: ' + email + '\n';

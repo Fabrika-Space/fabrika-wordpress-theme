@@ -28,12 +28,8 @@ Template Name: coworking
 
 							<div class="date">
 								<div class="item">
-									<div class="label">Начало</div>
+									<div class="label">Дата</div>
 									<input type="text" class="datepicker" name="startDate" />
-								</div>
-								<div class="item">
-									<div class="label">конец</div>
-									<input type="text" class="datepicker" name="endDate" />
 								</div>
 							</div>
 
@@ -129,7 +125,7 @@ Template Name: coworking
 									<span class="title">Фиксированное место</span>
 									<div class="table">
 										<table>
-											<tr>
+											<!-- <tr>
 												<td>10 дней</td>
 												<td>—</td>
 												<td>1300 грн</td>
@@ -138,7 +134,7 @@ Template Name: coworking
 												<td colspan="3">
 													<span class="btnPayCoworking" data-title="10 дней - 1300 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTMwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQmtC%2B0LLQvtGA0LrQuNC90LMgMTAg0LTQvdC10LksINGE0LjQutGB0LjRgNC%2B0LLQsNC90L3QvtC1INC80LXRgdGC0L4iLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSIsInBheV93YXkiOiJjYXJkLGxpcXBheSxkZWxheWVkLGludm9pY2UscHJpdmF0MjQifQ%3D%3D&signature=%2F43zu%2F4Hos3qROoHasoX7GAvKx8%3D">Оплатить</span>
 												</td>
-											</tr>
+											</tr> -->
 											<tr>
 												<td>1 месяц</td>
 												<td>—</td>
@@ -159,7 +155,7 @@ Template Name: coworking
 											<tr>
 												<td>10 дней</td>
 												<td>—</td>
-												<td>1200 грн</td>
+												<td>1100 грн</td>
 											</tr>
 											<tr>
 												<td colspan="3">
