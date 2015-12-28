@@ -9,7 +9,7 @@
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-	<title>Fabrika.space | коворкинг | ивент-зона | бар</title>
+	<title>Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона | Бар</title>
 	<meta name="description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
 	<link rel="image_src" href="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
 	<meta itemprop="image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
