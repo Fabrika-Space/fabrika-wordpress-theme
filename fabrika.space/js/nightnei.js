@@ -83,6 +83,14 @@ $(document).ready(function(){
 		var slideWidth = wrapper.find('.item').width();
 		var currentMarginLeft = - ( length * slideWidth - $(this).find('.listItems').width() );
 
+		var lastIndex = $(this).find('.listItems .item').length -1;
+		var actIndex = $(this).find('.listItems .act').index();
+		var actIndexStartsFromEnd = lastIndex - actIndex;
+		if(actIndexStartsFromEnd > 3) {
+			var decreaseMarginLeft = (actIndexStartsFromEnd - 3) * slideWidth;
+			currentMarginLeft += decreaseMarginLeft;
+		}
+
 		wrapper.width(length*slideWidth);
 
 		var changePosition = function(marginLeft){
