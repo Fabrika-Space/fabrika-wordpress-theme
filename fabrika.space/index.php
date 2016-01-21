@@ -173,7 +173,7 @@ get_header(); ?>
 								  setup_postdata( $post ); 
 									$eventDate = date_parse(get_post_meta($post->ID, 'EventDate', true));
 
-									if($no_active && $eventDate > $now_date){
+									if($no_active && $eventDate >= $now_date){
 										$no_active = false;
 									?>
 										<a href="<?php the_permalink(); ?>" class="item act">
