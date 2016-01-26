@@ -92,24 +92,19 @@ Template Name: event-zone
 							<div class="body">
 								<div class="typePriceCategories">
 									<div class="typePriceCategory">
-										<span class="title">Красная зона</span>
-										<span class="countPeople">450 человек</span>
+										<span class="title">Синяя зона</span>
+										<span class="countPeople">50 человек</span>
 										<div class="table">
 											<table>
+												<tr>
+													<td>1 час</td>
+													<td>—</td>
+													<td>250 грн</td>
+												</tr>
 												<tr>
 													<td>Целый день</td>
 													<td>—</td>
 													<td>2500 грн</td>
-												</tr>
-												<tr>
-													<td>8 часов</td>
-													<td>—</td>
-													<td>416 грн</td>
-												</tr>
-												<tr>
-													<td>4 часа</td>
-													<td>—</td>
-													<td>550 грн</td>
 												</tr>
 											</table>
 										</div>
@@ -120,42 +115,32 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
+													<td>1 час</td>
+													<td>—</td>
+													<td>500 грн</td>
+												</tr>
+												<tr>
 													<td>Целый день</td>
 													<td>—</td>
-													<td>2500 грн</td>
-												</tr>
-												<tr>
-													<td>8 часов</td>
-													<td>—</td>
-													<td>416 грн</td>
-												</tr>
-												<tr>
-													<td>4 часа</td>
-													<td>—</td>
-													<td>550 грн</td>
+													<td>5000 грн</td>
 												</tr>
 											</table>
 										</div>
 									</div>
 									<div class="typePriceCategory">
-										<span class="title">Синяя зона</span>
-										<span class="countPeople">50 человек</span>
+										<span class="title">Красная зона</span>
+										<span class="countPeople">450 человек</span>
 										<div class="table">
 											<table>
 												<tr>
+													<td>1 час</td>
+													<td>—</td>
+													<td>1500 грн</td>
+												</tr>
+												<tr>
 													<td>Целый день</td>
 													<td>—</td>
-													<td>2500 грн</td>
-												</tr>
-												<tr>
-													<td>8 часов</td>
-													<td>—</td>
-													<td>416 грн</td>
-												</tr>
-												<tr>
-													<td>4 часа</td>
-													<td>—</td>
-													<td>550 грн</td>
+													<td>15000 грн</td>
 												</tr>
 											</table>
 										</div>
@@ -164,8 +149,8 @@ Template Name: event-zone
 							</div>
 						</div>
 					</div>
-					<div class="btnPricing"><a href="#">Забронировать</a></div>
-					<div class="txtHelpPricing">Что-либо уточнить вы можете по телефону — 8 050 123 45 67</div>
+					<!-- <div class="btnPricing"><a href="#">Забронировать</a></div> -->
+					<div class="txtHelpPricing">Вся информация по телефону +38(068)100-11-44, +38(099)502-32-46 и info@fabrika.space</div>
 				</div>
 			</div>
 			
