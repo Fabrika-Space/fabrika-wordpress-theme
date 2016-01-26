@@ -17,8 +17,8 @@ Template Name: event-zone
 					<div class="descEventRooms">У вас есть возможность воспользоваться тремя основными ивент-зонами</div>
 					<div class="listEventRooms">
 						<div class="item">
-							<div class="title">Красная зона<br /> на 450 человек<br /> на третьем этаже</div>
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomRed.png" /></div>
+							<div class="title">Зеленая зона<br /> на 50 человек<br /> на втором этаже</div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomGreen.png" /></div>
 							<div class="moreDetails"><a href="#">Подробнее</a></div>
 						</div>
 						<div class="item">
@@ -27,8 +27,8 @@ Template Name: event-zone
 							<div class="moreDetails"><a href="#">Подробнее</a></div>
 						</div>
 						<div class="item">
-							<div class="title">Зеленая зона<br /> на 50 человек<br /> на втором этаже</div>
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomGreen.png" /></div>
+							<div class="title">Красная зона<br /> на 450 человек<br /> на третьем этаже</div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomRed.png" /></div>
 							<div class="moreDetails"><a href="#">Подробнее</a></div>
 						</div>
 					</div>
@@ -49,7 +49,7 @@ Template Name: event-zone
 						</div>
 						<div class="item">
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceMicrophone.png"></div>
-							<div class="title">микрофоны<br /> и аудиосистема<br /> (кроме зала<br /> на 50 человек)</div>
+							<div class="title">микрофоны<br /> и аудиосистема</div>
 						</div>
 						<div class="item">
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceCoffeeAndTea.png"></div>
