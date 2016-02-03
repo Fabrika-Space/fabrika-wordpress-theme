@@ -194,4 +194,10 @@ $(document).ready(function(){
 		
 	});
 
+	$('[name="phone3"]').on('keyup', function(e){
+		if(e.currentTarget.value.length === 3) {
+			$(this).parents('.phone').first().find('.numbPhone input').focus();
+		}
+	})
+
 });
