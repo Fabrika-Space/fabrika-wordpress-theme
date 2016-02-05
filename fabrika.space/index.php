@@ -111,7 +111,7 @@ get_header(); ?>
 				<div class="sectionTitle">Новости</div>
 				<div class="sectionContent">
 					<?php
-						$args = array( 'category_name' => 'News', 'posts_per_page' => 3, 'orderby' => 'EventDate' );
+						$args = array( 'category_name' => 'News', 'posts_per_page' => 3, 'orderby' => 'post_date' );
 						$postslist = get_posts( $args );
 						$latest=true;
 
@@ -164,7 +164,7 @@ get_header(); ?>
 					<div class="listItems">
 						<div class="innerListItems">
 							<?php
-								$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'EventDate', 'order' => 'ASC' );
+								$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'post_date', 'order' => 'ASC' );
 								$postslist = get_posts( $args );
 								$no_active = true;
 								$now_date = date_parse(date("Y-m-d"));
