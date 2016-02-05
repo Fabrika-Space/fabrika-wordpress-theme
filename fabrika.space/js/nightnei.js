@@ -181,7 +181,7 @@ $(document).ready(function(){
 				var url = form.data().url;
 				form.removeData('url');
 				form.removeData('title');
-				var link = $('<a href="'+url+'" target="_blank"></a>');
+				var link = $('<a href="'+url+'"></a>');
 				link[0].click();
 			},
 			error: function(){
