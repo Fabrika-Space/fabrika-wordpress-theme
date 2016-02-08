@@ -165,7 +165,7 @@ get_header(); ?>
 
 						<div class="innerListItems">
 							<?php
-								$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'EventDate', 'order' => 'ASC' );
+								$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'post_date', 'order' => 'ASC' );
 								$postslist = get_posts( $args );
 								$no_active = true;
 								$now_date = date_parse(date("Y-m-d"));
@@ -176,7 +176,7 @@ get_header(); ?>
 
 									foreach ( $pageposts as $post ) :
 									  setup_postdata( $post ); 
-										$eventDate = date_parse(get_post_meta($post->ID, 'EventDate', true));
+										$eventDate = date_parse(get_post_meta($post->ID, 'post_date', true));
 
 										if($no_active && $eventDate >= $now_date){
 											$no_active = false;
