@@ -111,7 +111,7 @@ get_header(); ?>
 				<div class="sectionTitle">Новости</div>
 				<div class="sectionContent">
 					<?php
-						$args = array( 'category_name' => 'News', 'posts_per_page' => 3, 'orderby' => 'EventDate' );
+						$args = array( 'category_name' => 'News', 'posts_per_page' => 3, 'orderby' => 'post_date' );
 						$postslist = get_posts( $args );
 						$latest=true;
 
@@ -176,7 +176,7 @@ get_header(); ?>
 
 									foreach ( $pageposts as $post ) :
 									  setup_postdata( $post ); 
-										$eventDate = date_parse(get_post_meta($post->ID, 'post_date', true));
+										$eventDate = date_parse(get_post_meta($post->ID, 'EventDate', true));
 
 										if($no_active && $eventDate >= $now_date){
 											$no_active = false;
