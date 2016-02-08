@@ -162,44 +162,57 @@ get_header(); ?>
 					<div class="rightArrow"></div>
 					
 					<div class="listItems">
+
 						<div class="innerListItems">
 							<?php
-								$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'post_date', 'order' => 'ASC' );
-								$postslist = get_posts( $args );
-								$no_active = true;
-								$now_date = date_parse(date("Y-m-d"));
+								$querystr = "
+											SELECT STR_TO_DATE(wpostmeta.meta_value, '%d-%m-%Y') as evdate, wposts.*
+											FROM $wpdb->posts wposts, $wpdb->postmeta wpostmeta
+											WHERE wposts.ID = wpostmeta.post_id
+											AND wpostmeta.meta_key = 'EventDate'
+											AND wposts.post_status = 'publish'
+											AND wposts.post_type = 'post'
+											ORDER BY evdate ASC
+											";
 
-								foreach ( $postslist as $post ) :
-								  setup_postdata( $post ); 
-									$eventDate = date_parse(get_post_meta($post->ID, 'EventDate', true));
+								$pageposts = $wpdb->get_results($querystr, OBJECT);
 
-									if($no_active && $eventDate >= $now_date){
-										$no_active = false;
-									?>
-										<a href="<?php the_permalink(); ?>" class="item act">
+								if ($pageposts){
+									$no_active = true;
+									$now_date = date_parse(date("Y-m-d"));
 
-									<?php }else{ ?>
+									foreach ( $pageposts as $post ) :
+									  setup_postdata( $post ); 
+										$eventDate = date_parse(get_post_meta($post->ID, 'EventDate', true));
 
-										<a href="<?php the_permalink(); ?>" class="item">
-									<?php } ?>
+										if($no_active && $eventDate >= $now_date){
+											$no_active = false;
+										?>
+											<a href="<?php the_permalink(); ?>" class="item act">
 
-										<div class="itemImg">
-											<img src="<?php echo get_post_meta($post->ID, 'Photo', true); ?>" />
-										</div>
-										<div class="itemContent">
-											<div class="title"><div><span><?php the_title(); ?></span></div></div>
-											<div class="dateTime">
-												<span class="time">
-													<span>с</span><?php echo get_post_meta($post->ID, 'EventStartTime', true); ?><br /><span>по</span><?php echo get_post_meta($post->ID, 'EventEndTime', true); ?>
-												</span>
-												<span class="date"><?php echo $eventDate['day']; ?></span>
-												<span class="month"><?php echo date('F', mktime(0, 0, 0, $eventDate['month'], 10)); ?></span>
+										<?php }else{ ?>
+
+											<a href="<?php the_permalink(); ?>" class="item">
+										<?php } ?>
+
+											<div class="itemImg">
+												<img src="<?php echo get_post_meta($post->ID, 'Photo', true); ?>" />
 											</div>
-										</div>
-									</a>
-								<?php
+											<div class="itemContent">
+												<div class="title"><div><span><?php the_title(); ?></span></div></div>
+												<div class="dateTime">
+													<span class="time">
+														<span>с</span><?php echo get_post_meta($post->ID, 'EventStartTime', true); ?><br /><span>по</span><?php echo get_post_meta($post->ID, 'EventEndTime', true); ?>
+													</span>
+													<span class="date"><?php echo $eventDate['day']; ?></span>
+													<span class="month"><?php echo date('F', mktime(0, 0, 0, $eventDate['month'], 10)); ?></span>
+												</div>
+											</div>
+										</a>
+									<?php
 
-								endforeach; 
+									endforeach;
+								}
 								wp_reset_postdata();
 							?>
 
