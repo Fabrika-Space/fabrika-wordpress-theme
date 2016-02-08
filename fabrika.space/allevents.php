@@ -12,24 +12,38 @@ Template Name: allevents
 			<div class="contentMainPart">
 				<div class="eventsContainer">
 					<?php
-						$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'post_date' );
-						$postslist = get_posts( $args );
-						$latest=true;
+						$querystr = "
+											SELECT STR_TO_DATE(wpostmeta.meta_value, '%d-%m-%Y') as evdate, wposts.*
+											FROM $wpdb->posts wposts, $wpdb->postmeta wpostmeta
+											WHERE wposts.ID = wpostmeta.post_id
+											AND wpostmeta.meta_key = 'EventDate'
+											AND wposts.post_status = 'publish'
+											AND wposts.post_type = 'post'
+											ORDER BY evdate DESC
+											";
 
-						foreach ( $postslist as $post ) :
-						  setup_postdata( $post );?>
-					<a href="<?php the_permalink(); ?>" class="eventItem clear">
-						<div class="info">
-							<div class="title"><?php the_title(); ?></div>
-							<div class="date"><?php echo get_post_meta($post->ID, 'EventDate', true); ?> <?php echo get_post_meta($post->ID, 'EventStartTime', true); ?> — <?php echo get_post_meta($post->ID, 'EventEndTime', true); ?></div>
-							<div class="img">
-								<img src="<?php echo get_post_meta($post->ID, 'Photo', true); ?>" />
+								$pageposts = $wpdb->get_results($querystr, OBJECT);
+
+						if ($pageposts){
+							//$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'post_date' );
+							//$postslist = get_posts( $args );
+							//$latest=true;
+
+							foreach ( $pageposts as $post ) :
+							  setup_postdata( $post );?>
+						<a href="<?php the_permalink(); ?>" class="eventItem clear">
+							<div class="info">
+								<div class="title"><?php the_title(); ?></div>
+								<div class="date"><?php echo get_post_meta($post->ID, 'EventDate', true); ?> <?php echo get_post_meta($post->ID, 'EventStartTime', true); ?> — <?php echo get_post_meta($post->ID, 'EventEndTime', true); ?></div>
+								<div class="img">
+									<img src="<?php echo get_post_meta($post->ID, 'Photo', true); ?>" />
+								</div>
+								<div class="txt arrowReadMore"><?php the_excerpt(); ?></div>
 							</div>
-							<div class="txt arrowReadMore"><?php the_excerpt(); ?></div>
-						</div>
-					</a>
-					<?php
-						endforeach; 
+						</a>
+						<?php
+							endforeach;
+						}
 						wp_reset_postdata();?>
 				</div>
 			</div>
