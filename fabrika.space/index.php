@@ -111,7 +111,7 @@ get_header(); ?>
 				<div class="sectionTitle">Новости</div>
 				<div class="sectionContent">
 					<?php
-						$args = array( 'category_name' => 'News', 'posts_per_page' => 3, 'orderby' => 'post_date' );
+						$args = array( 'category_name' => 'News', 'posts_per_page' => 3, 'orderby' => 'EventDate' );
 						$postslist = get_posts( $args );
 						$latest=true;
 
@@ -165,17 +165,10 @@ get_header(); ?>
 
 						<div class="innerListItems">
 							<?php
-								$querystr = "
-											SELECT wposts.*
-											FROM $wpdb->posts wposts, $wpdb->postmeta wpostmeta
-											WHERE wposts.ID = wpostmeta.post_id
-											AND wpostmeta.meta_key = 'EventDate'
-											AND wposts.post_status = 'publish'
-											AND wposts.post_type = 'post'
-											ORDER BY STR_TO_DATE(wpostmeta.meta_value, '%YYYY-%mm-%dd') ASC
-											";
-
-								$pageposts = $wpdb->get_results($querystr, OBJECT);
+								$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'EventDate', 'order' => 'ASC' );
+								$postslist = get_posts( $args );
+								$no_active = true;
+								$now_date = date_parse(date("Y-m-d"));
 
 								if ($pageposts){
 									$no_active = true;
