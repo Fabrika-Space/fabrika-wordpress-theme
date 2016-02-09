@@ -2374,6 +2374,7 @@ input[type="email"] {
 
 .section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .img {
 	margin-left: 200px;
+	margin-right: 15px;
 }
 
 .section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .img img {
