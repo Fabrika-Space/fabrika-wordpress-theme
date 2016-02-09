@@ -75,93 +75,85 @@ Template Name: bar
 			</div-->
 
 			<div class="section menuBar bgWhite">
-				<div class="sectionTitle borderBottomTitle">Меню</div>
+				<div class="sectionTitle borderBottomTitle">Барная карта</div>
 				<div class="sectionContent clear">
 					
 					<div class="contentMenuBar">
 						<div class="categoryMenuBar">
-							<div class="titleCategoryMenuBar act">Our signature coctails</div>
+							<div class="titleCategoryMenuBar act">Фабрика рекомендует</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listBeautifulItems">
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>Fabrika</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+											<span class="title"><div><span>FABRIKA</span></div></span>
+											<span class="desc">(140 ml) spicy rum, vermouth rosso, spicy mango cordial, raspberry, lime, egg white, pineapple</span>
 											<span class="price">90 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barFabrika.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>Ciantro sour</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
-											<span class="price">50 грн</span>
+											<span class="title"><div><span>CILANTRO SOUR</span></div></span>
+											<span class="desc">(110 ml) bourbon, cilantro cordial, egg white</span>
+											<span class="price">80 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCilantroSour.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>Amigo</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
-											<span class="price">50 грн</span>
+											<span class="title"><div><span>AMIGO</span></div></span>
+											<span class="desc">(135 ml) tequila, agave sec, cranberry, gomme syrup, lime, egg white, cardamom</span>
+											<span class="price">100 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barAmigo.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>Pear sour</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
-											<span class="price">50 грн</span>
+											<span class="title"><div><span>PEAR SOUR</span></div></span>
+											<span class="desc">(120 ml) bourbon, pear cordial, lime, egg white</span>
+											<span class="price">80 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPearSour.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>Wild sour</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
-											<span class="price">50 грн</span>
+											<span class="title"><div><span>WILD SOUR</span></div></span>
+											<span class="desc">(120 ml) grand marnier, lime cordial, sugar, egg white, rosemary</span>
+											<span class="price">85 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barWildSour.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>Passion aphrodite</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
-											<span class="price">50 грн</span>
+											<span class="title"><div><span>PASSION APHRODITE</span></div></span>
+											<span class="desc">(200 ml) pineapple, bayleys, grape brandy, mascarpone</span>
+											<span class="price">120 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPassionAphrodite.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>Pink fume</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
-											<span class="price">50 грн</span>
+											<span class="title"><div><span>PINK FUME</span></div></span>
+											<span class="desc">(100 ml) yogurt liquor, sloe gin, amaretto, mascarpone</span>
+											<span class="price">90 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPinkFume.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>Hleb</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
-											<span class="price">50 грн</span>
+											<span class="title"><div><span>HLEB</span></div></span>
+											<span class="desc">(110 ml) rye bread bourbon, lime, gomme syrup, prune, bread</span>
+											<span class="price">90 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barHleb.jpg" /></div>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>Rye old fashioned</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
-											<span class="price">50 грн</span>
+											<span class="title"><div><span>RYE OLD FASHIONED</span></div></span>
+											<span class="desc">(80 ml) rye bourbon, whisky barrel bitters, sugar</span>
+											<span class="price">135 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barRyeOldFashioned.jpg" /></div>
-									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>Hleb</span></div></span>
-											<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
-											<span class="price">50 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barHleb.jpg" /></div>
 									</div>
 
 								</div>
@@ -173,94 +165,94 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">100 грн</span>
 										<span class="title">MICHURIN 150 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">80 грн</span>
 										<span class="title">CLOVER CLUB 150 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Gin, raspberry, lime cordial, sugar, egg white</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">80 грн</span>
 										<span class="title">NEW TIME SOUR 150 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Bourbon, porto, gomme syrup, lime, egg white</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">80 грн</span>
 										<span class="title">WHISKEY SOUR 120 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Bourbon, gomme syrup, lime, egg white</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">100 грн</span>
 										<span class="title">IFIZZ 140 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Quince gin, lime cordial, egg white</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">90 грн</span>
 										<span class="title">WHITE RUSSIAN 120 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Vodka, kahlua, cream</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">85 грн</span>
 										<span class="title">COOPER 130 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Cointreau, aperol, lime, caramel</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
-										<span class="title">OLD FASHIONED 80 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="price">70 грн</span>
+										<span class="title">OLD FASHIONED 90 ml</span>
+										<span class="desc">Bourbon, angostura bitters, sugar</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
-										<span class="title">NEGRONI 90 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="price">70 грн</span>
+										<span class="title">NEGRONI (basic/spicy) 90 ml</span>
+										<span class="desc">Gin, campari, vermouth rosso </span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
-										<span class="title">BOULEVARDIER(basic/spicy) 90 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="price">70 грн</span>
+										<span class="title">BOULEVARDIER (basic/spicy) 90 ml</span>
+										<span class="desc">Bourbon, campari, vermouth rosso</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
-										<span class="title">BOULEVARDIER PRUNES(basic/spicy) 90 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="price">100 грн</span>
+										<span class="title">BOULEVARDIER PRUNES (basic/spicy) 90 ml</span>
+										<span class="desc">Bourbon, campari, vermouth rosso, tobacco bitters, prunes</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">60 грн</span>
 										<span class="title">COSMOPOLITAN 110 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Vodka lime, cointreau, cranberry, lime</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">60 грн</span>
 										<span class="title">DAIQUIRI 110 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Rum, lime, gomme syrup</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">85 грн</span>
 										<span class="title">MARGARITA 110 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Tequila, cointreau, lime</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">90 грн</span>
 										<span class="title">DRY MARTINI 110 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Dry vermouth, gin, olive</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">80 грн</span>
 										<span class="title">MANHATTAN 90 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Bourbon, vermouth rosso, angostura bitters</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">140 грн</span>
 										<span class="title">PERFECT MANHATTAN 90 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Rye bourbon, vermouth rosso, whisky barrel bitters</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">85 грн</span>
 										<span class="title">BLOODY MARY 200 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Vodka, tomato juice, celery, lemon, pepper, salt, worcestershire sauce, tabasco</span>
 									</div>
 								</div>
 							</div>
@@ -271,14 +263,14 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">100 грн</span>
 										<span class="title">MULLED WINE 210 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Red dry wine, orange, lemon, cinnamon, clove, honey</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
-										<span class="title">CINNAMON CREAM 150 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="price">100 грн</span>
+										<span class="title">CINNAMON CREAM 160 ml</span>
+										<span class="desc">cinnamon whiskey, drambuie, caramel, apple, cream, nutmeg</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">50 грн</span>
@@ -296,12 +288,12 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">50 грн</span>
 										<span class="title">RASPBERRY LEMONADE 200 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Raspberry, ginger, peach juice, honey syrup, soda water</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">50 грн</span>
-										<span class="title">ORANGE LEMONADE 150 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="title">ORANGE LEMONADE 200 ml</span>
+										<span class="desc">Orange, ginger, passion fruit syrup, soda water</span>
 									</div>
 								</div>
 							</div>
@@ -314,19 +306,11 @@ Template Name: bar
 							<span class="h2">Новые напитки</span>
 							<div class="item">
 								<div class="txt">
-									<span class="title">В связи с холодами у нас появилось какао с маршмеллоу</span>
+									<span class="title">Какао с маршмеллоу</span>
 									<span class="price"><b>40</b> грн</span>
 								</div>
 								<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCacao.jpg"></div>
-								<span class="desc">Состав: красное/белое вино, коньяк, цедра апельсина, яблоки, корица молотая, корица-палочка, апельсиновый сок, мёд, звёздочка бадьяна и гвоздика</span>
-							</div>
-							<div class="item">
-								<div class="txt">
-									<span class="title">Boulvardier prunes</span>
-									<span class="price"><b>100</b> грн</span>
-								</div>
-								<div class="img"><img src="/wp-content/themes/fabrika.space/img/barBoulvardierPrunes.jpg"></div>
-								<span class="desc">Состав: кальвадос, апельсиновый джем, анисовая настойка перно, сок лимона, яблочный сок и яблочный сироп</span>
+								<!--span class="desc">Состав: красное/белое вино, коньяк, цедра апельсина, яблоки, корица молотая, корица-палочка, апельсиновый сок, мёд, звёздочка бадьяна и гвоздика</span-->
 							</div>
 						</div>
 						<!--div class="moduleRightSidebarMenuBar">
