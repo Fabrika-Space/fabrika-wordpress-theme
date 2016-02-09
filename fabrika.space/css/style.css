@@ -1426,8 +1426,7 @@ input[type="email"] {
 }
 
 .innerPage #main.contactsMain {
-	padding-top: 750px;
-	background-image: url('../img/coverContacts.jpg');
+	padding-top: 0;
 }
 
 .innerPage #main.pageStyleLikeHome {

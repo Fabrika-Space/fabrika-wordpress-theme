@@ -5,6 +5,33 @@ Template Name: contacts
 ?>
 <?php get_header(); ?>
 
+	<script src="https://maps.googleapis.com/maps/api/js"></script>
+	<script>
+		function initialize() {
+			var mapCanvas = document.getElementById('googleMap');
+			var myLatlng = new google.maps.LatLng(49.98916, 36.22252);
+			var mapOptions = {
+				center: myLatlng,
+				zoom: 16,
+				mapTypeControl: false,
+				draggable: false,
+				scaleControl: false,
+				scrollwheel: false,
+				navigationControl: false,
+				streetViewControl: false,
+				mapTypeId: google.maps.MapTypeId.ROADMAP
+			}
+			var map = new google.maps.Map(mapCanvas, mapOptions)
+			var marker = new google.maps.Marker({
+				position: myLatlng,
+				map: map,
+				title: 'Fabrika',
+			});
+		}
+		google.maps.event.addDomListener(window, 'load', initialize);
+	</script>
+	<div id="googleMap"></div>
+
 	<!--**************** MAIN ****************-->
 	<div id="main" class="pageStyleLikeHome contactsMain">
 		<!--**************** CONTENT ****************-->
