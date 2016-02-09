@@ -125,16 +125,6 @@ Template Name: coworking
 									<span class="title">Фиксированное место</span>
 									<div class="table">
 										<table>
-											<!-- <tr>
-												<td>10 дней</td>
-												<td>—</td>
-												<td>1300 грн</td>
-											</tr>
-											<tr>
-												<td colspan="3">
-													<span class="btnPayCoworking" data-title="10 дней - 1300 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTMwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiLQmtC%2B0LLQvtGA0LrQuNC90LMgMTAg0LTQvdC10LksINGE0LjQutGB0LjRgNC%2B0LLQsNC90L3QvtC1INC80LXRgdGC0L4iLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSIsInBheV93YXkiOiJjYXJkLGxpcXBheSxkZWxheWVkLGludm9pY2UscHJpdmF0MjQifQ%3D%3D&signature=%2F43zu%2F4Hos3qROoHasoX7GAvKx8%3D">Оплатить</span>
-												</td>
-											</tr> -->
 											<tr>
 												<td>1 месяц</td>
 												<td>—</td>
@@ -252,16 +242,16 @@ Template Name: coworking
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServicePersonalLocker.png" /></div>
 							<div class="title">шкафчики под ключ<br /> для личных вещей</div>
 						</div>
-
-						<div class="subtitleServices">Будет в ближайшее время</div>
 						<div class="item">
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceShower.png" /></div>
 							<div class="title">душ</div>
 						</div>
+
+						<!--div class="subtitleServices">Будет в ближайшее время</div>
 						<div class="item">
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/services/imgServiceProjector.png" /></div>
 							<div class="title">зал с проектором<br /> для лекций<br /> и мастерклассов<br /> на 20-30 человек</div>
-						</div>
+						</div-->
 					</div>
 				</div>
 			</div>
