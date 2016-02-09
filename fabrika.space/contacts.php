@@ -30,7 +30,7 @@ Template Name: contacts
 		}
 		google.maps.event.addDomListener(window, 'load', initialize);
 	</script>
-	<div id="googleMap"></div>
+	<div id="googleMap" class="gMapInContacts"></div>
 
 	<!--**************** MAIN ****************-->
 	<div id="main" class="pageStyleLikeHome contactsMain">
