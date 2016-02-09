@@ -126,7 +126,7 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>PASSION APHRODITE</span></div></span>
-											<span class="desc">(200 ml) pineapple, bayleys, grape brandy, mascarpone</span>
+											<span class="desc">(200 ml) pineapple, baileys, grape brandy, mascarpone</span>
 											<span class="price">120 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPassionAphrodite.jpg" /></div>
@@ -187,7 +187,7 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">100 грн</span>
 										<span class="title">IFIZZ 140 ml</span>
-										<span class="desc">Quince gin, lime cordial, egg white</span>
+										<span class="desc">Quince gin, lime cordial, egg white, soda water</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">90 грн</span>
@@ -265,7 +265,7 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">100 грн</span>
 										<span class="title">MULLED WINE 210 ml</span>
-										<span class="desc">Red dry wine, orange, lemon, cinnamon, clove, honey</span>
+										<span class="desc">Red dry wine, sea buckthorns, raspberry, orange, lemon, cinnamon, clove, honey</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">100 грн</span>
@@ -275,7 +275,7 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">50 грн</span>
 										<span class="title">IRISH COFFEE 200 ml</span>
-										<span class="desc">Bourbon whiskey, lemon fresh, sugar syrup, protein</span>
+										<span class="desc">Whiskey, cream, coffee, sugar</span>
 									</div>
 								</div>
 							</div>
