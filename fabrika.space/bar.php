@@ -93,9 +93,9 @@ Template Name: bar
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
-											<span class="title"><div><span>CILANTRO SOUR</span></div></span>
-											<span class="desc">(110 ml) bourbon, cilantro cordial, egg white</span>
-											<span class="price">80 грн</span>
+											<span class="title"><div><span>MICHURIN</span></div></span>
+											<span class="desc">(150 ml) Gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
+											<span class="price">100 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCilantroSour.jpg" /></div>
 									</div>
@@ -165,9 +165,9 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">100 грн</span>
-										<span class="title">MICHURIN 150 ml</span>
-										<span class="desc">Gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
+										<span class="price">80 грн</span>
+										<span class="title">CILANTRO SOUR 110 ml </span>
+										<span class="desc">Bourbon, cilantro cordial, egg white</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">80 грн</span>
@@ -273,7 +273,7 @@ Template Name: bar
 										<span class="desc">cinnamon whiskey, drambuie, caramel, apple, cream, nutmeg</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">75 грн</span>
 										<span class="title">IRISH COFFEE 200 ml</span>
 										<span class="desc">Whiskey, cream, coffee, sugar</span>
 									</div>
