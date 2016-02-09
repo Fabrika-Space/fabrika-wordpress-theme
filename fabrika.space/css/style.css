@@ -2369,7 +2369,7 @@ input[type="email"] {
 }
 
 .section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage {
-
+	margin-bottom: 10px;
 }
 
 .section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .img {
