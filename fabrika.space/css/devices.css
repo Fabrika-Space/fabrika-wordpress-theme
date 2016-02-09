@@ -175,6 +175,9 @@
 }
 
 @media screen and (max-width: 899px) {
+	#googleMap.gMapInContacts {
+		height: 300px;
+	}
 	.pageOneNewsWithImg #all {
 		background-size: auto 610px;
 	}
