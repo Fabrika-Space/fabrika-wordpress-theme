@@ -2497,6 +2497,10 @@ input[type="email"] {
 	margin-bottom: 12px;
 }
 
+.section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar .item .img img {
+	max-width: 100%;
+}
+
 .section.menuBar .rightSidebarMenuBar .moduleRightSidebarMenuBar .item .desc {
 	font-size: 15px;
 	line-height: 20px;
