@@ -178,6 +178,7 @@
 	#googleMap.gMapInContacts {
 		height: 300px;
 	}
+
 	.pageOneNewsWithImg #all {
 		background-size: auto 610px;
 	}
@@ -412,6 +413,13 @@
 	}
 	.news .prevLastNews {
 		display: none;
+	}
+
+	.eventRooms .descEventRooms {
+		padding: 50px 30px 0 30px;
+	}
+	.eventRooms .subdescEventRooms {
+		padding: 0 30px 44px 30px;
 	}
 
 	.events .sectionContent {

@@ -1963,9 +1963,13 @@ input[type="email"] {
 
 .eventRooms .descEventRooms {
 	text-align: center;
-	padding: 30px 0 44px 0;
+	padding: 50px 50px 0 50px;
 	font-size: 24px;
 	color: #333333;
+}
+
+.eventRooms .subdescEventRooms {
+	padding: 0 50px 44px 50px;
 }
 
 .eventRooms .listEventRooms {
