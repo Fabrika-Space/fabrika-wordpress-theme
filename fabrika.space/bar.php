@@ -14,16 +14,15 @@ Template Name: bar
 			<div class="section aboutBar bgWhite clear">
 				<div class="sectionTitle borderBottomTitle">О нас</div>
 				<div class="sectionContent clear">
-					<div class="txtAboutBar">					
-						<p>Две фразы о чем речь. In lacinia, mi at dignissim volutpat, neque quam vestibulum arcu, sit amet placerat turpis libero id risus.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum iaculis sodales orci, eget molestie lorem pharetra vel. Nam neque neque, rhoncus in tincidunt in, volutpat a lacus. Aliquam pulvinar fringilla posuere.</p>
-						<p>Maecenas dui ex, facilisis id lorem eget, gravida suscipit nunc. In at vehicula nisl. Suspendisse consequat, ligula mattis hendrerit vulputate.</p>
+					<div class="txtAboutBar">
+						<p>В здании бывшей фабрики на первом этаже с пятиметровыми потолками расположился самый душевный бар города.</p> 
+						<p>Отреставрированное пространство сохранило обаяние начала ХХ века, а аутентичные элементы интерьера подчеркивают уникальность бара Fabrika.space. Благодаря отличной кухне и разнообразию напитков фабрика создает  атмосферу, в которую хочется возвращаться снова и снова.</p>
 					</div>
 					<div class="worktimeAboutBar">
 						<img src="/wp-content/themes/fabrika.space/img/services/imgServiceWorktime.png" />
 						<div class="txt">
-							<p>Работаем<br /> семь дней в неделю<br />в Пятницу и Субботу с 9:00 до 3:00<br />с Воскресенья по Четверг с 9:00 до 24:00</p>
-							<p>Харьков,<br /> ул. Благовещенская (бывш. Карла Маркса), 1</p>
+							<p>Мы рады вас видеть<br /> семь дней в неделю<br />в Пятницу и Субботу с 9:00 до 3:00<br />с Воскресенья по Четверг с 9:00 до 24:00</p>
+							<p>Харьков,<br /> ул. Благовещенская(бывш. Карла Маркса), 1</p>
 						</div>
 					</div>
 				</div>
