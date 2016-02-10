@@ -14,7 +14,15 @@ Template Name: event-zone
 			<div class="section eventRooms bgWhite">
 				<div class="sectionTitle borderBottomTitle">три пространства в фабрике</div>
 				<div class="sectionContent">
-					<div class="descEventRooms">У вас есть возможность воспользоваться тремя основными ивент-зонами</div>
+					<div class="descEventRooms">
+						<p>Fabrika.space предоставляет 3 зала для проведения различных мероприятий.</p>
+					</div>
+					<div class="txt">
+						<p>Залы расположены на втором и третьем этаже здания, построенного в 1929 году. Высокие потолки, элементы промышленного интерьера, обилие света и отличная аккустика создают идеальную базу для проведения мероприятий на 50-450 человек.</p>
+						<p>Каждое помещение оснащено мягкими стульями, современным мультимедийным оборудованием и приточно-вытяжной вентиляцией, везде работает Wi-Fi.</p>
+						<p>В залах установлены проекторы Panasonic, которые позволяют воспроизводить изображения и видео с разрешением до 1024х768рх.</p>
+						<p>Мы обеспечиваем полную техническую поддержку при проведении мероприятий. Вам понадобится только ноутбук и материал для презентации. Мы так же берем на себя организацию кофе-брейков, ланчей и видео-записи ваших мероприятий, настройку звука, света и аппаратуры.</p>
+					</div>
 					<div class="listEventRooms">
 						<div class="item">
 							<div class="title">Зеленая зона<br /> на 50 человек<br /> на втором этаже</div>
@@ -69,19 +77,23 @@ Template Name: event-zone
 						<div class="item">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineRedRoom.png');"></div>
 							<div class="txt">
-								<p><span class="name">Красная зона</span> - для проведения масштабных мероприятий. Свободно вмещает 450 человек и больше, в зависимости от рассадки. Зал оснащен всем необходимым: мягкими стульями, современным мультимедийным оборудованием, приточно-вытяжной вентиляцией, высокими потолками и обилием света. Во время мероприятия гарантируем полную техническую поддержку и сопровождение наших специалистами. Отличный вариант для конференций, семинаров, форумов, образовательных встреч.</p>
+								<p><span class="name">Красный зал</span> - идеально подходит для проведения конференций, семинаров, форумов и других масштабных мероприятий. В нем на удобных стульях может комфортно разместиться до 500 человек.</p> 
+								<p>В зале есть усилитель звука и 8 колонок, мощности которых позволяют провести даже кинопоказ. Схема расположения звукового оборудования позволяет получить идеальную слышимость в любой точке зала.</p>
+								<p>Проектор расположен относительно экрана таким образом, что из любой точки в зале ваши гости увидят изображение в деталях. Плотные жалюзи и высокая контрастность проектора дают возможность проводить презентации даже в самый солнечный день.</p>
 							</div>
 						</div>
 						<div class="item">
-							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineBlueRoom.png');"></div>
+							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/eventzoneBluePreview.jpg'), url('/wp-content/themes/fabrika.space/img/lineBlueRoom.png');"></div>
 							<div class="txt">
-								<p><span class="name">Синяя зона</span> - средний зал, который можно оборудовать под формат любого мероприятия: от конференции до творческой мастерской. Комфортно вмещает 150 человек. Зал оснащен необходимым мультимедийным оборудованием. В рассадке гостей возможно совмещать мягкие стулья и бескаркасную мебель. Оптимальное место для небольших профессиональных встреч, дискуссий, дебатов и других мелких мероприятий.</p>
+								<p><span class="name">Синий зал</span> - оптимальный вариант для проведения митапов, дискусионных и профессиональных встреч. Здесь можно совместить мягкие стулья и бескаркасную мебель для рассадки гостей.</p>
+								<p>4 колонки и усилитель звука в комплекте с меньшим, чем в красном зале, расстоянием между проектором и экраном, позволяют проводить ультра-качественные презентации и выступления.</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineGreenRoom.png');"></div>
 							<div class="txt">
-								<p><span class="name">Зеленая зона</span> - рассчитана на 50 человек. Этот зал отлично подойдет для встреч с прессой, мастер-классов, переговоров и небольших образовательных встреч. Есть экран, проектор, флипчарт. В случае необходимости, возможно полное техническое звуковое оснащение с микрофонами и гарнитурой. Несмотря на его малые размеры, здесь достаточно просторно и комфортно.</p>
+								<p><span class="name">Зеленый зал</span> - мы рекомендуем использовать для пресс-конференций, мастер-классов и небольших образовательных встреч.</p> 
+								<p>Усилитель звука с 2 колонками обеспечивает достаточное для площади зала покрытие, а проектор имеет те же возможности, что и в синем и красном зале, несмотря на меньший размер.</p>
 							</div>
 						</div>
 					</div>
@@ -149,8 +161,7 @@ Template Name: event-zone
 							</div>
 						</div>
 					</div>
-					<!-- <div class="btnPricing"><a href="#">Забронировать</a></div> -->
-					<div class="txtHelpPricing">Вся информация по телефону +38(068)100-11-44, +38(099)502-32-46 и info@fabrika.space</div>
+					<div class="txtHelpPricing">Вся информация по телефону +38(068)100-11-44 и info@fabrika.space</div>
 				</div>
 			</div>
 			
@@ -159,42 +170,42 @@ Template Name: event-zone
 				<div class="sectionContent">
 					<div class="item clear">
 						<div class="title bgTransparentRed">Красная зона</div>
-						<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgRedBlueGreenRoom.jpg" /></div>
+						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneRed.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapRedRoom.jpg" /></div>
-						<div class="lastEvent">
+						<!--div class="lastEvent">
 							<div class="titleLastEvent">
 								<div>Последнее событие в этой зоне</div>
 								<div><b>Kharkiv JS Conf</b></div>
 							</div>
 							<div class="imgLastEvent"><img src="/wp-content/themes/fabrika.space/img/imgLastEvent.jpg" /></div>
 							<div class="txtLastEvent">Ut nec felis ut quam eleifend fermentum a eget velit. Fusce sed rutrum felis. Sed et rhoncus odio.</div>
-						</div>
+						</div-->
 					</div>
 					<div class="item clear">
 						<div class="title bgTransparentBlue">синяя зона</div>
-						<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgRedBlueGreenRoom.jpg" /></div>
+						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneBlue.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapBlueRoom.jpg" /></div>
-						<div class="lastEvent">
+						<!--div class="lastEvent">
 							<div class="titleLastEvent">
 								<div>Последнее событие в этой зоне</div>
 								<div><b>Kharkiv JS Conf</b></div>
 							</div>
 							<div class="imgLastEvent"><img src="/wp-content/themes/fabrika.space/img/imgLastEvent.jpg" /></div>
 							<div class="txtLastEvent">Ut nec felis ut quam eleifend fermentum a eget velit. Fusce sed rutrum felis. Sed et rhoncus odio.</div>
-						</div>
+						</div-->
 					</div>
 					<div class="item clear">
 						<div class="title bgTransparentGreen">Зеленая зона</div>
-						<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgRedBlueGreenRoom.jpg" /></div>
+						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneGreen.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapGreenRoom.jpg" /></div>
 						<div class="lastEvent">
-							<div class="titleLastEvent">
+							<!--div class="titleLastEvent">
 								<div>Последнее событие в этой зоне</div>
 								<div><b>Kharkiv JS Conf</b></div>
 							</div>
 							<div class="imgLastEvent"><img src="/wp-content/themes/fabrika.space/img/imgLastEvent.jpg" /></div>
 							<div class="txtLastEvent">Ut nec felis ut quam eleifend fermentum a eget velit. Fusce sed rutrum felis. Sed et rhoncus odio.</div>
-						</div>
+						</div-->
 					</div>
 				</div>
 			</div>

@@ -149,7 +149,7 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>RYE OLD FASHIONED</span></div></span>
-											<span class="desc">(80 ml) rye bourbon, whisky barrel bitters, sugar</span>
+											<span class="desc">(80 ml) rye bourbon, whiskey barrel bitters, sugar</span>
 											<span class="price">135 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barRyeOldFashioned.jpg" /></div>
