@@ -68,7 +68,7 @@
 
 		<meta property="og:title" content="Бар в FABRIKA.SPACE">
 		<meta property="og:description" content="FABRIKA.SPACE – самый просторный бар Харькова с оригинальными и классическими напитками">
-		<meta property="og:url" content="http://fabrika.space/">
+		<meta property="og:url" content="http://fabrika.space/bar/">
 		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/bar_banner.jpg">
 	<?php }elseif(str_ends_with( $_SERVER['REQUEST_URI'], "/contacts/" )) {?>
 		<title>Контакты Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона | Бар</title>
