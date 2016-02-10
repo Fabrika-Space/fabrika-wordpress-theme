@@ -198,8 +198,8 @@ Template Name: event-zone
 						<div class="title bgTransparentGreen">Зеленая зона</div>
 						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneGreen.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapGreenRoom.jpg" /></div>
-						<div class="lastEvent">
-							<!--div class="titleLastEvent">
+						<!--<div class="lastEvent">
+							<!--<div class="titleLastEvent">
 								<div>Последнее событие в этой зоне</div>
 								<div><b>Kharkiv JS Conf</b></div>
 							</div>
