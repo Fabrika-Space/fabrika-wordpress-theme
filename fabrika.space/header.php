@@ -92,7 +92,7 @@
 		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
 	<?php };?>
 
-	<link rel="icon" type="image/png" href="http://fabrika.space/wp-content/themes/fabrika.space/img/favicon.jpg">
+	<link rel="icon" type="image/png" href="/wp-content/themes/fabrika.space/img/favicon.png">
 
 	<meta charset="utf-8" />
 	<link rel="stylesheet" type="text/css" href="/wp-content/themes/fabrika.space/css/style.css" />
