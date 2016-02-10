@@ -28,7 +28,7 @@
 
 		<meta property="og:title" content="FABRIKA.SPACE | новости">
 		<meta property="og:description" content="Последние новости о том что происходит на Фабрике | FABRIKA.SPACE">
-		<meta property="og:url" content="http://fabrika.space/">
+		<meta property="og:url" content="http://fabrika.space/News/">
 		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
 	<?php }elseif(is_page_template( 'allevents.php' )) {?>
 		<title>События в Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона | Бар</title>
@@ -38,7 +38,7 @@
 
 		<meta property="og:title" content="FABRIKA.SPACE | события">
 		<meta property="og:description" content="Календарь событий в FABRIKA.SPACE">
-		<meta property="og:url" content="http://fabrika.space/">
+		<meta property="og:url" content="http://fabrika.space/Events/">
 		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
 	<?php }elseif(str_ends_with( $_SERVER['REQUEST_URI'], "/coworking/" )) {?>
 		<title>Коворкинг в Fabrika.space | Фабрика Харьков | Ивент-зона | Бар</title>
@@ -48,8 +48,8 @@
 
 		<meta property="og:title" content="Коворкинг в FABRIKA.SPACE ">
 		<meta property="og:description" content="FABRIKA.SPACE – лучший коворкинг в Харькове">
-		<meta property="og:url" content="http://fabrika.space/">
-		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
+		<meta property="og:url" content="http://fabrika.space/coworking/">
+		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/coworking_banner.jpg">
 	<?php }elseif(is_page_template( 'eventzone.php' ) || str_ends_with( $_SERVER['REQUEST_URI'], "/confererence/" )) {?>
 		<title>Ивент-зона в Fabrika.space | Фабрика Харьков | Коворкинг | Бар</title>
 		<meta name="description" content="FABRIKA.SPACE – идеальное место для проведения мероприятий">
@@ -58,7 +58,7 @@
 
 		<meta property="og:title" content="Ивент-зона в FABRIKA.SPACE">
 		<meta property="og:description" content="FABRIKA.SPACE – идеальное место для проведения мероприятий">
-		<meta property="og:url" content="http://fabrika.space/">
+		<meta property="og:url" content="http://fabrika.space/wp-content/themes/fabrika.space/img/eventzoneRed.jpg">
 		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
 	<?php }elseif(str_ends_with( $_SERVER['REQUEST_URI'], "/bar/" )) {?>
 		<title>Бар в Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона</title>
@@ -78,7 +78,7 @@
 
 		<meta property="og:title" content="FABRIKA.SPACE контакты">
 		<meta property="og:description" content="FABRIKA.SPACE – info@fabrika.space">
-		<meta property="og:url" content="http://fabrika.space/">
+		<meta property="og:url" content="http://fabrika.space/contacts/">
 		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
 	<?php }else{?>
 		<title>Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона | Бар</title>
