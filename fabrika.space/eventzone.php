@@ -17,7 +17,7 @@ Template Name: event-zone
 					<div class="descEventRooms">
 						<p>Fabrika.space предоставляет 3 зала для проведения различных мероприятий.</p>
 					</div>
-					<div class="txt">
+					<div class="subdescEventRooms">
 						<p>Залы расположены на втором и третьем этаже здания, построенного в 1929 году. Высокие потолки, элементы промышленного интерьера, обилие света и отличная аккустика создают идеальную базу для проведения мероприятий на 50-450 человек.</p>
 						<p>Каждое помещение оснащено мягкими стульями, современным мультимедийным оборудованием и приточно-вытяжной вентиляцией, везде работает Wi-Fi.</p>
 						<p>В залах установлены проекторы Panasonic, которые позволяют воспроизводить изображения и видео с разрешением до 1024х768рх.</p>
@@ -198,8 +198,8 @@ Template Name: event-zone
 						<div class="title bgTransparentGreen">Зеленая зона</div>
 						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneGreen.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapGreenRoom.jpg" /></div>
-						<div class="lastEvent">
-							<!--div class="titleLastEvent">
+						<!--<div class="lastEvent">
+							<!--<div class="titleLastEvent">
 								<div>Последнее событие в этой зоне</div>
 								<div><b>Kharkiv JS Conf</b></div>
 							</div>
