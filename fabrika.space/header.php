@@ -63,13 +63,13 @@
 	<?php }elseif(str_ends_with( $_SERVER['REQUEST_URI'], "/bar/" )) {?>
 		<title>Бар в Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона</title>
 		<meta name="description" content="FABRIKA.SPACE – самый просторный бар Харькова с оригинальными и классическими напитками">
-		<link rel="image_src" href="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
-		<meta itemprop="image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
+		<link rel="image_src" href="http://fabrika.space/wp-content/themes/fabrika.space/img/bar_banner.jpg">
+		<meta itemprop="image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/bar_banner.jpg">
 
 		<meta property="og:title" content="Бар в FABRIKA.SPACE">
 		<meta property="og:description" content="FABRIKA.SPACE – самый просторный бар Харькова с оригинальными и классическими напитками">
 		<meta property="og:url" content="http://fabrika.space/">
-		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
+		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/bar_banner.jpg">
 	<?php }elseif(str_ends_with( $_SERVER['REQUEST_URI'], "/contacts/" )) {?>
 		<title>Контакты Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона | Бар</title>
 		<meta name="description" content="FABRIKA.SPACE – info@fabrika.space">
