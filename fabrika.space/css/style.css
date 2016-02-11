@@ -580,6 +580,18 @@ input[type="email"] {
 	margin-top: 1px;
 }
 
+.introduction .blockContacts .social .icon_instagram {
+	background: url('../img/icon_instagram.svg') no-repeat left top;
+	width: 18px;
+	height: 18px;
+}
+
+.introduction .blockContacts .social .icon_vk {
+	background: url('../img/icon_vk.svg') no-repeat left top;
+	width: 22px;
+	height: 22px;
+}
+
 .introductionText {
 	margin-left: 400px;
 	position: relative;
