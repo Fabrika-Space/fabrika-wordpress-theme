@@ -74,6 +74,10 @@ $(document).ready(function(){
 			}
 			setAct(currentIndex);
 		});
+
+		setInterval(function(){
+			setAct(++currentIndex);
+		}.bind(this), 8000);
 	});
 
 	$('.events').each(function(){
