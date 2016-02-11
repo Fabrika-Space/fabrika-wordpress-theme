@@ -67,7 +67,7 @@ get_header(); ?>
 			<div class="section partsOfBuilding">
 				<div class="sectionTitle">Мы</div>
 				<div class="sectionContent">
-					<a href="/etc/coworking/" class="item">
+					<a href="/coworking/" class="item">
 						<div class="itemImg">
 							<img src="/wp-content/themes/fabrika.space/img/coworking.jpg" />
 						</div>
@@ -79,7 +79,7 @@ get_header(); ?>
 							</div>
 						</div>
 					</a>
-					<a href="/etc/confererence/" class="item">
+					<a href="/event-zone/" class="item">
 						<div class="itemImg">
 							<img src="/wp-content/themes/fabrika.space/img/conferenceService.jpg" />
 						</div>
@@ -91,7 +91,7 @@ get_header(); ?>
 							</div>
 						</div>
 					</a>
-					<a href="/etc/bar/" class="item">
+					<a href="/bar/" class="item">
 						<div class="itemImg">
 							<img src="/wp-content/themes/fabrika.space/img/bar.jpg" />
 						</div>
