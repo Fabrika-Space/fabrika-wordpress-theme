@@ -541,7 +541,7 @@ input[type="email"] {
 	padding: 0;
 	display: inline-block;
 	vertical-align: middle;
-	margin-left: 42px;
+	margin-left: 30px;
 }
 
 .introduction .blockContacts .social ul li a {
@@ -584,12 +584,14 @@ input[type="email"] {
 	background: url('../img/icon_instagram.svg') no-repeat left top;
 	width: 18px;
 	height: 18px;
+	background-size: contain;
 }
 
 .introduction .blockContacts .social .icon_vk {
 	background: url('../img/icon_vk.svg') no-repeat left top;
-	width: 22px;
-	height: 22px;
+	width: 24px;
+	height: 14px;
+	background-size: contain;
 }
 
 .introductionText {
