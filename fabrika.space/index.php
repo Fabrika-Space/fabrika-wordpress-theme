@@ -11,10 +11,10 @@ get_header(); ?>
 			<!--**************** SLIDER ****************-->
 			<div class="slider">
 				<div class="innerSlider">
-					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderBar.jpg');" data-title="1 Этаж - Бар"></div>
-					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderOffices.jpg');" data-title="2 Этаж - Офисы"></div>
+					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/cosmopolitan.jpg');" data-title="1 Этаж - Бар"></div>
+					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/eventzone2.jpg');" data-title="2 Этаж - Ивент-зона"></div>
 					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderConferenceService.jpg');" data-title="3 Этаж - Ивент-зона"></div>
-					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/imgSliderCoworking.jpg');" data-title="4 Этаж - Коворкинг"></div>
+					<div class="sliderItem" style="background-image: url('/wp-content/themes/fabrika.space/img/sliderHomePage/coworking.jpg');" data-title="4 Этаж - Коворкинг"></div>
 				</div>
 
 				<div class="arrows">
@@ -69,7 +69,7 @@ get_header(); ?>
 			<div class="section partsOfBuilding">
 				<div class="sectionTitle">Мы</div>
 				<div class="sectionContent">
-					<a href="/etc/coworking/" class="item">
+					<a href="/coworking/" class="item">
 						<div class="itemImg">
 							<img src="/wp-content/themes/fabrika.space/img/coworking.jpg" />
 						</div>
@@ -81,7 +81,7 @@ get_header(); ?>
 							</div>
 						</div>
 					</a>
-					<a href="/etc/confererence/" class="item">
+					<a href="/event-zone/" class="item">
 						<div class="itemImg">
 							<img src="/wp-content/themes/fabrika.space/img/conferenceService.jpg" />
 						</div>
@@ -93,7 +93,7 @@ get_header(); ?>
 							</div>
 						</div>
 					</a>
-					<a href="/etc/bar/" class="item">
+					<a href="/bar/" class="item">
 						<div class="itemImg">
 							<img src="/wp-content/themes/fabrika.space/img/bar.jpg" />
 						</div>

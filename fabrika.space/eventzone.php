@@ -25,19 +25,19 @@ Template Name: event-zone
 					</div>
 					<div class="listEventRooms">
 						<div class="item">
-							<div class="title">Зеленая зона<br /> на 50 человек<br /> на втором этаже</div>
+							<div class="title">Зеленый зал<br /> на 50 человек<br /> на втором этаже</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomGreen.png" /></div>
-							<div class="moreDetails"><a href="#">Подробнее</a></div>
+							<div class="moreDetails"><a href="#moreGreen">Подробнее</a></div>
 						</div>
 						<div class="item">
-							<div class="title">Синяя зона<br /> на 150 человек<br /> на втором этаже</div>
+							<div class="title">Синий зал<br /> на 150 человек<br /> на втором этаже</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomBlue.png" /></div>
-							<div class="moreDetails"><a href="#">Подробнее</a></div>
+							<div class="moreDetails"><a href="#moreBlue">Подробнее</a></div>
 						</div>
 						<div class="item">
-							<div class="title">Красная зона<br /> на 450 человек<br /> на третьем этаже</div>
+							<div class="title">Красный зал<br /> на 450 человек<br /> на третьем этаже</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomRed.png" /></div>
-							<div class="moreDetails"><a href="#">Подробнее</a></div>
+							<div class="moreDetails"><a href="#moreRed">Подробнее</a></div>
 						</div>
 					</div>
 				</div>
@@ -74,7 +74,7 @@ Template Name: event-zone
 					</div>
 
 					<div class="roomsDescription">
-						<div class="item">
+						<div class="item" id="moreRed">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineRedRoom.png');"></div>
 							<div class="txt">
 								<p><span class="name">Красный зал</span> - идеально подходит для проведения конференций, семинаров, форумов и других масштабных мероприятий. В нем на удобных стульях может комфортно разместиться до 500 человек.</p> 
@@ -82,14 +82,14 @@ Template Name: event-zone
 								<p>Проектор расположен относительно экрана таким образом, что из любой точки в зале ваши гости увидят изображение в деталях. Плотные жалюзи и высокая контрастность проектора дают возможность проводить презентации даже в самый солнечный день.</p>
 							</div>
 						</div>
-						<div class="item">
+						<div class="item" id="moreBlue">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/eventzoneBluePreview.jpg'), url('/wp-content/themes/fabrika.space/img/lineBlueRoom.png');"></div>
 							<div class="txt">
 								<p><span class="name">Синий зал</span> - оптимальный вариант для проведения митапов, дискусионных и профессиональных встреч. Здесь можно совместить мягкие стулья и бескаркасную мебель для рассадки гостей.</p>
 								<p>4 колонки и усилитель звука в комплекте с меньшим, чем в красном зале, расстоянием между проектором и экраном, позволяют проводить ультра-качественные презентации и выступления.</p>
 							</div>
 						</div>
-						<div class="item">
+						<div class="item" id="moreGreen">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineGreenRoom.png');"></div>
 							<div class="txt">
 								<p><span class="name">Зеленый зал</span> - мы рекомендуем использовать для пресс-конференций, мастер-классов и небольших образовательных встреч.</p> 
@@ -104,7 +104,7 @@ Template Name: event-zone
 							<div class="body">
 								<div class="typePriceCategories">
 									<div class="typePriceCategory">
-										<span class="title">Синяя зона</span>
+										<span class="title">Синий зал</span>
 										<span class="countPeople">50 человек</span>
 										<div class="table">
 											<table>
@@ -122,7 +122,7 @@ Template Name: event-zone
 										</div>
 									</div>
 									<div class="typePriceCategory">
-										<span class="title">Зеленая зона</span>
+										<span class="title">Зеленый зал</span>
 										<span class="countPeople">150 человек</span>
 										<div class="table">
 											<table>
@@ -140,7 +140,7 @@ Template Name: event-zone
 										</div>
 									</div>
 									<div class="typePriceCategory">
-										<span class="title">Красная зона</span>
+										<span class="title">Красный зал</span>
 										<span class="countPeople">450 человек</span>
 										<div class="table">
 											<table>
@@ -169,7 +169,7 @@ Template Name: event-zone
 				<div class="sectionTitle">Планы и фото ивент-зон</div>
 				<div class="sectionContent">
 					<div class="item clear">
-						<div class="title bgTransparentRed">Красная зона</div>
+						<div class="title bgTransparentRed">Красный зал</div>
 						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneRed.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapRedRoom.jpg" /></div>
 						<!--div class="lastEvent">
@@ -182,7 +182,7 @@ Template Name: event-zone
 						</div-->
 					</div>
 					<div class="item clear">
-						<div class="title bgTransparentBlue">синяя зона</div>
+						<div class="title bgTransparentBlue">синий зал</div>
 						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneBlue.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapBlueRoom.jpg" /></div>
 						<!--div class="lastEvent">
@@ -195,7 +195,7 @@ Template Name: event-zone
 						</div-->
 					</div>
 					<div class="item clear">
-						<div class="title bgTransparentGreen">Зеленая зона</div>
+						<div class="title bgTransparentGreen">Зеленый зал</div>
 						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneGreen.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapGreenRoom.jpg" /></div>
 						<!--<div class="lastEvent">
