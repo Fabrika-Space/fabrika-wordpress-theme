@@ -88,8 +88,8 @@
 
 		<meta property="og:title" content="FABRIKA.SPACE">
 		<meta property="og:description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
-		<meta property="og:url" content="http://fabrika.space/">
-		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
+		<meta property="og:url" content="<?php echo($_SERVER['REQUEST_URI']); ?>">
+		<!--meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg"-->
 	<?php };?>
 
 	<link rel="icon" type="image/png" href="/wp-content/themes/fabrika.space/img/favicon.png">
