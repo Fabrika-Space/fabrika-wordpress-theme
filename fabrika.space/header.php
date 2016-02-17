@@ -87,19 +87,16 @@
 			if ($_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
 				$pageURL .= "://";
 			if ($_SERVER["SERVER_PORT"] != "80") {
-				//$imgURL = $pageURL.$_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$imgURL."?1";
 				$pageURL .= $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$_SERVER["REQUEST_URI"];
 			} else {
-				//$imgURL = $pageURL.$imgURL."?3";
-				$pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
-				
+				$pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];				
 			}
 			
 		?>
 		<title>Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона | Бар</title>
 		<meta name="description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
-		<link rel="image_src" href="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
-		<meta itemprop="image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
+		<link rel="image_src" href="<?php echo($imgURL); ?>">
+		<meta itemprop="image" content="<?php echo($imgURL); ?>">
 
 		<meta property="og:title" content="FABRIKA.SPACE">
 		<meta property="og:description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
