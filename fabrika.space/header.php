@@ -80,7 +80,17 @@
 		<meta property="og:description" content="FABRIKA.SPACE – info@fabrika.space">
 		<meta property="og:url" content="http://fabrika.space/contacts/">
 		<meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
-	<?php }else{?>
+	<?php }else{
+
+			$pageURL = 'http';
+			if ($_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
+				$pageURL .= "://";
+			if ($_SERVER["SERVER_PORT"] != "80") {
+				$pageURL .= $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$_SERVER["REQUEST_URI"];
+			} else {
+				$pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
+			} 
+		?>
 		<title>Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона | Бар</title>
 		<meta name="description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
 		<link rel="image_src" href="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg">
@@ -88,7 +98,7 @@
 
 		<meta property="og:title" content="FABRIKA.SPACE">
 		<meta property="og:description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
-		<meta property="og:url" content="<?php echo($_SERVER['REQUEST_URI']); ?>">
+		<meta property="og:url" content="<?php echo($pageURL); ?>">
 		<!--meta property="og:image" content="http://fabrika.space/wp-content/themes/fabrika.space/img/cover.jpg"-->
 	<?php };?>
 
