@@ -90,7 +90,7 @@
 				$imgURL = $pageURL.$_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$imgURL."?1";
 				$pageURL .= $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$_SERVER["REQUEST_URI"];
 			} else {
-				$imgURL = $pageURL.$_SERVER["SERVER_NAME"].$imgURL."?2";
+				$imgURL = $pageURL.$imgURL."?3";
 				$pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
 				
 			}
