@@ -8,7 +8,7 @@
 		<div class="footContacts">
 			<div class="innerFootContacts">
 				<div class="part">
-					<div class="item"><span class="icon_location">Харьков,<br /> ул. Благовещенская, 1 (бывшая Карла Маркса)</span></div>
+					<div class="item"><span class="icon_location">Харьков, ул. Благовещенская, 1 (бывшая Карла Маркса)</span></div>
 				</div>
 				<div class="part">
 					<div class="item"><a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44</a></div>
