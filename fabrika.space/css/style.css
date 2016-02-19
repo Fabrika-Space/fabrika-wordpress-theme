@@ -2785,14 +2785,15 @@ input[type="email"] {
 }
 
 .innerFootContacts {
-	display: inline-block;
-	text-align: left;
+	text-align: center;
 	padding: 27px 0 3px 0;
-	width: 400px;
 }
 
 .footContacts .part {
 	padding: 0 0 24px 0;
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
 }
 
 .footContacts .part .item {

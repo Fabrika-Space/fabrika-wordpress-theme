@@ -13,6 +13,8 @@
 				<div class="part">
 					<div class="item"><a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44</a></div>
 					<div class="item"><a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></div>
+				</div>
+				<div class="part">
 					<div class="item"><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></div>
 				</div>
 				<!--div class="part">
