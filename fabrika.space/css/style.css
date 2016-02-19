@@ -2777,7 +2777,6 @@ input[type="email"] {
 .footContacts {
 	background: rgba(0,0,0,0.5);
 	font-size: 0;
-	height: 270px;
 }
 
 .innerPage .footContacts {
@@ -2794,6 +2793,7 @@ input[type="email"] {
 	display: inline-block;
 	vertical-align: top;
 	text-align: left;
+	width: 376px;
 }
 
 .footContacts .part .item {
@@ -2802,9 +2802,9 @@ input[type="email"] {
 	font-weight: 300;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	font-size: 24px;
+	font-size: 22px;
 	line-height: 28px;
-	padding-left: 150px;
+	padding-left: 90px;
 }
 
 .footContacts .part .item a,
