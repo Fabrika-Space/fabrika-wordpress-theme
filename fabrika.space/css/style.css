@@ -2802,9 +2802,10 @@ input[type="email"] {
 	font-weight: 300;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	font-size: 22px;
+	font-size: 20px;
 	line-height: 28px;
 	padding-left: 90px;
+	letter-spacing: -0.2px;
 }
 
 .footContacts .part .item a,
