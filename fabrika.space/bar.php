@@ -85,74 +85,74 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>FABRIKA</span></div></span>
-											<span class="desc">(140 ml) spicy rum, vermouth rosso, spicy mango cordial, raspberry, lime, egg white, pineapple</span>
 											<span class="price">90 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barFabrika.jpg" /></div>
+										<span class="desc">(140 ml) spicy rum, vermouth rosso, spicy mango cordial, raspberry, lime, egg white, pineapple</span>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>MICHURIN</span></div></span>
-											<span class="desc">(150 ml) Gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
 											<span class="price">100 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCilantroSour.jpg" /></div>
+										<span class="desc">(150 ml) Gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>AMIGO</span></div></span>
-											<span class="desc">(135 ml) tequila, agave sec, cranberry, gomme syrup, lime, egg white, cardamom</span>
 											<span class="price">100 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barAmigo.jpg" /></div>
+										<span class="desc">(135 ml) tequila, agave sec, cranberry, gomme syrup, lime, egg white, cardamom</span>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>PEAR SOUR</span></div></span>
-											<span class="desc">(120 ml) bourbon, pear cordial, lime, egg white</span>
 											<span class="price">80 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPearSour.jpg" /></div>
+										<span class="desc">(120 ml) bourbon, pear cordial, lime, egg white</span>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>WILD SOUR</span></div></span>
-											<span class="desc">(120 ml) grand marnier, lime cordial, sugar, egg white, rosemary</span>
 											<span class="price">85 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barWildSour.jpg" /></div>
+										<span class="desc">(120 ml) grand marnier, lime cordial, sugar, egg white, rosemary</span>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>PASSION APHRODITE</span></div></span>
-											<span class="desc">(200 ml) pineapple, baileys, grape brandy, mascarpone</span>
 											<span class="price">120 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPassionAphrodite.jpg" /></div>
+										<span class="desc">(200 ml) pineapple, baileys, grape brandy, mascarpone</span>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>PINK FUME</span></div></span>
-											<span class="desc">(100 ml) yogurt liquor, sloe gin, amaretto, mascarpone</span>
 											<span class="price">90 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPinkFume.jpg" /></div>
+										<span class="desc">(100 ml) yogurt liquor, sloe gin, amaretto, mascarpone</span>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>HLEB</span></div></span>
-											<span class="desc">(110 ml) rye bread bourbon, lime, gomme syrup, prune, bread</span>
 											<span class="price">90 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barHleb.jpg" /></div>
+										<span class="desc">(110 ml) rye bread bourbon, lime, gomme syrup, prune, bread</span>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>RYE OLD FASHIONED</span></div></span>
-											<span class="desc">(80 ml) rye bourbon, whiskey barrel bitters, sugar</span>
 											<span class="price">135 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barRyeOldFashioned.jpg" /></div>
+										<span class="desc">(80 ml) rye bourbon, whiskey barrel bitters, sugar</span>
 									</div>
 
 								</div>
