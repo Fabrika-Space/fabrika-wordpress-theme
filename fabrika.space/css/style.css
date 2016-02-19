@@ -2764,23 +2764,13 @@ input[type="email"] {
 #footer {
 	line-height: 1;
 	text-align: center;
-}
-
-.innerPage #footer {
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	z-index: 2;
+	max-width: 1200px;
+	margin: 0 auto;
 }
 
 .footContacts {
 	background: rgba(0,0,0,0.5);
 	font-size: 0;
-}
-
-.innerPage .footContacts {
-	padding-bottom: 80px;
 }
 
 .innerFootContacts {
