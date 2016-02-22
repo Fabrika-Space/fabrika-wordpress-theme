@@ -11,7 +11,7 @@ Template Name: event-zone
 		<div id="content" class="clear">
 			<h1>Ивент-зона</h1>
 
-			<div class="section eventRooms bgWhite">
+			<div class="section eventRooms bgWhite clear">
 				<div class="sectionTitle borderBottomTitle">три пространства в фабрике</div>
 				<div class="sectionContent">
 					<div class="descEventRooms">

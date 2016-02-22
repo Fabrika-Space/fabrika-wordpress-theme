@@ -44,14 +44,11 @@ body {
 	font-size: 18px;
 	color: #666666;
 	line-height: 22px;
-}
-
-.homePage {
 	background: #cfccc8;
 }
 
-.innerPage {
-	background: #343434;
+.homePage {
+
 }
 
 .innerPage #all {
