@@ -2305,7 +2305,7 @@ input[type="email"] {
 }
 
 .section.menuBar .contentMenuBar .categoryMenuBar .titleCategoryMenuBar {
-	font-size: 24px;
+	font-size: 22px;
 	color: #000;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -2318,7 +2318,7 @@ input[type="email"] {
 	border-style: solid;
 	border-color: transparent transparent transparent #000;
 	border-width: 5px 8px;
-	margin: -6px 0 0 18px;
+	margin: -6px 0 0 10px;
 	display: inline-block;
 	vertical-align: middle;
 	-webkit-transition: -webkit-transform 0.1s linear;
