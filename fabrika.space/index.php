@@ -197,9 +197,6 @@ get_header(); ?>
 											<a href="<?php the_permalink(); ?>" class="item">
 										<?php } ?>
 
-											<div class="itemImg">
-												<img src="<?php echo get_post_meta($post->ID, 'Photo', true); ?>" />
-											</div>
 											<div class="itemContent">
 												<div class="title"><div><span><?php the_title(); ?></span></div></div>
 												<div class="dateTime">
@@ -209,6 +206,9 @@ get_header(); ?>
 													<span class="date"><?php echo $eventDate['day']; ?></span>
 													<span class="month"><?php echo date('F', mktime(0, 0, 0, $eventDate['month'], 10)); ?></span>
 												</div>
+											</div>
+											<div class="itemImg">
+												<img src="<?php echo get_post_meta($post->ID, 'Photo', true); ?>" />
 											</div>
 										</a>
 									<?php
