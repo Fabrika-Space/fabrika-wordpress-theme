@@ -187,7 +187,7 @@ input[type="email"] {
 	position: absolute;
 	left: 0;
 	top: 0;
-	z-index: 2;
+	z-index: 3;
 	width: 100%;
 	line-height: 1;
 	background: rgba(0,0,0,0.75);
@@ -1449,15 +1449,6 @@ input[type="email"] {
 	background-position: center top;
 }
 
-.innerPage #main.pageStyleLikeHome + #footer {
-	position: static;
-	background: #cfccc8;
-}
-
-.innerPage #main.pageStyleLikeHome + #footer .footContacts {
-	padding-bottom: 0;
-}
-
 .innerPage .pageStyleLikeHome #content {
 	position: relative;
 }
@@ -2191,7 +2182,7 @@ input[type="email"] {
 .section.aboutBar .sectionContent:before {
 	content: '';
 	position: absolute;
-	right: 33.4%;
+	right: 40%;
 	top: 0;
 	height: 100%;
 	border-left: 1px solid #ceccc7;
@@ -2200,7 +2191,7 @@ input[type="email"] {
 
 .section.aboutBar .txtAboutBar {
 	float: left;
-	width: 66.6%;
+	width: 60%;
 	padding: 70px 50px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -2212,9 +2203,9 @@ input[type="email"] {
 
 .section.aboutBar .worktimeAboutBar {
 	float: left;
-	width: 33.4%;
+	width: 36%;
 	text-align: center;
-	padding: 30px 0 24px 0;
+	padding: 30px 2% 24px 2%;
 }
 
 .section.aboutBar .worktimeAboutBar .txt {
@@ -2764,13 +2755,15 @@ input[type="email"] {
 #footer {
 	line-height: 1;
 	text-align: center;
-	max-width: 1200px;
-	margin: 0 auto;
+	padding-bottom: 20px;
+	background: #cfccc8;
 }
 
 .footContacts {
 	background: rgba(0,0,0,0.5);
 	font-size: 0;
+	max-width: 1200px;
+	margin: 0 auto;
 }
 
 .innerFootContacts {
@@ -2783,7 +2776,7 @@ input[type="email"] {
 	display: inline-block;
 	vertical-align: top;
 	text-align: left;
-	width: 376px;
+	width: 33.3%;
 }
 
 .footContacts .part .item {

@@ -172,6 +172,9 @@
 	.section.reservation .textareaComment textarea {
 		width: 100%;
 	}
+	.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .img {
+		margin-right: 0;
+	}
 }
 
 @media screen and (max-width: 899px) {
@@ -251,14 +254,6 @@
 		letter-spacing: -1px;
 	}
 
-	#header {
-		position: static;
-	}
-
-	.homePage #header {
-		position: absolute;
-	}
-
 	.mainMenu.show ul {
 		display: block;
 	}
@@ -305,12 +300,14 @@
 		background: #fff;
 	}
 	.sectionTitle {
-		font-size: 12px;
-		color: #000;
-		background: #cccccc;
-		height: 25px;
-		line-height: 25px;
-		margin: 0 30px 20px 30px;
+		font-size: 18px;
+		color: #fff;
+		font-weight: 700;
+		text-transform: uppercase;
+		background: #000;
+		height: 30px;
+		line-height: 30px;
+		margin: 30px 30px 30px 30px;
 	}
 
 	h1 {
@@ -538,12 +535,13 @@
 		display: none;
 	}
 	.innerFootContacts {
-		width: 260px;
-		margin: 0 auto;
-		padding-top: 40px;
+
 	}
 	.footContacts .part {
+		display: block;
 		padding-bottom: 25px;
+		width: 320px;
+		margin: 0 auto;
 	}
 	.footContacts .part .item {
 		font-size: 18px;
@@ -574,15 +572,11 @@
 		padding: 40px 30px 30px 30px;
 	}
 	.innerPage #main.pageStyleLikeHome {
-		background: #fff;
-		padding-top: 0;
+		background-color: #fff;
+		padding-top: 510px;
 	}
 	.innerPage #main.pageStyleLikeHome #content {
-		padding-top: 0;
-	}
-	.innerPage #main.pageStyleLikeHome #content h1 {
-		position: static;
-		margin-bottom: 20px;
+		padding-top: 0px;
 	}
 	.section.coworkingFriendly .itemsCoworkingFriendly {
 		text-align: center;
@@ -609,6 +603,9 @@
 	}
 	.roomsDescription .item .txt {
 		margin-left: 280px;
+	}
+	.section.menuBar .contentMenuBar .categoryMenuBar {
+		padding: 0 50px;
 	}
 }
 
@@ -672,13 +669,17 @@
 	.section.aboutBar .txtAboutBar {
 		float: none;
 		width: auto;
-		padding: 30px;
+		padding: 0 30px 30px 30px;
+	}
+	.section.menuBar .contentMenuBar {
+		padding-top: 10px;
+		padding-bottom: 10px;
 	}
 	.section.aboutBar .worktimeAboutBar {
 		float: none;
 		width: auto;
-		padding-top: 0;
-		padding-bottom: 50px;
+		padding: 0 50px;
+		font-weight: 700;
 	}
 	.section.aboutBar .worktimeAboutBar .txt br {
 		display: none;
@@ -707,6 +708,15 @@
 	}
 	.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listTxtItems .txtItem .title {
 		padding-right: 100px;
+	}
+	.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data .title {
+		font-size: 16px;
+		margin-bottom: 6px;
+	}
+	.section.menuBar .contentMenuBar .categoryMenuBar .bodyCategoryMenuBar .listBeautifulItems .itemWithImage .data .price {
+		font-size: 16px;
+		float: right;
+		margin-top: 0px;
 	}
 }
 
