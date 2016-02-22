@@ -727,6 +727,9 @@
 		float: right;
 		margin-top: 0px;
 	}
+	.listOurClients .item {
+		padding: 0px 20px 30px 20px;
+	}
 }
 
 
