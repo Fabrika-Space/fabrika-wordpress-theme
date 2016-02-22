@@ -324,9 +324,9 @@ input[type="email"] {
 	position: absolute;
 	left: 0;
 	top: 0;
-	height: 150%;
+	height: 130%;
 	width: 100%;
-	/*overflow: hidden;*/
+	overflow: hidden;
 	text-align: center;
 	-webkit-transition: opacity 0.3s ease;
 	-moz-transition: opacity 0.3s ease;
@@ -336,7 +336,7 @@ input[type="email"] {
 
 	background-position: center top;
 	background-repeat: no-repeat;
-	/*background-size: cover;*/
+	background-size: cover;
 }
 
 .slider .innerSlider .sliderItem.act {
@@ -1015,15 +1015,15 @@ input[type="email"] {
 }
 
 .events .item .itemContent .title:after {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: -1px;
-    padding-bottom: 1px;
-    width: 20px;
-    height: 100%;
-    background: #000;
-    display: none;
+	content: '';
+	position: absolute;
+	left: 0;
+	top: -1px;
+	padding-bottom: 1px;
+	width: 20px;
+	height: 100%;
+	background: #000;
+	display: none;
 }
 
 .events .item:hover .itemImg {
