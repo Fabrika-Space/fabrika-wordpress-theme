@@ -458,6 +458,7 @@
 		display: block;
 		float: none;
 		width: 100%;
+		position: static;
 	}
 
 	.events .item .itemImg img {
@@ -555,6 +556,7 @@
 		transform: scale(0.7);
 		left: 0;
 		margin-top: -2px;
+		left: 12px;
 	}
 	#googleMap {
 		height: 270px;
@@ -575,6 +577,9 @@
 		background-color: #fff;
 		padding-top: 510px;
 		background-size: auto 600px;
+	}
+	.innerPage #main.pageStyleLikeHome.contactsMain {
+		padding-top: 0;
 	}
 	.innerPage #main.pageStyleLikeHome #content {
 		padding-top: 0px;
@@ -638,8 +643,7 @@
 		margin: 0 30px 30px 0;
 	}
 
-	.news .lastnews .imgLastnews,
-	.events .item .itemImg {
+	.news .lastnews .imgLastnews {
 		display: none;
 	}
 
