@@ -321,7 +321,7 @@ input[type="email"] {
 	position: absolute;
 	left: 0;
 	top: 0;
-	height: 130%;
+	height: 100%;
 	width: 100%;
 	overflow: hidden;
 	text-align: center;
