@@ -526,7 +526,8 @@ input[type="email"] {
 }
 
 .introduction .blockContacts .social {
-	padding: 0 0 25px 50px;
+	padding: 0 16px 25px 0;
+	text-align: center;
 }
 
 .introduction .blockContacts .social ul {
@@ -2769,6 +2770,19 @@ input[type="email"] {
 .innerFootContacts {
 	text-align: center;
 	padding: 27px 0 3px 0;
+}
+
+.homePage #footer {
+	padding-bottom: 0;
+}
+
+.homePage #footer .footContacts {
+	max-width: 100%;
+}
+
+.homePage #footer .footContacts .innerFootContacts {
+	max-width: 1200px;
+	margin: 0 auto;
 }
 
 .footContacts .part {
