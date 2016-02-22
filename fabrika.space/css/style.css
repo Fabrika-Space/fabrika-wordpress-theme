@@ -1386,7 +1386,6 @@ input[type="email"] {
 
 .eventItem .info {
 	margin-left: 300px;
-	overflow: hidden;
 }
 
 .eventItem .info .title {
@@ -1396,6 +1395,7 @@ input[type="email"] {
 	line-height: 48.5px;
 	display: block;
 	margin-bottom: 13px;
+	word-break: break-word;
 }
 
 .eventItem .info .date {
@@ -1417,6 +1417,7 @@ input[type="email"] {
 	color: #333;
 	line-height: 22px;
 	display: block;
+	word-break: break-word;
 }
 
 .eventItem .info .txt p {
