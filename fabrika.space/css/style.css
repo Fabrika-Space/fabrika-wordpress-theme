@@ -2183,7 +2183,7 @@ input[type="email"] {
 .section.aboutBar .sectionContent:before {
 	content: '';
 	position: absolute;
-	right: 40%;
+	right: 33.3%;
 	top: 0;
 	height: 100%;
 	border-left: 1px solid #ceccc7;
@@ -2192,7 +2192,7 @@ input[type="email"] {
 
 .section.aboutBar .txtAboutBar {
 	float: left;
-	width: 60%;
+	width: 66.6%;
 	padding: 70px 50px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -2204,9 +2204,9 @@ input[type="email"] {
 
 .section.aboutBar .worktimeAboutBar {
 	float: left;
-	width: 36%;
+	width: 31.3%;
 	text-align: center;
-	padding: 30px 2% 24px 2%;
+	padding: 30px 1% 24px 1%;
 }
 
 .section.aboutBar .worktimeAboutBar .txt {
