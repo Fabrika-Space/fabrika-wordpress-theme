@@ -210,7 +210,8 @@ $(document).ready(function(){
 		var title = $(el).parents('.itemWithImage').find('.title').text();
 		var price = $(el).parents('.itemWithImage').find('.price').text();
 		var composition = $(el).parents('.itemWithImage').find('.composition').text();
-		var desc = $(el).parents('.itemWithImage').find('.desc').text();
+		//var desc = $(el).parents('.itemWithImage').find('.desc').text();
+		var desc = '';
 
 		var template = [
 			'<div class="popupGalery">',
