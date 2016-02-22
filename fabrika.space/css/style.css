@@ -2926,7 +2926,7 @@ input[type="email"] {
 	background: rgba(0,0,0,0.22);
 }
 
-.closePopupGalery {
+.closePopupGalery:before {
 	content: '';
 	width: 24px;
 	height: 26px;
@@ -2980,5 +2980,5 @@ input[type="email"] {
 	color: #000;
 	line-height: 21px;
 	display: block;
-	padding: 24px 0;
+	padding: 24px 20px 24px 0;
 }
