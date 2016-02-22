@@ -248,6 +248,7 @@
 	.mainMenu ul li {
 		display: block;
 		padding: 16px 0;
+		margin-left: 0;
 	}
 	.mainMenu ul li a {
 		font-size: 32px;
