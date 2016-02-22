@@ -1385,7 +1385,8 @@ input[type="email"] {
 }
 
 .eventItem .info {
-	margin-left: 300px;	
+	margin-left: 300px;
+	overflow: hidden;
 }
 
 .eventItem .info .title {
