@@ -202,6 +202,73 @@ $(document).ready(function(){
 		if(e.currentTarget.value.length === 3) {
 			$(this).parents('.phone').first().find('.numbPhone input').focus();
 		}
-	})
+	});
+
+	var indexPopupGalery;
+	var renderPopupGalery = function(el){
+		var src = $(el).attr('src');
+		var title = $(el).parents('.itemWithImage').find('.title').text();
+		var price = $(el).parents('.itemWithImage').find('.price').text();
+		var composition = $(el).parents('.itemWithImage').find('.composition').text();
+		var desc = $(el).parents('.itemWithImage').find('.desc').text();
+
+		var template = [
+			'<div class="popupGalery">',
+				'<div class="innerPopupGalery">',
+					'<div class="leftArrowPopupGalery"></div>',
+					'<div class="rightArrowPopupGalery"></div>',
+					'<div class="closePopupGalery"></div>',
+					'<div class="img"><img src="'+src+'"></div>',
+					'<div class="info">',
+						'<div class="title">'+title+'</div>',
+						'<div class="price">'+price+'</div>',
+						'<div class="txt">',
+							'<b>'+composition+'</b><br />' + desc,
+						'</div>',
+					'</div>',
+				'</div>',
+			'</div>',
+		].join('');
+
+		if($('body').find('.popupGalery').length) {
+			$('body').find('.popupGalery .img img').attr('src', src);
+			$('body').find('.popupGalery .title').text(title);
+			$('body').find('.popupGalery .price').text(price);
+			$('body').find('.popupGalery .txt').html('<b>'+composition+'</b><br />' + desc);
+		} else {
+			$('body').append($(template));
+		}
+	};
+
+	$('[data-popupGalery]').on('click', function(e){
+		indexPopupGalery = $('[data-popupGalery]').index($(this));
+		renderPopupGalery(e.currentTarget);
+	});
+
+	$('body').on('click', '.leftArrowPopupGalery', function(){
+		if(indexPopupGalery-1 <0) {
+			indexPopupGalery = $('[data-popupGalery]').length -1;
+			renderPopupGalery($('[data-popupGalery]').last()[0]);
+			return;
+		}
+		--indexPopupGalery;
+		renderPopupGalery($('[data-popupGalery]')[indexPopupGalery]);
+	});
+
+	$('body').on('click', '.rightArrowPopupGalery', function(){
+		if (indexPopupGalery+1 >= $('[data-popupGalery]').length) {
+			indexPopupGalery = 0;
+			renderPopupGalery($('[data-popupGalery]').first()[0]);
+			return;
+		}
+		
+		++indexPopupGalery;
+		renderPopupGalery($('[data-popupGalery]')[indexPopupGalery]);
+	});
+
+	$('body').on('click', '.closePopupGalery', function(){
+		$(this).parents('.popupGalery').remove();
+	});
+	
 
 });
