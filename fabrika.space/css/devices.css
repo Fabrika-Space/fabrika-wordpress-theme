@@ -326,8 +326,9 @@
 	.slider {
 		height: 490px;
 	}
-	.slider .innerSlider .sliderItem img {
+	.slider .innerSlider .sliderItem {
 		height: 100%;
+		background-size: cover;
 	}
 
 	.slider .data,
