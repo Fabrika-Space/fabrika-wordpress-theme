@@ -90,8 +90,8 @@ $(document).ready(function(){
 		var lastIndex = $(this).find('.listItems .item').length -1;
 		var actIndex = $(this).find('.listItems .act').index();
 		var actIndexStartsFromEnd = lastIndex - actIndex;
-		if(actIndexStartsFromEnd > 3) {
-			var decreaseMarginLeft = (actIndexStartsFromEnd - 3) * slideWidth;
+		if(actIndexStartsFromEnd > 5) {
+			var decreaseMarginLeft = (actIndexStartsFromEnd - 5) * slideWidth;
 			currentMarginLeft += decreaseMarginLeft;
 		}
 

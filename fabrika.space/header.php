@@ -111,7 +111,7 @@
 	<link rel="stylesheet" type="text/css" href="/wp-content/themes/fabrika.space/css/devices.css" />
 
 	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-	<script src="/wp-content/themes/fabrika.space/js/nightnei.js"></script>
+	<script src="/wp-content/themes/fabrika.space/js/main.js"></script>
 
 	<script src="https://use.typekit.net/ofq1pbu.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
