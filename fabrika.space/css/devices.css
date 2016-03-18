@@ -423,12 +423,11 @@
 
 	.events .sectionContent .listItems {
 		margin: 0;
+		overflow: auto;
 	}
-
 	.events .sectionContent .listItems .innerListItems {
 		margin-left: 0 !important;
 	}
-
 	.events .sectionContent .leftArrow,
 	.events .sectionContent .rightArrow,
 	.events .sectionContent .leftArrow.act,
