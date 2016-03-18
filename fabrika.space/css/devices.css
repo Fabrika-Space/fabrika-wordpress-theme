@@ -421,7 +421,7 @@
 		padding: 0 30px 44px 30px;
 	}
 
-	.events .sectionContent {
+	/*.events .sectionContent {
 		border-top: none;
 	}
 	.events .item {
@@ -532,7 +532,7 @@
 
 	.events .item .itemContent .dateTime .month {
 		padding: 0 10px 0 0;
-	}
+	}*/
 
 	.gallery {
 		display: none;
