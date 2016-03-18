@@ -425,6 +425,17 @@
 		margin: 0;
 	}
 
+	.events .sectionContent .listItems .innerListItems {
+		margin-left: 0 !important;
+	}
+
+	.events .sectionContent .leftArrow,
+	.events .sectionContent .rightArrow,
+	.events .sectionContent .leftArrow.act,
+	.events .sectionContent .rightArrow.act {
+		display: none;
+	}
+
 	/*.events .sectionContent {
 		border-top: none;
 	}
@@ -443,12 +454,6 @@
 	}
 	.events .item.act {
 		display: block;
-	}
-	.events .sectionContent .leftArrow,
-	.events .sectionContent .rightArrow,
-	.events .sectionContent .leftArrow.act,
-	.events .sectionContent .rightArrow.act {
-		display: none;
 	}
 
 	.events .item {

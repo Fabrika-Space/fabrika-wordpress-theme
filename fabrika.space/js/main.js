@@ -100,8 +100,12 @@ $(document).ready(function(){
 		var changePosition = function(marginLeft){
 			(parseInt(marginLeft) >= 0) ? parentNode.find('.leftArrow').removeClass('act') : parentNode.find('.leftArrow').addClass('act');
 			(parseInt(marginLeft) <= -(length*parseInt(slideWidth)-parseInt(parentNode.width()))) ? parentNode.find('.rightArrow').removeClass('act') : parentNode.find('.rightArrow').addClass('act');
-			
-			wrapper.css('margin-left', marginLeft);
+
+			if($(window).width() >= 900) {
+				wrapper.css('margin-left', marginLeft);
+			} else {
+				$(this).find('.listItems').scrollLeft($(this).find('.listItems .act').offset().left);
+			}
 		};
 
 		changePosition(currentMarginLeft);
