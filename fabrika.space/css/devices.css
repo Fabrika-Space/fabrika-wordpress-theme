@@ -434,6 +434,18 @@
 	.events .sectionContent .rightArrow.act {
 		display: none;
 	}
+	.events .item .itemImg {
+		opacity: 1;
+	}
+	.events .item .itemContent .title {
+		color: #fff;
+	}
+	.events .item .itemContent .title:after {
+		display: block;
+	}
+	.events .item .itemContent .title div {
+		background: #000;
+	}
 
 	/*.events .sectionContent {
 		border-top: none;
