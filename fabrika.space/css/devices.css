@@ -446,6 +446,15 @@
 	.events .item .itemContent .title div {
 		background: #000;
 	}
+	.events .item .itemContent .dateTime {
+		background: #000;
+	}
+	.events .item .itemContent .dateTime .time,
+	.events .item .itemContent .dateTime .date,
+	.events .item .itemContent .dateTime .month {
+		color: #fff;
+		display: block;
+	}
 
 	/*.events .sectionContent {
 		border-top: none;
