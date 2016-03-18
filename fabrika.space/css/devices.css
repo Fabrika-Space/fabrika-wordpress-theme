@@ -421,6 +421,10 @@
 		padding: 0 30px 44px 30px;
 	}
 
+	.events .sectionContent .listItems {
+		margin: 0;
+	}
+
 	/*.events .sectionContent {
 		border-top: none;
 	}
@@ -432,9 +436,7 @@
 		margin-right: auto;
 		float: none;
 	}
-	.events .sectionContent .listItems {
-		margin: 0;
-	}
+
 	.events .sectionContent .innerListItems {
 		width: auto !important;
 		margin-left: 0 !important;
