@@ -451,6 +451,7 @@
 	}
 	.events .item .itemContent .dateTime .time,
 	.events .item .itemContent .dateTime .date,
+	.events .item.act .itemContent .dateTime .date,
 	.events .item .itemContent .dateTime .month {
 		color: #fff;
 		display: block;
