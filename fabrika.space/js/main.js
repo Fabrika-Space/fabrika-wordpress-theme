@@ -104,7 +104,7 @@ $(document).ready(function(){
 			if($(window).width() >= 900) {
 				wrapper.css('margin-left', marginLeft);
 			} else {
-				$(this).find('.listItems').scrollLeft($(this).find('.listItems .act').offset().left);
+				parentNode.find('.listItems').scrollLeft(parentNode.find('.listItems .act').offset().left);
 			}
 		};
 
