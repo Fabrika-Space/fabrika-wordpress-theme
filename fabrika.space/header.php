@@ -151,7 +151,7 @@
 					<li <?php if(strpos($_SERVER['REQUEST_URI'], "/event-zone/" )!==false) {echo "class='act'"; }; ?>><a href="/event-zone/<?php echo($langToken.($lang=='ru'?'">Ивент-зона':'">Event-zone'));?></a></li>
 					<li <?php if(strpos($_SERVER['REQUEST_URI'], "/bar/" )!==false) {echo "class='act'"; }; ?>><a href="/bar/<?php echo($langToken.($lang=='ru'?'">Бар':'">Bar'));?></a></li>
 					<li <?php if(strpos($_SERVER['REQUEST_URI'], "/contacts/" )!==false) {echo "class='act'"; }; ?>><a href="/contacts/<?php echo($langToken.($lang=='ru'?'">Контакты':'">Contacts'));?></a></li>
-					<li><a href="?lang=<?php echo($altLang)?>"><?php echo($altLang)?></a></li>
+					<!--li><a href="?lang=<?php echo($altLang)?>"><?php echo($altLang)?></a></li-->
 				</ul>
 			</div>
 			<a href="/<?php echo($langToken); ?>" class="logo"><img src="/wp-content/themes/fabrika.space/img/logo.svg" /></a>
