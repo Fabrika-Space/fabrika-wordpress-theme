@@ -8,8 +8,19 @@
 <head>
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<?php
+		$lang = 'ru';
+		$altLang = 'en';
 
-	
+		$urlLang = $_GET["lang"]; //getting language from the query string
+
+		if ($urlLang && strcmp($urlLang, $lang) < 0) { //swap language settings
+				$tmp = $lang;
+				$lang = $altLang;
+				$altLang=$tmp;
+		}
+		$langToken="?lang=".$lang;
+	?>
 	<?php if(is_front_page()) {?>
 		<title>Fabrika.space | Фабрика Харьков | Коворкинг | Ивент-зона | Бар</title>
 		<meta name="description" content="FABRIKA.SPACE – хаб притяжения умов, мастерская идей и качественного отдыха">
@@ -132,17 +143,18 @@
 				<span class="sandwich"></span>
 				<span class="closeMainMenu"></span>
 				<ul>
-					<li <?php if(is_front_page()) {echo "class='act'"; }; ?>><a href="/">Главная</a></li>
-					<li <?php if(is_page_template( 'allnews.php' )) {echo "class='act'"; }; ?>><a href="/News">Новости</a></li>
-					<li <?php if(is_page_template( 'allevents.php' )) {echo "class='act'"; }; ?>><a href="/Events">События</a></li>
+					<li <?php if(is_front_page()) {echo "class='act'"; }; ?>><a href="/<?php echo($langToken.($lang=='ru'?'">Главная':'">Main'));?></a></li>
+					<li <?php if(is_page_template( 'allnews.php' )) {echo "class='act'"; }; ?>><a href="/News<?php echo($langToken.($lang=='ru'?'">Новости':'">News'));?></a></li>
+					<li <?php if(is_page_template( 'allevents.php' )) {echo "class='act'"; }; ?>><a href="/Events<?php echo($langToken.($lang=='ru'?'">События':'">Events'));?></a></li>
 
-					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/coworking/" )) {echo "class='act'"; }; ?>><a href="/coworking/">Коворкинг</a></li>
-					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/event-zone/" )) {echo "class='act'"; }; ?>><a href="/event-zone/">Ивент-зона</a></li>
-					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/bar/" )) {echo "class='act'"; }; ?>><a href="/bar/">Бар</a></li>
-					<li <?php if(str_ends_with( $_SERVER['REQUEST_URI'], "/contacts/" )) {echo "class='act'"; }; ?>><a href="/contacts/">Контакты</a></li>
+					<li <?php if(strpos($_SERVER['REQUEST_URI'], "/coworking/" )!==false) {echo "class='act'"; }; ?>><a href="/coworking/<?php echo($langToken.($lang=='ru'?'">Коворкинг':'">Coworking'));?></a></li>
+					<li <?php if(strpos($_SERVER['REQUEST_URI'], "/event-zone/" )!==false) {echo "class='act'"; }; ?>><a href="/event-zone/<?php echo($langToken.($lang=='ru'?'">Ивент-зона':'">Event-zone'));?></a></li>
+					<li <?php if(strpos($_SERVER['REQUEST_URI'], "/bar/" )!==false) {echo "class='act'"; }; ?>><a href="/bar/<?php echo($langToken.($lang=='ru'?'">Бар':'">Bar'));?></a></li>
+					<li <?php if(strpos($_SERVER['REQUEST_URI'], "/contacts/" )!==false) {echo "class='act'"; }; ?>><a href="/contacts/<?php echo($langToken.($lang=='ru'?'">Контакты':'">Contacts'));?></a></li>
+					<li><a href="?lang=<?php echo($altLang)?>"><?php echo($altLang)?></a></li>
 				</ul>
 			</div>
-			<a href="/" class="logo"><img src="/wp-content/themes/fabrika.space/img/logo.svg" /></a>
+			<a href="/<?php echo($langToken); ?>" class="logo"><img src="/wp-content/themes/fabrika.space/img/logo.svg" /></a>
 		</div>
 	</header><!-- end #header-->
 

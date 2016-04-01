@@ -4,11 +4,25 @@
  */
 ?>
 
+<?php
+		$lang = 'ru';
+		$altLang = 'en';
+
+		$urlLang = $_GET["lang"]; //getting language from the query string
+
+		if ($urlLang && strcmp($urlLang, $lang) < 0) { //swap language settings
+				$tmp = $lang;
+				$lang = $altLang;
+				$altLang=$tmp;
+		}
+		$langToken="?lang=".$lang;
+?>
+
 	<footer id="footer">
 		<div class="footContacts">
 			<div class="innerFootContacts">
 				<div class="part">
-					<div class="item"><span class="icon_location">Харьков, ул. Благовещенская, 1 (бывшая Карла Маркса)</span></div>
+					<div class="item"><span class="icon_location"><?php echo($lang=='ru'?'Харьков, ул. Благовещенская, 1 (бывшая Карла Маркса)':'Blagovischenska str. 1, Kharkiv, Ukraine') ?></span></div>
 				</div>
 				<div class="part">
 					<div class="item"><a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44</a></div>
