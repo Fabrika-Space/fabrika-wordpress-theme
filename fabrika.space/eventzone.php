@@ -48,7 +48,7 @@ Template Name: event-zone
 							<div class="moreDetails"><a href="#moreBlue">More details</a></div>
 						</div>
 						<div class="item">
-							<div class="title">Red hall<br /> up to 450 seats<br /> on the thrid floor</div>
+							<div class="title">Red hall<br /> up to 500 seats<br /> on the thrid floor</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomRed.png" /></div>
 							<div class="moreDetails"><a href="#moreRed">More details</a></div>
 						</div>
@@ -90,7 +90,7 @@ Template Name: event-zone
 						<div class="item" id="moreRed">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineRedRoom.png');"></div>
 							<div class="txt">
-								<p><span class="name">Red Hall</span> - is the best choice for conferences, seminars, forums and other types of big public events. About 500 people can accommodate in the Red Hall on comfortable chairs.</p>
+								<p><span class="name">Red Hall:</span> is the best choice for conferences, seminars, forums and other types of big public events. About 500 people can accommodate in the Red Hall on comfortable chairs.</p>
 								<p>Red Hall is equipped with an amplifier and 8 powerful speakers which allows to hold even an acoustic concert. The arrangement of sound equipment makes it possible to get the perfect audibility in every part of the Hall.</p>
 								<p>Location of Panasonic projector allows your guests to see the image in details from every corner. You can hold an event and carry out your presentation or video even in the sunniest day thanks to dense blinds and high contrast ratio of the projector.</p>
 							</div>
@@ -98,14 +98,14 @@ Template Name: event-zone
 						<div class="item" id="moreBlue">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/eventzoneBluePreview.jpg'), url('/wp-content/themes/fabrika.space/img/lineBlueRoom.png');"></div>
 							<div class="txt">
-								<p><span class="name">Blue Hall</span> - is located on the second floor, too. It is perfect for meetups, discussional and professional meetings with up to 150 people.</p>
+								<p><span class="name">Blue Hall:</span> is located on the second floor, too. It is perfect for meetups, discussional and professional meetings with up to 150 people.</p>
 								<p>It is equipped with stereo amplifier and 4 speakers. Comparing to the Red Hall the Blue Hall space has smaller distance between the screen and the projector which is great for screening high-quality presentations.</p>
 							</div>
 						</div>
 						<div class="item" id="moreGreen">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineGreenRoom.png');"></div>
 							<div class="txt">
-								<p><span class="name">Green Hall</span> - is located on the second floor and can comfortably accommodate up to 50 people. We recommend to use it for press-conferences, workshops and educational meetings.</p>
+								<p><span class="name">Green Hall:</span> is located on the second floor and can comfortably accommodate up to 50 people. We recommend to use it for press-conferences, workshops and educational meetings.</p>
 								<p>Stereo amplifier with 2 speakers provides good sound coverage for the Green Hall and the projector has the same features as in Blue and Red Halls, despite the smaller space.</p>
 							</div>
 						</div>
@@ -154,7 +154,7 @@ Template Name: event-zone
 									</div>
 									<div class="typePriceCategory">
 										<span class="title">Red hall</span>
-										<span class="countPeople">450 seats</span>
+										<span class="countPeople">500 seats</span>
 										<div class="table">
 											<table>
 												<tr>
@@ -174,7 +174,7 @@ Template Name: event-zone
 							</div>
 						</div>
 					</div>
-					<div class="txtHelpPricing">You may get request for additional information: +38(068)100-11-44 and info@fabrika.space</div>
+					<div class="txtHelpPricing">You may request for additional information: +38(068)100-11-44 and info@fabrika.space</div>
 				</div>
 			</div>
 			
@@ -229,7 +229,7 @@ Template Name: event-zone
 						<p>Fabrika.space предоставляет 3 зала для проведения различных мероприятий.</p>
 					</div>
 					<div class="subdescEventRooms">
-						<p>Залы расположены на втором и третьем этаже здания, построенного в 1929 году. Высокие потолки, элементы промышленного интерьера, обилие света и отличная аккустика создают идеальную базу для проведения мероприятий на 50-450 человек.</p>
+						<p>Залы расположены на втором и третьем этаже здания, построенного в 1929 году. Высокие потолки, элементы промышленного интерьера, обилие света и отличная аккустика создают идеальную базу для проведения мероприятий на 50-500 человек.</p>
 						<p>Каждое помещение оснащено мягкими стульями, современным мультимедийным оборудованием и приточно-вытяжной вентиляцией, везде работает Wi-Fi.</p>
 						<p>В залах установлены проекторы Panasonic, которые позволяют воспроизводить изображения и видео с разрешением до 1024х768рх.</p>
 						<p>Мы обеспечиваем полную техническую поддержку при проведении мероприятий. Вам понадобится только ноутбук и материал для презентации. Мы так же берем на себя организацию кофе-брейков, ланчей и видео-записи ваших мероприятий, настройку звука, света и аппаратуры.</p>
@@ -246,7 +246,7 @@ Template Name: event-zone
 							<div class="moreDetails"><a href="#moreBlue">Подробнее</a></div>
 						</div>
 						<div class="item">
-							<div class="title">Красный зал<br /> на 450 человек<br /> на третьем этаже</div>
+							<div class="title">Красный зал<br /> на 500 человек<br /> на третьем этаже</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomRed.png" /></div>
 							<div class="moreDetails"><a href="#moreRed">Подробнее</a></div>
 						</div>
@@ -352,7 +352,7 @@ Template Name: event-zone
 									</div>
 									<div class="typePriceCategory">
 										<span class="title">Красный зал</span>
-										<span class="countPeople">450 человек</span>
+										<span class="countPeople">500 человек</span>
 										<div class="table">
 											<table>
 												<tr>
