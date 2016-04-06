@@ -82,7 +82,7 @@ get_header();
 
 			<!--**************** PARTS_OF_BUILDING ****************-->
 			<div class="section partsOfBuilding">
-				<div class="sectionTitle">We</div>
+				<div class="sectionTitle">We are</div>
 				<div class="sectionContent">
 					<a href="/coworking/" class="item">
 						<div class="itemImg">
