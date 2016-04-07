@@ -244,6 +244,18 @@ input[type="email"] {
 	letter-spacing: -0.5px;
 }
 
+.mainMenu ul li a.langSwitcher {
+	width: 24px;
+	height: 24px;
+	line-height: 24px;
+	text-align: center;
+	background: #fff;
+	border-radius: 50%;
+	color: #000;
+	font-size: 12px;
+
+}
+
 .mainMenu .actLine {
 	position: absolute;
 	left: 0;
