@@ -3,7 +3,18 @@
 Template Name: allnews
 */
 ?>
-<?php get_header(); ?>
+<?php get_header(); 
+	$lang = 'ru';
+	$altLang = 'en';
+
+	$urlLang = $_GET["lang"]; //getting language from the query string
+
+	if ($urlLang && strcmp($urlLang, $lang) < 0) { //swap language settings
+		$tmp = $lang;
+		$lang = $altLang;
+		$altLang=$tmp;
+	}
+?>
 
 	<!--**************** MAIN ****************-->
 	<div id="main">
@@ -12,7 +23,25 @@ Template Name: allnews
 			<div class="contentMainPart">
 				<div class="eventsContainer">
 				<?php
-						$args = array( 'category_name' => 'News', 'posts_per_page' => -1, 'orderby' => 'post_date' );
+					if($lang=='en')
+						$args = array( 'category_name' => 'News', 
+									'posts_per_page' => -1, 
+									'orderby' => 'post_date',
+									'meta_query' => array(
+										array(
+											'key' => 'lang',
+											'value' => $lang) 
+									));
+					else
+						$args = array( 'category_name' => 'News', 
+									'posts_per_page' => -1, 
+									'orderby' => 'post_date',
+									 'meta_query' => array(
+										array(
+											'key' => 'lang',
+											'compare' => 'NOT EXISTS') 
+									));
+
 						$postslist = get_posts( $args );
 						$latest=true;
 

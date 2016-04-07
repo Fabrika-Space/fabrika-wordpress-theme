@@ -3,7 +3,18 @@
 Template Name: allevents
 */
 ?>
-<?php get_header(); ?>
+<?php get_header(); 
+$lang = 'ru';
+	$altLang = 'en';
+
+	$urlLang = $_GET["lang"]; //getting language from the query string
+
+	if ($urlLang && strcmp($urlLang, $lang) < 0) { //swap language settings
+		$tmp = $lang;
+		$lang = $altLang;
+		$altLang=$tmp;
+	}
+?>
 
 	<!--**************** MAIN ****************-->
 	<div id="main">
@@ -12,17 +23,40 @@ Template Name: allevents
 			<div class="contentMainPart">
 				<div class="eventsContainer">
 					<?php
-						$querystr = "
+						if($lang=='en')
+							$querystr = "
 											SELECT STR_TO_DATE(wpostmeta.meta_value, '%d-%m-%Y') as evdate, wposts.*
 											FROM $wpdb->posts wposts, $wpdb->postmeta wpostmeta
 											WHERE wposts.ID = wpostmeta.post_id
 											AND wpostmeta.meta_key = 'EventDate'
 											AND wposts.post_status = 'publish'
 											AND wposts.post_type = 'post'
+											AND wposts.ID IN  (
+											SELECT pm.post_id FROM $wpdb->postmeta pm, $wpdb->posts p
+												WHERE (pm.post_id = p.ID)
+												AND pm.meta_key = 'lang'
+                                                AND pm.meta_value = 'en'
+											)
+											ORDER BY evdate DESC
+											";
+						else
+							$querystr = "
+											SELECT STR_TO_DATE(wpostmeta.meta_value, '%d-%m-%Y') as evdate, wposts.*
+											FROM $wpdb->posts wposts, $wpdb->postmeta wpostmeta
+											WHERE wposts.ID = wpostmeta.post_id
+											AND wpostmeta.meta_key = 'EventDate'
+											AND wposts.post_status = 'publish'
+											AND wposts.post_type = 'post'
+											AND wposts.ID NOT IN  (
+												SELECT pm.post_id FROM $wpdb->postmeta pm, $wpdb->posts p
+												WHERE (pm.post_id = p.ID)
+												AND pm.meta_key = 'lang'
+                                                AND pm.meta_value = 'en'
+											)
 											ORDER BY evdate DESC
 											";
 
-								$pageposts = $wpdb->get_results($querystr, OBJECT);
+							$pageposts = $wpdb->get_results($querystr, OBJECT);
 
 						if ($pageposts){
 							//$args = array( 'category_name' => 'Event', 'posts_per_page' => -1, 'orderby' => 'post_date' );

@@ -128,7 +128,14 @@ get_header();
 				<div class="sectionTitle">News</div>
 				<div class="sectionContent">
 					<?php
-						$args = array( 'category_name' => 'News', 'posts_per_page' => 3, 'orderby' => 'post_date' );
+						$args = array( 'category_name' => 'News', 
+									'posts_per_page' => 3, 
+									'orderby' => 'post_date',
+									'meta_query' => array(
+										array(
+											'key' => 'lang',
+											'value' => $lang) 
+									) );
 						$postslist = get_posts( $args );
 						$latest=true;
 
@@ -189,8 +196,13 @@ get_header();
 											AND wpostmeta.meta_key = 'EventDate'
 											AND wposts.post_status = 'publish'
 											AND wposts.post_type = 'post'
-											ORDER BY evdate ASC
-											";
+											AND wposts.ID IN  (
+											SELECT pm.post_id FROM $wpdb->postmeta pm, $wpdb->posts p
+												WHERE (pm.post_id = p.ID)
+												AND pm.meta_key = 'lang'
+                                                AND pm.meta_value = 'en'
+											)
+											ORDER BY evdate ASC";
 
 								$pageposts = $wpdb->get_results($querystr, OBJECT);
 
@@ -393,7 +405,14 @@ get_header();
 				<div class="sectionTitle">Новости</div>
 				<div class="sectionContent">
 					<?php
-						$args = array( 'category_name' => 'News', 'posts_per_page' => 3, 'orderby' => 'post_date' );
+						$args = array( 'category_name' => 'News', 
+										'posts_per_page' => 3, 
+										'orderby' => 'post_date', 
+										'meta_query' => array(
+										array(
+											'key' => 'lang',
+											'compare' => 'NOT EXISTS') 
+									));
 						$postslist = get_posts( $args );
 						$latest=true;
 
@@ -454,8 +473,13 @@ get_header();
 											AND wpostmeta.meta_key = 'EventDate'
 											AND wposts.post_status = 'publish'
 											AND wposts.post_type = 'post'
-											ORDER BY evdate ASC
-											";
+											AND wposts.ID NOT IN  (
+												SELECT pm.post_id FROM $wpdb->postmeta pm, $wpdb->posts p
+												WHERE (pm.post_id = p.ID)
+												AND pm.meta_key = 'lang'
+                                                AND pm.meta_value = 'en'
+											)
+											ORDER BY evdate ASC";
 
 								$pageposts = $wpdb->get_results($querystr, OBJECT);
 
