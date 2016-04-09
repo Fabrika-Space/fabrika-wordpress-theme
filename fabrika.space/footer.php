@@ -22,7 +22,7 @@
 		<div class="footContacts">
 			<div class="innerFootContacts">
 				<div class="part">
-					<div class="item"><span class="icon_location"><?php echo($lang=='ru'?'Харьков, ул. Благовещенская, 1 (бывшая Карла Маркса)':'Blagovischenska str. 1, Kharkiv, Ukraine') ?></span></div>
+					<div class="item"><span class="icon_location"><?php echo($lang=='ru'?'Харьков, ул. Благовещенская, 1':'Blagovischenska str. 1, Kharkiv, Ukraine') ?></span></div>
 				</div>
 				<div class="part">
 					<div class="item"><a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44</a></div>
@@ -40,13 +40,22 @@
 							#mc_embed_signup{
 
 							}
+							#mc_embed_signup form {
+								text-align: left;
+							}
 							#mc_embed_signup input.email {
-								width: calc(100% - 105px);
-								margin: 0;
-								padding: 0;
+								width: calc(100% - 105px - 15px);
+								margin: 0 5px 0 0;
+								padding: 0 5px 0 12px;
 								border: none;
 								background: #fff;
 								border-radius: 3px;
+								-webkit-box-sizing: border-box;
+								-moz-box-sizing: border-box;
+								box-sizing: border-box;
+								height: 32px;
+								line-height: 32px;
+								font-size: 14px;
 							}
 							#mc_embed_signup .button {
 								width: 100px;
@@ -67,7 +76,7 @@
 								<div id="mc_embed_signup_scroll">
 									<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email" required>
 									<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b8c7a127bdc373e0aa6813c5d_fe24f30006" tabindex="-1" value=""></div>
-									<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+									<div class="clear"><input type="submit" value="<?php echo($lang=='ru'?'Подписаться':'Subscribe') ?>" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 								</div>
 							</form>
 						</div>
