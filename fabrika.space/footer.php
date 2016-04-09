@@ -30,7 +30,7 @@
 					<div class="item"><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></div>
 				</div>
 				<div class="part">
-					<label class="item" for="mce-EMAIL"><?php echo($lang=='ru'?'Будь в курсе последних событий':'Keep up with our latest news & events') ?></label>
+					<label class="item" for="mce-EMAIL"><?php echo($lang=='ru'?'Будь в курсе последних событий':'Keep up with our latest events') ?></label>
 					<div class="item">
 						<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 						<style type="text/css">
