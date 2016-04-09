@@ -81,7 +81,7 @@
 								top: -30px;
 								background: #cfccc8;
 								margin: 0;
-								padding: 10px;
+								padding: 0;
 							}
 							#mc_embed_signup #mce-success-response {
 								color: #fff;
@@ -90,6 +90,7 @@
 								padding: 0;
 								width: initial;
 								line-height: 20px;
+								padding: 10px;
 							}
 						</style>
 						<div id="mc_embed_signup">
