@@ -104,7 +104,8 @@ ul, ul li {
 }
 
 ul {
-
+	margin: 0;
+	padding: 0 0 1.5em 0;
 }
 
 ul li {
