@@ -32,14 +32,8 @@
 				<div class="part">
 					<label class="item" for="mce-EMAIL">Будь в курсе последних событий</label>
 					<div class="item">
-						<!-- <input type="text" placeholder="email" />
-						<input type="submit" placeholder="Subscribe" /> -->
-
 						<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 						<style type="text/css">
-							#mc_embed_signup{
-
-							}
 							#mc_embed_signup form {
 								text-align: left;
 							}
@@ -61,7 +55,7 @@
 								width: 100px;
 								height: 32px;
 								line-height: 32px;
-								font-size: 13px;
+								font-size: 12px;
 								margin: 0;
 								padding: 0;
 								background: #000;
@@ -80,7 +74,6 @@
 								</div>
 							</form>
 						</div>
-						<!--End mc_embed_signup-->
 					</div>
 				</div>
 				<!--div class="part">
