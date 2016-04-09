@@ -52,7 +52,7 @@
 								line-height: 32px;
 								font-size: 14px;
 							}
-							#mc_embed_signup .button {
+							#mc_embed_signup .mc-field-group .button {
 								width: 100px;
 								height: 32px;
 								line-height: 32px;
@@ -61,8 +61,9 @@
 								padding: 0;
 								background: #000;
 								border-radius: 3px;
+								text-indent: 0;
 							}
-							#mc_embed_signup .button:hover {
+							#mc_embed_signup .mc-field-group .button:hover {
 								background: #000;
 							}
 							#mc_embed_signup .mc-field-group {
