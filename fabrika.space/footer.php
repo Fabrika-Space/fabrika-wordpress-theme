@@ -75,6 +75,22 @@
 								float: left;
 								clear: none;
 							}
+							#mc_embed_signup div#mce-responses {
+								position: absolute;
+								left: 0;
+								top: -30px;
+								background: #cfccc8;
+								margin: 0;
+								padding: 10px;
+							}
+							#mc_embed_signup #mce-success-response {
+								color: #fff;
+								font-size: 16px;
+								margin: 0;
+								padding: 0;
+								width: initial;
+								line-height: 20px;
+							}
 						</style>
 						<div id="mc_embed_signup">
 							<form action="//space.us12.list-manage.com/subscribe/post?u=b8c7a127bdc373e0aa6813c5d&amp;id=b4163bb809" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
