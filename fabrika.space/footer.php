@@ -39,7 +39,7 @@
 								padding: 10px 0;
 							}
 							#mc_embed_signup input.email {
-								width: calc(100% - 105px - 15px);
+								width: calc(100% - 105px - 10px);
 								margin: 0 5px 0 0;
 								padding: 0 5px 0 12px;
 								border: none;
@@ -51,6 +51,8 @@
 								height: 32px;
 								line-height: 32px;
 								font-size: 14px;
+								display: inline-block;
+								text-indent: 0;
 							}
 							#mc_embed_signup .mc-field-group .button {
 								width: 100px;
@@ -62,6 +64,7 @@
 								background: #000;
 								border-radius: 3px;
 								text-indent: 0;
+								display: inline-block;
 							}
 							#mc_embed_signup .mc-field-group .button:hover {
 								background: #000;
@@ -77,7 +80,7 @@
 							<form action="//space.us12.list-manage.com/subscribe/post?u=b8c7a127bdc373e0aa6813c5d&amp;id=b4163bb809" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 								<div id="mc_embed_signup_scroll">
 									<div class="mc-field-group">
-										<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+										<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="email">
 										<input type="submit" value="<?php echo($lang=='ru'?'Подписаться':'Subscribe') ?>" name="subscribe" id="mc-embedded-subscribe" class="button">
 									</div>
 									<div id="mce-responses" class="clear">
