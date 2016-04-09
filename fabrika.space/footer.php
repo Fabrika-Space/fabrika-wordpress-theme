@@ -78,10 +78,11 @@
 							#mc_embed_signup div#mce-responses {
 								position: absolute;
 								left: 0;
-								top: -30px;
-								background: #cfccc8;
+								top: -35px;
+								background: rgb(104, 103, 101);
 								margin: 0;
 								padding: 0;
+								width: 100%;
 							}
 							#mc_embed_signup #mce-success-response {
 								color: #fff;
