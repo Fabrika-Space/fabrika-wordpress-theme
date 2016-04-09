@@ -490,6 +490,8 @@ get_header();
 									foreach ( $pageposts as $post ) :
 									  setup_postdata( $post ); 
 										$eventDate = date_parse(get_post_meta($post->ID, 'EventDate', true));
+										$enMonths = array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December');
+										$ruMonths = array('Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь');
 
 										if($no_active && $eventDate >= $now_date){
 											$no_active = false;
@@ -508,7 +510,7 @@ get_header();
 														<span>с</span><?php echo get_post_meta($post->ID, 'EventStartTime', true); ?><br /><span>по</span><?php echo get_post_meta($post->ID, 'EventEndTime', true); ?>
 													</span>
 													<span class="date"><?php echo $eventDate['day']; ?></span>
-													<span class="month"><?php echo date('F', mktime(0, 0, 0, $eventDate['month'], 10)); ?></span>
+													<span class="month"><?php echo($lang=='ru'?$ruMonths[$eventDate['month']]:$enMonths[$eventDate['month']]) ?></span>
 												</div>
 											</div>
 											<div class="itemImg">
