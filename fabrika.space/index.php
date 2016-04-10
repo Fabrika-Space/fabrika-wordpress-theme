@@ -228,7 +228,7 @@ get_header();
 												<div class="title"><div><span><?php the_title(); ?></span></div></div>
 												<div class="dateTime">
 													<span class="time">
-														<!--span>from</span--><?php echo get_post_meta($post->ID, 'EventStartTime', true); ?><br /><span>to</span><?php echo get_post_meta($post->ID, 'EventEndTime', true); ?>
+														<span>&nbsp;</span><?php echo get_post_meta($post->ID, 'EventStartTime', true); ?><br /><span>to</span><?php echo get_post_meta($post->ID, 'EventEndTime', true); ?>
 													</span>
 													<span class="date"><?php echo $eventDate['day']; ?></span>
 													<span class="month"><?php echo date('F', mktime(0, 0, 0, $eventDate['month'], 10)); ?></span>
