@@ -45,12 +45,15 @@ get_header();
 					<div class="blockContactsText">
 						<ul>
 							<li><span class="icon_location">Blagovischenska str. 1, Kharkiv, Ukraine</span></li>
-							<li>Event-zone/Coworking:<br/>
-								<a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44<br/>
-							<a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></li>
-							<li>Bar/Restaurant:<br/>
-								<a href="tel:+380681001155" class="icon_tel">+38 (068) 100 11 55<br/></li>
-
+							<li>
+								<span class="icon_tel">Ивент-зона/Коворкинг:</span>Event-zone/Coworking:</span><br/>
+								<a href="tel:+380681001144">+38 (068) 100 11 44</a><br/>
+								<a href="tel:+380995023246">+38 (099) 502 32 46</a>
+							</li>
+							<li>
+								<span class="icon_tel">Bar/Restaurant:</span><br/>
+								<a href="tel:+380681001155">+38 (068) 100 11 55</a><br/>
+							</li>
 							<li><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></li>
 						</ul>
 					</div>
