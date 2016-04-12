@@ -470,14 +470,14 @@ input[type="email"] {
 .introduction .blockContacts {
 	float: left;
 	width: 320px;
-	padding: 56px 32px 0 48px;
+	padding: 38px 32px 0 48px;
 	color: #fff;
 	position: relative;
 	z-index: 2;
 }
 
 .introduction .blockContacts .blockContactsText {
-	padding: 0 0 48px 0;
+	padding: 0 0 36px 0;
 	line-height: 21px;
 }
 
@@ -538,7 +538,7 @@ input[type="email"] {
 }
 
 .introduction .blockContacts .social {
-	padding: 0 16px 25px 0;
+	padding: 0 16px 36px 0;
 	text-align: center;
 }
 
@@ -2820,9 +2820,14 @@ input[type="email"] {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	font-size: 20px;
-	line-height: 28px;
+	line-height: 23px;
 	padding-left: 90px;
 	letter-spacing: -0.2px;
+	padding-bottom: 30px;
+}
+
+.footContacts .part .item:last-child {
+	padding-bottom: 0;
 }
 
 .footContacts .part .item a,

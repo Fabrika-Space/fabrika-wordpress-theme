@@ -22,6 +22,15 @@
 			<div class="innerFootContacts">
 				<div class="part">
 					<div class="item"><span class="icon_location"><?php echo($lang=='en'?'Blagovischenska str. 1, Kharkiv, Ukraine':'Харьков, ул. Благовещенская, 1') ?></span></div>
+					<div class="social">
+						<ul>
+							<li><a href="http://facebook.com/fabrika.space/" class="icon_fb"></a></li>
+							<li><a href="http://twitter.com/_fabrika_" class="icon_tw"></a></li>
+							<li><a href="https://www.instagram.com/fabrika.space/" class="icon_instagram"></a></li>
+							<li><a href="https://vk.com/fabrika.space" class="icon_vk"></a></li>
+							<li><a href="https://foursquare.com/v/fabrika/55565bbf498eae863fff5b6c" class="icon_location"></a></li>
+						</ul>
+					</div>
 				</div>
 				<div class="part">
 					<div class="item"><?php echo($lang=='en'?'Event-zone/Coworking:':'Ивент-зона/Коворкинг:') ?><br/>
