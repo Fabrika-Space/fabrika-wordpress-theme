@@ -2780,6 +2780,10 @@ input[type="email"] {
 	background: #cfccc8;
 }
 
+#footer .social {
+	padding: 115px 0 0 0;
+}
+
 .footContacts {
 	background: rgba(0,0,0,0.5);
 	font-size: 0;
@@ -2823,7 +2827,7 @@ input[type="email"] {
 	line-height: 23px;
 	padding-left: 90px;
 	letter-spacing: -0.2px;
-	padding-bottom: 30px;
+	padding-bottom: 24px;
 }
 
 .footContacts .part .item:last-child {
