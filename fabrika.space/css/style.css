@@ -537,19 +537,19 @@ input[type="email"] {
 	padding-top: 0;
 }
 
-.introduction .blockContacts .social {
+.social {
 	padding: 0 16px 36px 0;
 	text-align: center;
 }
 
-.introduction .blockContacts .social ul {
+.social ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	font-size: 0;
 }
 
-.introduction .blockContacts .social ul li {
+.social ul li {
 	margin: 0;
 	padding: 0;
 	display: inline-block;
@@ -557,50 +557,50 @@ input[type="email"] {
 	margin-left: 30px;
 }
 
-.introduction .blockContacts .social ul li a {
+.social ul li a {
 	text-decoration: none;
 	background: url('../img/sprite.png') no-repeat left top;
 	display: block;
 	cursor: pointer;
 }
 
-.introduction .blockContacts .social ul li:first-child {
+.social ul li:first-child {
 	margin-left: 0;
 }
 
-.introduction .blockContacts .social .icon_fb {
+.social .icon_fb {
 	background-position: -102px 0;
 	width: 11px;
 	height: 25px;
 }
 
-.introduction .blockContacts .social .icon_tw {
+.social .icon_tw {
 	background-position: -113px 0;
 	width: 23px;
 	height: 18px;
 }
 
-.introduction .blockContacts .social .icon_pi {
+.social .icon_pi {
 	background-position: -136px 0;
 	width: 17px;
 	height: 22px;
 }
 
-.introduction .blockContacts .social .icon_location {
+.social .icon_location {
 	background-position: -52px 0;
 	width: 15px;
 	height: 20px;
 	margin-top: 1px;
 }
 
-.introduction .blockContacts .social .icon_instagram {
+.social .icon_instagram {
 	background: url('../img/icon_instagram.svg') no-repeat left top;
 	width: 18px;
 	height: 18px;
 	background-size: contain;
 }
 
-.introduction .blockContacts .social .icon_vk {
+.social .icon_vk {
 	background: url('../img/icon_vk.svg') no-repeat left top;
 	width: 24px;
 	height: 14px;
