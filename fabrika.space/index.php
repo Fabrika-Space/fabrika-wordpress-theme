@@ -338,7 +338,7 @@ get_header();
 							</li>
 							<li>
 								<span class="icon_tel">Бар/Ресторан:</span><br/>
-								<a href="tel:+380681001155" class="icon_tel">+38 (068) 100 11 55</a><br/>
+								<a href="tel:+380681001155">+38 (068) 100 11 55</a><br/>
 							</li>
 							<li><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></li>
 						</ul>
