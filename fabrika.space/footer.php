@@ -17,20 +17,22 @@
 		}
 		$langToken="?lang=".$lang;
 ?>
-
 	<footer id="footer">
 		<div class="footContacts">
 			<div class="innerFootContacts">
 				<div class="part">
-					<div class="item"><span class="icon_location"><?php echo($lang=='ru'?'Харьков, ул. Благовещенская, 1':'Blagovischenska str. 1, Kharkiv, Ukraine') ?></span></div>
+					<div class="item"><span class="icon_location"><?php echo($lang=='en'?'Blagovischenska str. 1, Kharkiv, Ukraine':'Харьков, ул. Благовещенская, 1') ?></span></div>
 				</div>
 				<div class="part">
-					<div class="item"><a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44</a></div>
-					<div class="item"><a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></div>
+					<div class="item"><?php echo($lang=='en'?'Event-zone/Coworking:':'Ивент-зона/Коворкинг:') ?><br/>
+						<a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44<br/>
+						<a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></div>
+					<div class="item"><?php echo($lang=='en'?'Bar/Restaurant:':'Бар/ресторан:') ?><br/>
+						<a href="tel:+380681001155" class="icon_tel">+38 (068) 100 11 55</a></div>
 					<div class="item"><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></div>
 				</div>
 				<div class="part">
-					<label class="item" for="mce-EMAIL"><?php echo($lang=='ru'?'Будь в курсе последних событий':'Keep up with our latest events') ?></label>
+					<label class="item" for="mce-EMAIL"><?php echo($lang=='en'?'Keep up with our latest events':'Будь в курсе последних событий') ?></label>
 					<div class="item">
 						<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 						<style type="text/css">
@@ -118,7 +120,7 @@
 				</div-->
 			</div>
 		</div>
-	</footer><!-- #footer -->
+	</footer><!-- #footer en -->
 
 </div><!-- end #all-->
 

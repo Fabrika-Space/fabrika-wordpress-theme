@@ -45,8 +45,12 @@ get_header();
 					<div class="blockContactsText">
 						<ul>
 							<li><span class="icon_location">Blagovischenska str. 1, Kharkiv, Ukraine</span></li>
-							<li><a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44</a></li>
-							<li><a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></li>
+							<li>Event-zone/Coworking:<br/>
+								<a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44<br/>
+							<a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></li>
+							<li>Bar/Restaurant:<br/>
+								<a href="tel:+380681001155" class="icon_tel">+38 (068) 100 11 55<br/></li>
+
 							<li><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></li>
 						</ul>
 					</div>
@@ -228,7 +232,7 @@ get_header();
 												<div class="title"><div><span><?php the_title(); ?></span></div></div>
 												<div class="dateTime">
 													<span class="time">
-														<span>&nbsp;</span><?php echo get_post_meta($post->ID, 'EventStartTime', true); ?><br /><span>&nbsp;</span>-<br /><span>&nbsp;</span><?php echo get_post_meta($post->ID, 'EventEndTime', true); ?>
+														<span>&nbsp;</span><?php echo get_post_meta($post->ID, 'EventStartTime', true); ?><br /><span>&nbsp;</span>to<br /><span>&nbsp;</span><?php echo get_post_meta($post->ID, 'EventEndTime', true); ?>
 													</span>
 													<span class="date"><?php echo $eventDate['day']; ?></span>
 													<span class="month"><?php echo date('F', mktime(0, 0, 0, $eventDate['month'], 10)); ?></span>
@@ -324,8 +328,11 @@ get_header();
 					<div class="blockContactsText">
 						<ul>
 							<li><span class="icon_location">Харьков, ул. Благовещенская, 1 (бывшая Карла Маркса)</span></li>
-							<li><a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44</a></li>
-							<li><a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></li>
+							<li>Ивент-зона/Коворкинг:<br/>
+								<a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44<br/>
+							<a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></li>
+							<li>Бар/Ресторан:<br/>
+								<a href="tel:+380681001155" class="icon_tel">+38 (068) 100 11 55<br/></li>
 							<li><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></li>
 						</ul>
 					</div>
