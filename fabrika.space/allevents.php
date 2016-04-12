@@ -35,11 +35,12 @@ $lang = 'ru';
 											SELECT pm.post_id FROM $wpdb->postmeta pm, $wpdb->posts p
 												WHERE (pm.post_id = p.ID)
 												AND pm.meta_key = 'lang'
-                                                AND pm.meta_value = 'en'
+												AND pm.meta_value = 'en'
 											)
 											ORDER BY evdate DESC
 											";
 						else
+
 							$querystr = "
 											SELECT STR_TO_DATE(wpostmeta.meta_value, '%d-%m-%Y') as evdate, wposts.*
 											FROM $wpdb->posts wposts, $wpdb->postmeta wpostmeta
@@ -51,7 +52,7 @@ $lang = 'ru';
 												SELECT pm.post_id FROM $wpdb->postmeta pm, $wpdb->posts p
 												WHERE (pm.post_id = p.ID)
 												AND pm.meta_key = 'lang'
-                                                AND pm.meta_value = 'en'
+												AND pm.meta_value = 'en'
 											)
 											ORDER BY evdate DESC
 											";

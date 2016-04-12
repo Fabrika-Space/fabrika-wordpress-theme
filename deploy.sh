@@ -2,12 +2,6 @@
 
 
 ssh -v ubuntu@107.21.123.188 << EOF
-
-  # setup ssh keys
-  # NOTE: this section needed to add needed deploy keys
-  ssh-agent bash
-  ssh-add -D
-  ssh-add /home/ubuntu/.ssh/github_rsa
   
   echo '1. Updating sources'
   cd ~/repos/fabrika-wordpress-theme
@@ -15,7 +9,7 @@ ssh -v ubuntu@107.21.123.188 << EOF
   git pull
 
   echo "2. Restart apache"
-  sudo apache2ctl restart
+  sudo apache2ctl graceful
 
   echo 'Done!'
   
