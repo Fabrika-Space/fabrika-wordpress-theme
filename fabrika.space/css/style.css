@@ -803,7 +803,7 @@ input[type="email"] {
 	color: #000;
 	margin-bottom: 15px;
 	max-height:	85px;
-    overflow: hidden;
+	overflow: hidden;
 }
 
 .news .lastnews .contentLastnews .date {

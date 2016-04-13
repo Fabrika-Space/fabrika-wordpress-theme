@@ -392,6 +392,7 @@
 	.news .lastnews .contentLastnews .title {
 		padding-top: 5px;
 		font-size: 36px;
+		max-height: 74px;
 	}
 	.news .lastnews .contentLastnews .date {
 		margin-bottom: 20px;
@@ -457,111 +458,6 @@
 		display: block;
 	}
 
-	/*.events .sectionContent {
-		border-top: none;
-	}
-	.events .item {
-		display: none;
-		margin-bottom: 45px;
-		width: 260px;
-		margin-left: auto;
-		margin-right: auto;
-		float: none;
-	}
-
-	.events .sectionContent .innerListItems {
-		width: auto !important;
-		margin-left: 0 !important;
-	}
-	.events .item.act {
-		display: block;
-	}
-
-	.events .item {
-		width: auto;
-		height: auto;
-		margin: 0 30px 50px 30px;
-	}
-
-	.events .item .itemImg {
-		opacity: 1;
-		display: block;
-		float: none;
-		width: 100%;
-		position: static;
-	}
-
-	.events .item .itemImg img {
-		width: 100%;
-		height: auto;
-	}
-	.events .item .itemContent {
-		height: auto;
-	}
-	.events .item:nth-child(even) {
-		background: none;
-	}
-	.events .item .itemContent .title,
-	.events .item:nth-child(even) .itemContent .title {
-		font-family: 'oswaldextralight';
-		font-size: 36px;
-		line-height: 36px;
-		color: #000;
-		position: static;
-		-webkit-transform: translateY(0%);
-		-moz-transform: translateY(0%);
-		transform: translateY(0%);
-		padding: 5px 0 15px 0;
-	}
-	.events .item .itemContent .dateTime,
-	.events .item:hover .itemContent .dateTime {
-		position: static;
-		padding: 0;
-		height: 20px;
-		line-height: 20px;
-		padding: 0;
-		display: block;
-		width: auto;
-		background: none;
-		float: left;
-	}
-
-	.events .item .itemContent .title div,
-	.events .item:hover .itemContent .title div {
-		background: none;
-	}
-
-	.events .item:hover .itemContent .title:after,
-	.events .item .itemContent .dateTime .time,
-	.events .item:hover .itemContent .dateTime .time,
-	.events .item.act .itemContent .dateTime .month:after {
-		display: none;
-	}
-
-	.events .item .itemContent .dateTime .date,
-	.events .item .itemContent .dateTime .month,
-	.events .item:hover .itemContent .dateTime .date,
-	.events .item:hover .itemContent .dateTime .month,
-	.events .item.act .itemContent .dateTime .date,
-	.events .item.act .itemContent .dateTime .month {
-		color: #fff;
-		display: inline-block;
-		font-size: 12px;
-		color: #fff;
-		background: none;
-		font-weight: 700;
-		background: #5c606d;
-		float: left;
-	}
-
-	.events .item .itemContent .dateTime .date {
-		padding: 0 5px 0 10px;
-	}
-
-	.events .item .itemContent .dateTime .month {
-		padding: 0 10px 0 0;
-	}*/
-
 	.gallery {
 		display: none;
 	}
@@ -575,7 +471,7 @@
 		margin: 0 auto;
 	}
 	.footContacts .part .item {
-		font-size: 18px;
+		font-size: 17px;
 		line-height: 22px;
 		padding-left: 40px;
 	}
@@ -684,6 +580,10 @@
 	}
 	.closePopupGalery:before {
 		margin: 6px;
+	}
+	#footer .social {
+		padding: 0 0 0 40px;
+		text-align: left;
 	}
 }
 

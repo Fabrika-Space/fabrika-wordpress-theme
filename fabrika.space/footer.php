@@ -42,9 +42,15 @@
 				</div>
 				<div class="part">
 					<label class="item" for="mce-EMAIL"><?php echo($lang=='en'?'Keep up with our latest events':'Будь в курсе последних событий') ?></label>
-					<div class="item">
+					<div class="item clear">
 						<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 						<style type="text/css">
+							#mc_embed_signup {
+								margin-right: 20px;
+							}
+							label[for="mce-EMAIL"] {
+
+							}
 							#mc_embed_signup form {
 								text-align: left;
 								padding: 10px 0;
@@ -123,10 +129,6 @@
 						<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 					</div>
 				</div>
-				<!--div class="part">
-					<div class="item"><a href="tel:80501234567" class="icon_tel">8 (050) 123 45 67</a></div>
-					<div class="item"><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></div>
-				</div-->
 			</div>
 		</div>
 	</footer><!-- #footer en -->
