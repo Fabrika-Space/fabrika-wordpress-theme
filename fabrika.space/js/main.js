@@ -144,7 +144,7 @@ $(document).ready(function(){
 
 
 	$('.popupPayCoworking').on('click', '.btnCancel', function(e){
-		$(e.delegateTarget).removeClass('show');
+		$(e.delegateTarget).removeClass('show alreadyClicked');
 	});
 
 	$('.popupPayCoworking').on('click', '.btnOk', function(e){
