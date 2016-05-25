@@ -71,7 +71,7 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>THE RUM DIARY</span></div></span>
-											<span class="price">90 uah</span>
+											<span class="price">110 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barTheRumDiary.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(210 ml) rum plantation, bourbon, amaretto, lime cordial, mascarpone, egg white, mint</span>
@@ -107,7 +107,7 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>PEAR SOUR</span></div></span>
-											<span class="price">150/100 uah</span>
+											<span class="price">100 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPearSour.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(170 ml) bourbon, pear cordial, lime, egg white</span>
@@ -188,7 +188,7 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>DAIQUIRI</span></div></span>
-											<span class="price">60 uah</span>
+											<span class="price">90 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barDaiquiri.jpg" data-popupGalery="1" /></div>
 										<span class="composition">rum, lime, cane sugar syrup</span>
@@ -404,7 +404,7 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>THE RUM DIARY</span></div></span>
-											<span class="price">90 грн</span>
+											<span class="price">110 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barTheRumDiary.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(210 ml) rum plantation, bourbon, amaretto, lime cordial, mascarpone, egg white, mint</span>
@@ -440,7 +440,7 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>PEAR SOUR</span></div></span>
-											<span class="price">150/100 грн</span>
+											<span class="price">100 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPearSour.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(200 ml) bourbon, pear cordial, lime, egg white</span>
@@ -521,7 +521,7 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>DAIQUIRI</span></div></span>
-											<span class="price">60 грн</span>
+											<span class="price">90 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barDaiquiri.jpg" data-popupGalery="1" /></div>
 										<span class="composition">rum, lime, cane sugar syrup</span>
