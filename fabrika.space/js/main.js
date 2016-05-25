@@ -149,6 +149,13 @@ $(document).ready(function(){
 
 	$('.popupPayCoworking').on('click', '.btnOk', function(e){
 		var form = $(e.delegateTarget);
+
+		if(form.hasClass('alreadyClicked')) {
+			console.log('your data have already sent');
+			return;
+		}
+		form.addClass('alreadyClicked');
+
 		var payload = {
 			'username': 'Coworking reservation',
 			'icon_url': 'https://slack.com/img/icons/app-57.png',
@@ -186,6 +193,7 @@ $(document).ready(function(){
 			data: JSON.stringify(payload),
 			success: function(data) {
 				form.removeClass('show');
+				form.removeClass('alreadyClicked');
 				var url = form.data().url;
 				form.removeData('url');
 				form.removeData('title');
@@ -194,6 +202,7 @@ $(document).ready(function(){
 			},
 			error: function(){
 				form.removeClass('show');
+				form.removeClass('alreadyClicked');
 				form.removeData('url');
 				form.removeData('title');
 				alert('Произошла ошибка. Вы все еще можете забронировать коворкинг по телефонам: +38 (068) 100 11 44, +38 (099) 502 32 46');
