@@ -196,11 +196,11 @@ Template Name: bar
 									</div>
 								</div>
 								<div class="listTxtItems">
-									<div class="txtItem">
+									<!--div class="txtItem">
 										<span class="price">80 uah</span>
 										<span class="title">CILANTRO SOUR 110 ml </span>
 										<span class="desc">Bourbon, cilantro cordial, egg white</span>
-									</div>
+									</div-->
 									<div class="txtItem">
 										<span class="price">80 uah</span>
 										<span class="title">CLOVER CLUB 150 ml</span>
@@ -216,11 +216,11 @@ Template Name: bar
 										<span class="title">WHISKEY SOUR 120 ml</span>
 										<span class="desc">Bourbon, gomme syrup, lime, egg white</span>
 									</div>
-									<div class="txtItem">
+									<!--div class="txtItem">
 										<span class="price">100 uah</span>
 										<span class="title">IFIZZ 140 ml</span>
 										<span class="desc">Quince gin, lime cordial, egg white, soda water</span>
-									</div>
+									</div-->
 									<div class="txtItem">
 										<span class="price">90 uah</span>
 										<span class="title">WHITE RUSSIAN 120 ml</span>
@@ -529,11 +529,11 @@ Template Name: bar
 									</div>
 								</div>
 								<div class="listTxtItems">
-									<div class="txtItem">
+									<!--div class="txtItem">
 										<span class="price">80 грн</span>
 										<span class="title">CILANTRO SOUR 110 ml </span>
 										<span class="desc">Bourbon, cilantro cordial, egg white</span>
-									</div>
+									</div-->
 									<div class="txtItem">
 										<span class="price">80 грн</span>
 										<span class="title">CLOVER CLUB 150 ml</span>
@@ -549,11 +549,11 @@ Template Name: bar
 										<span class="title">WHISKEY SOUR 120 ml</span>
 										<span class="desc">Bourbon, gomme syrup, lime, egg white</span>
 									</div>
-									<div class="txtItem">
+									<!--div class="txtItem">
 										<span class="price">100 грн</span>
 										<span class="title">IFIZZ 140 ml</span>
 										<span class="desc">Quince gin, lime cordial, egg white, soda water</span>
-									</div>
+									</div-->
 									<div class="txtItem">
 										<span class="price">90 грн</span>
 										<span class="title">WHITE RUSSIAN 120 ml</span>
