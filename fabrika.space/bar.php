@@ -139,8 +139,8 @@ Template Name: bar
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPinkFume.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(100 ml) yogurt liquor, sloe gin, amaretto, mascarpone</span>
 										<span class="desc">description</span>
-									</div-->
-									<!--div class="itemWithImage">
+									</div>
+									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>HLEB</span></div></span>
 											<span class="price">90 uah</span>
@@ -148,7 +148,7 @@ Template Name: bar
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barHleb.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(110 ml) rye bread bourbon, lime, gomme syrup, prune, bread</span>
 										<span class="desc">description</span>
-									</div-->
+									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>RYE OLD FASHIONED</span></div></span>
@@ -157,7 +157,7 @@ Template Name: bar
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barRyeOldFashioned.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(80 ml) rye bourbon, whiskey barrel bitters, sugar</span>
 										<span class="desc">description</span>
-									</div>
+									</div-->
 
 								</div>
 							</div>
@@ -472,8 +472,8 @@ Template Name: bar
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPinkFume.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(100 ml) yogurt liquor, sloe gin, amaretto, mascarpone</span>
 										<span class="desc">description</span>
-									</div-->
-									<!--div class="itemWithImage">
+									</div>
+									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>HLEB</span></div></span>
 											<span class="price">90 грн</span>
@@ -481,7 +481,7 @@ Template Name: bar
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barHleb.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(110 ml) rye bread bourbon, lime, gomme syrup, prune, bread</span>
 										<span class="desc">description</span>
-									</div-->
+									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>RYE OLD FASHIONED</span></div></span>
@@ -490,7 +490,7 @@ Template Name: bar
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barRyeOldFashioned.jpg" data-popupGalery="1" /></div>
 										<span class="composition">(80 ml) rye bourbon, whiskey barrel bitters, sugar</span>
 										<span class="desc">description</span>
-									</div>
+									</div-->
 
 								</div>
 							</div>
