@@ -47,7 +47,7 @@ get_header();
 							<li><span class="icon_location">Blagovischenska str. 1, Kharkiv, Ukraine</span></li>
 							<li>
 								<span class="icon_tel">Event-zone/Coworking:</span><br/>
-								<a href="tel:+380681001144">+38 (068) 100 11 44</a><br/>
+								<a href="tel:+380681001133">+38 (068) 100 11 33</a><br/>
 								<a href="tel:+380995023246">+38 (099) 502 32 46</a>
 							</li>
 							<li>
@@ -333,7 +333,7 @@ get_header();
 							<li><span class="icon_location">Харьков, ул. Благовещенская, 1 (бывшая Карла Маркса)</span></li>
 							<li>
 								<span class="icon_tel">Ивент-зона/Коворкинг:</span><br/>
-								<a href="tel:+380681001144">+38 (068) 100 11 44</a><br/>
+								<a href="tel:+380681001133">+38 (068) 100 11 33</a><br/>
 								<a href="tel:+380995023246">+38 (099) 502 32 46</a>
 							</li>
 							<li>
