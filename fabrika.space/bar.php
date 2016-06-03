@@ -56,7 +56,7 @@ Template Name: bar
 											<span class="price">90 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barFabrika.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(140 ml) spicy rum, vermouth rosso, spicy mango cordial, raspberry, lime, egg white, pineapple</span>
+										<span class="composition">(165 ml) spicy rum, vermouth rosso, spicy mango cordial, raspberry, lime, egg white, pineapple</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -65,7 +65,7 @@ Template Name: bar
 											<span class="price">100 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCarrotine.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(180 ml) gin, red vermouth, carrot cordial, spicy mango, lime, egg white</span>
+										<span class="composition">(150 ml) gin, red vermouth, carrot cordial, spicy mango, lime, egg white</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -74,7 +74,7 @@ Template Name: bar
 											<span class="price">110 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barTheRumDiary.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(210 ml) rum plantation, bourbon, amaretto, lime cordial, mascarpone, egg white, mint</span>
+										<span class="composition">(140 ml) rum plantation, bourbon, amaretto, lime cordial, mascarpone, egg white, mint</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -92,7 +92,7 @@ Template Name: bar
 											<span class="price">95 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barMichurin.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(150 ml) Gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
+										<span class="composition">(140 ml) Gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
 										<span class="desc">description</span>
 									</div>
 									<!--div class="itemWithImage">
@@ -110,7 +110,7 @@ Template Name: bar
 											<span class="price">100 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPearSour.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(170 ml) bourbon, pear cordial, lime, egg white</span>
+										<span class="composition">(150 ml) bourbon, pear cordial, lime, egg white</span>
 										<span class="desc">description</span>
 									</div>
 									<!--div class="itemWithImage">
@@ -170,10 +170,10 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>NEGRONI</span></div></span>
-											<span class="price">70 uah</span>
+											<span class="price">78 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barNegroni.jpg" data-popupGalery="1" /></div>
-										<span class="composition">Gin, campari, vermouth rosso</span>
+										<span class="composition">(100 ml) Campari, vermouth, gin broker’s</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -182,7 +182,7 @@ Template Name: bar
 											<span class="price">70 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barOldFashioned.jpg" data-popupGalery="1" /></div>
-										<span class="composition">whiskey, angostura bitters, cane sugar</span>
+										<span class="composition">(100 ml) angostura bitters, sugar, whiskey wild turkey 101</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -191,7 +191,7 @@ Template Name: bar
 											<span class="price">90 uah</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barDaiquiri.jpg" data-popupGalery="1" /></div>
-										<span class="composition">rum, lime, cane sugar syrup</span>
+										<span class="composition">(125 ml) rum, lime, gomme syrup</span>
 										<span class="desc">description</span>
 									</div>
 								</div>
@@ -202,19 +202,19 @@ Template Name: bar
 										<span class="desc">Bourbon, cilantro cordial, egg white</span>
 									</div-->
 									<div class="txtItem">
-										<span class="price">80 uah</span>
-										<span class="title">CLOVER CLUB 150 ml</span>
-										<span class="desc">Gin, raspberry, lime cordial, sugar, egg white</span>
+										<span class="price">84 uah</span>
+										<span class="title">CLOVER CLUB 135 ml</span>
+										<span class="desc">Gin, raspberry, lime cordial, egg white</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">90 uah</span>
+										<span class="title">NEW TIME SOUR 170 ml</span>
+										<span class="desc">Bourbon, porto, lime cordial, egg white</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">80 uah</span>
-										<span class="title">NEW TIME SOUR 150 ml</span>
-										<span class="desc">Bourbon, porto, gomme syrup, lime, egg white</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">80 uah</span>
-										<span class="title">WHISKEY SOUR 120 ml</span>
-										<span class="desc">Bourbon, gomme syrup, lime, egg white</span>
+										<span class="title">WHISKEY SOUR 140 ml</span>
+										<span class="desc">Bourbon, lime cordial, egg white</span>
 									</div>
 									<!--div class="txtItem">
 										<span class="price">100 uah</span>
@@ -222,53 +222,53 @@ Template Name: bar
 										<span class="desc">Quince gin, lime cordial, egg white, soda water</span>
 									</div-->
 									<div class="txtItem">
-										<span class="price">90 uah</span>
-										<span class="title">WHITE RUSSIAN 120 ml</span>
+										<span class="price">95 uah</span>
+										<span class="title">WHITE RUSSIAN 130 ml</span>
 										<span class="desc">Vodka, kahlua, cream</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">85 uah</span>
-										<span class="title">COOPER 130 ml</span>
+										<span class="price">98 uah</span>
+										<span class="title">COOPER 135 ml</span>
 										<span class="desc">Cointreau, aperol, lime, caramel</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">70 uah</span>
-										<span class="title">BOULEVARDIER (basic/spicy) 90 ml</span>
+										<span class="price">73 uah</span>
+										<span class="title">BOULEVARDIER 90 ml</span>
 										<span class="desc">Bourbon, campari, vermouth rosso</span>
 									</div>
-									<div class="txtItem">
+									<!--div class="txtItem">
 										<span class="price">100 uah</span>
 										<span class="title">BOULEVARDIER PRUNES (basic/spicy) 90 ml</span>
 										<span class="desc">Bourbon, campari, vermouth rosso, tobacco bitters, prunes</span>
-									</div>
+									</div-->
 									<div class="txtItem">
-										<span class="price">60 uah</span>
+										<span class="price">90 uah</span>
 										<span class="title">COSMOPOLITAN 110 ml</span>
 										<span class="desc">Vodka lime, cointreau, cranberry, lime</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">85 uah</span>
+										<span class="price">90 uah</span>
 										<span class="title">MARGARITA 110 ml</span>
-										<span class="desc">Tequila, cointreau, lime</span>
+										<span class="desc">Tequila, triple sec, lime</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">90 uah</span>
-										<span class="title">DRY MARTINI 110 ml</span>
+										<span class="price">100 uah</span>
+										<span class="title">DRY MARTINI 100 ml</span>
 										<span class="desc">Dry vermouth, gin, olive</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">80 uah</span>
-										<span class="title">MANHATTAN 90 ml</span>
+										<span class="price">84 uah</span>
+										<span class="title">MANHATTAN 100 ml</span>
 										<span class="desc">Bourbon, vermouth rosso, angostura bitters</span>
 									</div>
-									<div class="txtItem">
+									<!--div class="txtItem">
 										<span class="price">140 uah</span>
 										<span class="title">PERFECT MANHATTAN 90 ml</span>
 										<span class="desc">Rye bourbon, vermouth rosso, whisky barrel bitters</span>
-									</div>
+									</div-->
 									<div class="txtItem">
-										<span class="price">85 uah</span>
-										<span class="title">BLOODY MARY 200 ml</span>
+										<span class="price">90 uah</span>
+										<span class="title">BLOODY MARY 220 ml</span>
 										<span class="desc">Vodka, tomato juice, celery, lemon, pepper, salt, worcestershire sauce, tabasco</span>
 									</div>
 								</div>
@@ -389,7 +389,7 @@ Template Name: bar
 											<span class="price">90 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barFabrika.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(140 ml) spicy rum, vermouth rosso, spicy mango cordial, raspberry, lime, egg white, pineapple</span>
+										<span class="composition">(165 ml) spicy rum, vermouth rosso, spicy mango cordial, raspberry, lime, egg white, pineapple</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -398,7 +398,7 @@ Template Name: bar
 											<span class="price">100 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCarrotine.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(180 ml) gin, red vermouth, carrot cordial, spicy mango, lime, egg white</span>
+										<span class="composition">(150 ml) gin, red vermouth, carrot cordial, spicy mango, lime, egg white</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -407,7 +407,7 @@ Template Name: bar
 											<span class="price">110 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barTheRumDiary.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(210 ml) rum plantation, bourbon, amaretto, lime cordial, mascarpone, egg white, mint</span>
+										<span class="composition">(140 ml) rum plantation, bourbon, amaretto, lime cordial, mascarpone, egg white, mint</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -425,7 +425,7 @@ Template Name: bar
 											<span class="price">95 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barMichurin.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(140/95ml) gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
+										<span class="composition">(140 ml) gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
 										<span class="desc">description</span>
 									</div>
 									<!--div class="itemWithImage">
@@ -443,7 +443,7 @@ Template Name: bar
 											<span class="price">100 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPearSour.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(200 ml) bourbon, pear cordial, lime, egg white</span>
+										<span class="composition">(150 ml) bourbon, pear cordial, lime, egg white</span>
 										<span class="desc">description</span>
 									</div>
 									<!--div class="itemWithImage">
@@ -503,10 +503,10 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>NEGRONI</span></div></span>
-											<span class="price">70 грн</span>
+											<span class="price">78 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barNegroni.jpg" data-popupGalery="1" /></div>
-										<span class="composition">Gin, campari, vermouth rosso</span>
+										<span class="composition">(100 ml) campari, vermouth, gin broker’s</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -515,7 +515,7 @@ Template Name: bar
 											<span class="price">70 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barOldFashioned.jpg" data-popupGalery="1" /></div>
-										<span class="composition">whiskey, angostura bitters, cane sugar</span>
+										<span class="composition">(100 ml) angostura bitters, sugar, whiskey wild turkey 101</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
@@ -524,7 +524,7 @@ Template Name: bar
 											<span class="price">90 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barDaiquiri.jpg" data-popupGalery="1" /></div>
-										<span class="composition">rum, lime, cane sugar syrup</span>
+										<span class="composition">(125 ml) rum, lime, gomme syrup</span>
 										<span class="desc">description</span>
 									</div>
 								</div>
@@ -535,19 +535,19 @@ Template Name: bar
 										<span class="desc">Bourbon, cilantro cordial, egg white</span>
 									</div-->
 									<div class="txtItem">
-										<span class="price">80 грн</span>
-										<span class="title">CLOVER CLUB 150 ml</span>
-										<span class="desc">Gin, raspberry, lime cordial, sugar, egg white</span>
+										<span class="price">84 грн</span>
+										<span class="title">CLOVER CLUB 135 ml</span>
+										<span class="desc">Gin, raspberry, lime cordial, egg white</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">90 грн</span>
+										<span class="title">NEW TIME SOUR 170 ml</span>
+										<span class="desc">Bourbon, porto, lime cordial, egg white</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">80 грн</span>
-										<span class="title">NEW TIME SOUR 150 ml</span>
-										<span class="desc">Bourbon, porto, gomme syrup, lime, egg white</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">80 грн</span>
-										<span class="title">WHISKEY SOUR 120 ml</span>
-										<span class="desc">Bourbon, gomme syrup, lime, egg white</span>
+										<span class="title">WHISKEY SOUR 140 ml</span>
+										<span class="desc">Bourbon, lime cordial, egg white</span>
 									</div>
 									<!--div class="txtItem">
 										<span class="price">100 грн</span>
@@ -555,53 +555,53 @@ Template Name: bar
 										<span class="desc">Quince gin, lime cordial, egg white, soda water</span>
 									</div-->
 									<div class="txtItem">
-										<span class="price">90 грн</span>
-										<span class="title">WHITE RUSSIAN 120 ml</span>
+										<span class="price">95 грн</span>
+										<span class="title">WHITE RUSSIAN 130 ml</span>
 										<span class="desc">Vodka, kahlua, cream</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">85 грн</span>
-										<span class="title">COOPER 130 ml</span>
+										<span class="price">98 грн</span>
+										<span class="title">COOPER 135 ml</span>
 										<span class="desc">Cointreau, aperol, lime, caramel</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">70 грн</span>
-										<span class="title">BOULEVARDIER (basic/spicy) 90 ml</span>
+										<span class="price">73 грн</span>
+										<span class="title">BOULEVARDIER 90 ml</span>
 										<span class="desc">Bourbon, campari, vermouth rosso</span>
 									</div>
-									<div class="txtItem">
+									<!--div class="txtItem">
 										<span class="price">100 грн</span>
 										<span class="title">BOULEVARDIER PRUNES (basic/spicy) 90 ml</span>
 										<span class="desc">Bourbon, campari, vermouth rosso, tobacco bitters, prunes</span>
-									</div>
+									</div-->
 									<div class="txtItem">
-										<span class="price">60 грн</span>
+										<span class="price">90 грн</span>
 										<span class="title">COSMOPOLITAN 110 ml</span>
 										<span class="desc">Vodka lime, cointreau, cranberry, lime</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">85 грн</span>
+										<span class="price">90 грн</span>
 										<span class="title">MARGARITA 110 ml</span>
-										<span class="desc">Tequila, cointreau, lime</span>
+										<span class="desc">Tequila, triple sec, lime</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">90 грн</span>
-										<span class="title">DRY MARTINI 110 ml</span>
+										<span class="price">100 грн</span>
+										<span class="title">DRY MARTINI 100 ml</span>
 										<span class="desc">Dry vermouth, gin, olive</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">80 грн</span>
-										<span class="title">MANHATTAN 90 ml</span>
+										<span class="price">84 грн</span>
+										<span class="title">MANHATTAN 100 ml</span>
 										<span class="desc">Bourbon, vermouth rosso, angostura bitters</span>
 									</div>
-									<div class="txtItem">
+									<!--div class="txtItem">
 										<span class="price">140 грн</span>
 										<span class="title">PERFECT MANHATTAN 90 ml</span>
 										<span class="desc">Rye bourbon, vermouth rosso, whisky barrel bitters</span>
-									</div>
+									</div-->
 									<div class="txtItem">
-										<span class="price">85 грн</span>
-										<span class="title">BLOODY MARY 200 ml</span>
+										<span class="price">90 грн</span>
+										<span class="title">BLOODY MARY 220 ml</span>
 										<span class="desc">Vodka, tomato juice, celery, lemon, pepper, salt, worcestershire sauce, tabasco</span>
 									</div>
 								</div>
