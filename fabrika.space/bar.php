@@ -539,7 +539,8 @@ Template Name: bar
 							</div>
 						</div>
 
-						<div class="titleCategoryMenuBar act">Летние коктейли</div>
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Летние коктейли</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listBeautifulItems">
 									<div class="itemWithImage">
