@@ -319,7 +319,8 @@ Template Name: bar
 							</div>
 						</div>
 
-						<div class="titleCategoryMenuBar act">Craft beer</div>
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Craft beer</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
