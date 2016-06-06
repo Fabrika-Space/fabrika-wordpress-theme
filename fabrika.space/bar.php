@@ -322,6 +322,11 @@ Template Name: bar
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Craft beer</div>
 							<div class="bodyCategoryMenuBar">
+								<div class="listBeautifulItems">
+									<div class="itemWithImage">
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCraftBeer.jpg" data-popupGalery="1" /></div>
+									</div>
+								</div>
 								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">95 uah</span>
