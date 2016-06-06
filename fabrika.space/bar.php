@@ -163,7 +163,8 @@ Template Name: bar
 							</div>
 						</div>
 
-						<div class="titleCategoryMenuBar act">Summer cocktails</div>
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Summer cocktails</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listBeautifulItems">
 									<div class="itemWithImage">
@@ -584,7 +585,7 @@ Template Name: bar
 						</div>
 
 						<div class="categoryMenuBar">
-							<div class="titleCategoryMenuBar act">Cocktails</div>
+							<div class="titleCategoryMenuBar act">Коктейли</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listBeautifulItems">
 									<div class="itemWithImage">
