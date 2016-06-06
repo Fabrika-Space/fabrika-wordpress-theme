@@ -163,6 +163,49 @@ Template Name: bar
 							</div>
 						</div>
 
+						<div class="titleCategoryMenuBar act">Summer cocktails</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listBeautifulItems">
+									<div class="itemWithImage">
+										<div class="data">
+											<span class="title"><div><span>Strawberry Daiquiri</span></div></span>
+											<span class="price">95 uah</span>
+										</div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barStrawberryDaiquiri.jpg" data-popupGalery="1" /></div>
+										<span class="composition">(150 ml) Rum, strawberry, lime, lemongrass syrup</span>
+										<span class="desc">description</span>
+									</div>
+									<div class="itemWithImage">
+										<div class="data">
+											<span class="title"><div><span>Red Basil Splash</span></div></span>
+											<span class="price">95 uah</span>
+										</div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barRedBasilSplash.jpg" data-popupGalery="1" /></div>
+										<span class="composition">(160 ml) Gin, strawberry, basil, balsamic cream, lime</span>
+										<span class="desc">description</span>
+									</div>
+									<div class="itemWithImage">
+										<div class="data">
+											<span class="title"><div><span>Sail</span></div></span>
+											<span class="price">95 uah</span>
+										</div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barSail.jpg" data-popupGalery="1" /></div>
+										<span class="composition">(220 ml) Rum, red vermouth, peach liqueur, strawberry foam, mint</span>
+										<span class="desc">description</span>
+									</div>
+									<div class="itemWithImage">
+										<div class="data">
+											<span class="title"><div><span>Creamy Smoothie</span></div></span>
+											<span class="price">53 uah</span>
+										</div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCreamySmoothie.jpg" data-popupGalery="1" /></div>
+										<span class="composition">(200 ml) Strawberry, red basil, mascarpone, lemongrass, lime</span>
+										<span class="desc">description</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Cocktails</div>
 							<div class="bodyCategoryMenuBar">
@@ -492,6 +535,49 @@ Template Name: bar
 										<span class="desc">description</span>
 									</div-->
 
+								</div>
+							</div>
+						</div>
+
+						<div class="titleCategoryMenuBar act">Летние коктейли</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listBeautifulItems">
+									<div class="itemWithImage">
+										<div class="data">
+											<span class="title"><div><span>Strawberry Daiquiri</span></div></span>
+											<span class="price">95 грн</span>
+										</div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barStrawberryDaiquiri.jpg" data-popupGalery="1" /></div>
+										<span class="composition">(150 ml) Rum, strawberry, lime, lemongrass syrup</span>
+										<span class="desc">description</span>
+									</div>
+									<div class="itemWithImage">
+										<div class="data">
+											<span class="title"><div><span>Red Basil Splash</span></div></span>
+											<span class="price">95 грн</span>
+										</div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barRedBasilSplash.jpg" data-popupGalery="1" /></div>
+										<span class="composition">(160 ml) Gin, strawberry, basil, balsamic cream, lime</span>
+										<span class="desc">description</span>
+									</div>
+									<div class="itemWithImage">
+										<div class="data">
+											<span class="title"><div><span>Sail</span></div></span>
+											<span class="price">95 грн</span>
+										</div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barSail.jpg" data-popupGalery="1" /></div>
+										<span class="composition">(220 ml) Rum, red vermouth, peach liqueur, strawberry foam, mint</span>
+										<span class="desc">description</span>
+									</div>
+									<div class="itemWithImage">
+										<div class="data">
+											<span class="title"><div><span>Creamy Smoothie</span></div></span>
+											<span class="price">53 грн</span>
+										</div>
+										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCreamySmoothie.jpg" data-popupGalery="1" /></div>
+										<span class="composition">(200 ml) Strawberry, red basil, mascarpone, lemongrass, lime</span>
+										<span class="desc">description</span>
+									</div>
 								</div>
 							</div>
 						</div>
