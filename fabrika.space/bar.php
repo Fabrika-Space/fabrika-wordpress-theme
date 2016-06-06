@@ -319,6 +319,28 @@ Template Name: bar
 							</div>
 						</div>
 
+						<div class="titleCategoryMenuBar act">Craft beer</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">95 uah</span>
+										<span class="title">Dead Pony Club 330 ml</span>
+										<span class="desc">BrewDog</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">90 uah</span>
+										<span class="title">Punk IPA 330 ml</span>
+										<span class="desc">BrewDog</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">100 uah</span>
+										<span class="title">Jack Hammer 330 ml</span>
+										<span class="desc">BrewDog</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Hot</div>
 							<div class="bodyCategoryMenuBar">
