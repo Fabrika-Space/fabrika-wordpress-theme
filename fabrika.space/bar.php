@@ -720,6 +720,29 @@ Template Name: bar
 						</div>
 
 						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Крафтовое пиво</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">95 грн</span>
+										<span class="title">Dead Pony Club 330 ml</span>
+										<span class="desc">BrewDog</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">90 грн</span>
+										<span class="title">Punk IPA 330 ml</span>
+										<span class="desc">BrewDog</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">100 грн</span>
+										<span class="title">Jack Hammer 330 ml</span>
+										<span class="desc">BrewDog</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Hot</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
