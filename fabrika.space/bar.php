@@ -634,16 +634,12 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">55 грн</span>
+										<span class="price">60 грн</span>
 										<span class="title">Омлет с начинкой на выбор 120 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">83 грн</span>
+										<span class="price">90 грн</span>
 										<span class="title">Яйца Бенедикт 250 гр.</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">95 грн</span>
-										<span class="title">Яйца по-Флорентийски 250 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">117 грн</span>
@@ -660,6 +656,229 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">67 грн</span>
 										<span class="title">Сырники 200/50 гр.</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Закуски</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">55 грн</span>
+										<span class="title">Паштет из куриной печени с тостами 200/100/20 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">68 грн</span>
+										<span class="title">Хумус 180 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">85 грн</span>
+										<span class="title">Хумус с куриным филе 180/50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">62 грн</span>
+										<span class="title">Фалафель в пите с соусом дзадзики 120/50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">140 грн</span>
+										<span class="title">Сырная тарелка мягких сыров c копченой грушей 150/150/25 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">120 грн</span>
+										<span class="title">Икра слабосолёная щуки с солодовым хлебом и сливочным маслом 50/120/50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price"></span>
+										<span class="title"></span>
+									</div>
+									<div class="txtItem">
+										<span class="price"></span>
+										<span class="title"></span>
+									</div>
+									<div class="txtItem">
+										<span class="price"></span>
+										<span class="title"></span>
+									</div>
+									<div class="txtItem">
+										<span class="price"></span>
+										<span class="title"></span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Салаты</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">95 грн</span>
+										<span class="title">Салат греческий 200 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">83 грн</span>
+										<span class="title">Салат из рапанов 180 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">100 грн</span>
+										<span class="title">Салат из запеченной свеклы c мягким козим сыром 200 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">78 грн</span>
+										<span class="title">Салат из курицы 250 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">99 грн</span>
+										<span class="title">Теплый салат из телятины 150 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">95 грн</span>
+										<span class="title">Летний салат с тригровыми креветками и спелой клубникой 220 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">120 грн</span>
+										<span class="title">Салат со средиземноморским осьминогом на гриле 200 гр.</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Супы</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">43 грн</span>
+										<span class="title">Куриный бульон с домашней лапшой 300 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">55 грн</span>
+										<span class="title">Creamy Mushroom Soup 300 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">75 грн</span>
+										<span class="title">Окрошка с лососем 300 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">50 грн</span>
+										<span class="title">Окрошка с курицей 300 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">62 грн</span>
+										<span class="title">Свекольник с копчёной скумбрией и тостами из солодового хлеба 300/50/50 гр.</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Основные блюда</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">75 грн</span>
+										<span class="title">Крылья BBQ 250/200 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">85 грн</span>
+										<span class="title">Куриное филе на гриле 150/150/50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">85 грн</span>
+										<span class="title">Филе скумбрии на гриле 150/150/50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">77 грн</span>
+										<span class="title">Fish & Chips 130/150/130 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">60 грн</span>
+										<span class="title">Стейк Рибай за 100 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">88 грн</span>
+										<span class="title">Стейк New York за 100 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">142 грн</span>
+										<span class="title">Тальята с салатом из овощей гриль 180/200/50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">50 грн</span>
+										<span class="title">Стейк Оссо буко с томлеными овощами за 100 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">90 грн</span>
+										<span class="title">Свиные ребра BBQ с пикантным клубничным соусом 200/50 гр.</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Гарниры</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">33 грн</span>
+										<span class="title">Картофель по-креольски 150 гр.</span>
+									</div>
+								</div>
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">43 грн</span>
+										<span class="title">Овощи гриль 150 гр.</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Десерты</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">49 грн</span>
+										<span class="title">Творожный кейк с домашним вареньем 150/50 гр.</span>
+									</div>
+								</div>
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">53 грн</span>
+										<span class="title">Красный бархат 200 гр.</span>
+									</div>
+								</div>
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">45 грн</span>
+										<span class="title">Шоколадный торт 210 гр.</span>
+									</div>
+								</div>
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">45 грн</span>
+										<span class="title">Десерт Анна Павлова 150 гр.</span>
+									</div>
+								</div>
+									<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">40 грн</span>
+										<span class="title">Ореховый торт 120 гр.</span>
+									</div>
+								</div>
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">35 грн</span>
+										<span class="title">Крем-брюле 120 гр.</span>
+									</div>
+								</div>
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">15 грн</span>
+										<span class="title">Домашнее мороженое 50 гр.</span>
 									</div>
 								</div>
 							</div>
