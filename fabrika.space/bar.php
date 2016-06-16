@@ -312,7 +312,230 @@ Template Name: bar
 								</div>
 							</div>
 						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Breakfasts all day long</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">60 uah</span>
+										<span class="title">Omelette with filling of your choice 120 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">90 uah</span>
+										<span class="title">Eggs Benedict 250 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">117 uah</span>
+										<span class="title">Eggs Hemingway 250 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">125 uah</span>
+										<span class="title">Scrambled Eggs 350 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">35 uah</span>
+										<span class="title">The Perfect Oatmeal 200/50 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">67 uah</span>
+										<span class="title">Fluffy Cottage Cheese Pancakes 200/50 g</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Appetizers</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">55 uah</span>
+										<span class="title">Chicken Liver Pate 200/100/20 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">68 uah</span>
+										<span class="title">Hummus 180 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">85 uah</span>
+										<span class="title">Hummus with Chicken 180/50 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">62 uah</span>
+										<span class="title">Falafel on Pita with Tzatziki Sauce 120/50 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">140 uah</span>
+										<span class="title">Cheese Platter with Smoked Pear 150/150/25 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">120 uah</span>
+										<span class="title">Salted pike caviar with crispy malt bread and butter 50/120/50 g</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Salads</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">95 uah</span>
+										<span class="title">Greek Salad with Roasted Pumpkin Seed 200 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">83 uah</span>
+										<span class="title">Sea Snail Salad 180 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">100 uah</span>
+										<span class="title">Roasted Beet Salad with Goat Cheese 200 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">78 uah</span>
+										<span class="title">Chicken salad 250 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">99 uah</span>
+										<span class="title">Beef salad 150 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">95 uah</span>
+										<span class="title">Summer salad with tiger prawns and fresh strawberries 220 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">120 uah</span>
+										<span class="title">Mediterranean grilled octopus salad 200 g</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Soups</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">43 uah</span>
+										<span class="title">Chicken Noodle Soup 300 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">55 uah</span>
+										<span class="title">Creamy Mushroom Soup 300 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">75 uah</span>
+										<span class="title">Okroshka with salmon 300 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">50 uah</span>
+										<span class="title">Okroshka with chicken 300 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">62 uah</span>
+										<span class="title">Traditional Beetroot Soup 300/50/50 g</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Main Course</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">75 uah</span>
+										<span class="title">BBQ Chicken Wings 250/50 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">85 uah</span>
+										<span class="title">Grilled Chicken Breast 150/150/50 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">85 uah</span>
+										<span class="title">Grilled Mackerel 150/150/50 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">77 uah</span>
+										<span class="title">Fish & Chips 130/150/130 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">60 uah</span>
+										<span class="title">Rib-eye Steak for 100 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">88 uah</span>
+										<span class="title">New York Steak for 100 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">142 uah</span>
+										<span class="title">Tagliata with Grilled Vegetable Salad 180/200/50 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">50 uah</span>
+										<span class="title">Steak Ossobuco with Stewed Vegetables for 100 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">90 uah</span>
+										<span class="title">BBQ Pork Ribs with spicy strawberry sauce 200/50 g</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Side dishes</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">33 uah</span>
+										<span class="title">Roasted Creole Potatoes 150 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">43 uah</span>
+										<span class="title">Grilled Vegetables 150 g</span>
+									</div>
+								</div>
+							</div>
+						</div>
 						
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Sweets</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">49 uah</span>
+										<span class="title">Cottage Cheesecake with Jam 150/50 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">53 uah</span>
+										<span class="title">Red Velvet Cake 200 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">45 uah</span>
+										<span class="title">Chocolate cake 210 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">45 uah</span>
+										<span class="title">Pavlova Anna dessert 150 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">40 uah</span>
+										<span class="title">Walnut cake 120 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">35 uah</span>
+										<span class="title">Creme Brulee 120 g</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">15 uah</span>
+										<span class="title">Homemade ice-cream 50 g</span>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 
 					<div class="rightSidebarMenuBar">
@@ -826,8 +1049,6 @@ Template Name: bar
 										<span class="price">33 грн</span>
 										<span class="title">Картофель по-креольски 150 гр.</span>
 									</div>
-								</div>
-								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">43 грн</span>
 										<span class="title">Овощи гриль 150 гр.</span>
@@ -844,38 +1065,26 @@ Template Name: bar
 										<span class="price">49 грн</span>
 										<span class="title">Творожный кейк с домашним вареньем 150/50 гр.</span>
 									</div>
-								</div>
-								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">53 грн</span>
 										<span class="title">Красный бархат 200 гр.</span>
 									</div>
-								</div>
-								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">45 грн</span>
 										<span class="title">Шоколадный торт 210 гр.</span>
 									</div>
-								</div>
-								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">45 грн</span>
 										<span class="title">Десерт Анна Павлова 150 гр.</span>
 									</div>
-								</div>
-									<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">40 грн</span>
 										<span class="title">Ореховый торт 120 гр.</span>
 									</div>
-								</div>
-								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">35 грн</span>
 										<span class="title">Крем-брюле 120 гр.</span>
 									</div>
-								</div>
-								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">15 грн</span>
 										<span class="title">Домашнее мороженое 50 гр.</span>
