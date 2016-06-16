@@ -607,7 +607,7 @@ Template Name: bar
 						</div>
 
 						<div class="categoryMenuBar">
-							<div class="titleCategoryMenuBar act">NON-ALCOHOL DRINKS</div>
+							<div class="titleCategoryMenuBar act">Безалкогольные напитки</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
@@ -624,6 +624,42 @@ Template Name: bar
 										<span class="price">50 грн</span>
 										<span class="title">CITRUS LEMONADE 250 ml</span>
 										<span class="desc">Lemongrass, fresh-squeezed lime juice, fresh-squeezed orange juice</span>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Завтраки весь день</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">55 грн</span>
+										<span class="title">Омлет с начинкой на выбор 120 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">83 грн</span>
+										<span class="title">Яйца Бенедикт 250 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">95 грн</span>
+										<span class="title">Яйца по-Флорентийски 250 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">117 грн</span>
+										<span class="title">Яйца "Хемингуэй" 250 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">125 грн</span>
+										<span class="title">Яйца скрэмбл 350 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">35 грн</span>
+										<span class="title">Овсяная каша на яблочном фреше 200/50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">67 грн</span>
+										<span class="title">Сырники 200/50 гр.</span>
 									</div>
 								</div>
 							</div>
