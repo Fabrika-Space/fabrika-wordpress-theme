@@ -279,22 +279,22 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">98 uah</span>
 										<span class="title">MULLED RED WINE 160 ml</span>
-										<span class="desc">Shiraz Osado Red Wine, Fresh Orange & Lemon, Raspberry Puree, Sea Buckthorn Puree, Honey, Cinnamon, Star Anise</span>
+										<span class="desc">Shiraz Osado red wine, fresh orange & lemon, raspberry puree, sea buckthorn puree, honey, cinnamon, star anise</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">72 uah</span>
 										<span class="title">IRISH COFFEE 150 ml</span>
-										<span class="desc">Jameson Irish Whisky, Freshly Brewed Doppio, Sugar Cane Syrup, Whipped Vanilla Cream</span>
+										<span class="desc">Jameson Irish whisky, freshly brewed doppio, sugar cane syrup, whipped vanilla cream</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">98 uah</span>
 										<span class="title">SWEET JACK 175 ml</span>
-										<span class="desc">Jack Daniel's Tennessee Whisky, Fumigated Pears Cordial, Hazelnut Syrup, Black Chocolate, Whipped Vanilla Cream, Fresh Butter</span>
+										<span class="desc">Jack Daniel's Tennessee whisky, fumigated pears cordial, hazelnut syrup, black chocolate, whipped vanilla cream, fresh butter</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">98 uah</span>
 										<span class="title">CINNAMON HOT GLASS 160 ml</span>
-										<span class="desc">Spicebox Cinnamon, Sortilege Liq, White Wine La Ferme, Sugar Cane & Caramel Syrup, Fresh Squeezed Lemon Juice, Whipped Vanilla Cream</span>
+										<span class="desc">Spicebox Cinnamon, Sortilege Liq, white wine La Ferme, sugar cane & caramel syrup, fresh squeezed lemon juice, whipped vanilla cream</span>
 									</div>
 								</div>
 							</div>
