@@ -259,9 +259,9 @@ Template Name: bar
 										<span class="desc">BrewDog</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">90 uah</span>
-										<span class="title">Punk IPA 330 ml</span>
-										<span class="desc">BrewDog</span>
+										<span class="price">95 uah</span>
+										<span class="title">De Molen Mooi & Meedogenloos 330 ml</span>
+										<span class="desc">Brouwerij de Molen</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">100 uah</span>
@@ -277,14 +277,24 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">100 uah</span>
-										<span class="title">MULLED WINE 210 ml</span>
-										<span class="desc">Red dry wine, sea buckthorns, raspberry, orange, lemon, cinnamon, clove, honey</span>
+										<span class="price">98 uah</span>
+										<span class="title">MULLED RED WINE 160 ml</span>
+										<span class="desc">Shiraz Osado Red Wine, Fresh Orange & Lemon, Raspberry Puree, Sea Buckthorn Puree, Honey, Cinnamon, Star Anise</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">75 uah</span>
-										<span class="title">IRISH COFFEE 200 ml</span>
-										<span class="desc">Whiskey, cream, coffee, sugar</span>
+										<span class="price">72 uah</span>
+										<span class="title">IRISH COFFEE 150 ml</span>
+										<span class="desc">Jameson Irish Whisky, Freshly Brewed Doppio, Sugar Cane Syrup, Whipped Vanilla Cream</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">98 uah</span>
+										<span class="title">SWEET JACK 175 ml</span>
+										<span class="desc">Jack Daniel's Tennessee Whisky, Fumigated Pears Cordial, Hazelnut Syrup, Black Chocolate, Whipped Vanilla Cream, Fresh Butter</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">98 uah</span>
+										<span class="title">CINNAMON HOT GLASS 160 ml</span>
+										<span class="desc">Spicebox Cinnamon, Sortilege Liq, White Wine La Ferme, Sugar Cane & Caramel Syrup, Fresh Squeezed Lemon Juice, Whipped Vanilla Cream</span>
 									</div>
 								</div>
 							</div>
