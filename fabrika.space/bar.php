@@ -1051,7 +1051,7 @@ Template Name: bar
 									</div>
 									<div class="txtItem">
 										<span class="price">155 грн</span>
-										<span class="title">"Оссо буко из индейки с томлеными овощами и картофельным пюре с пастернаком 250/150/200 гр.</span>
+										<span class="title">Оссо буко из индейки с томлеными овощами и картофельным пюре с пастернаком 250/150/200 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">99 грн</span>
@@ -1063,7 +1063,7 @@ Template Name: bar
 									</div>
 									<div class="txtItem">
 										<span class="price">140 грн</span>
-										<span class="title">Говяжьи рёбрышки, томленые в смокере с тушёной капустой 200/150 гр.</span>
+										<span class="title">Говяжьи рёбрышки, томлёные в смокере с тушёной капустой 200/150 гр.</span>
 									</div>
 								</div>
 							</div>
