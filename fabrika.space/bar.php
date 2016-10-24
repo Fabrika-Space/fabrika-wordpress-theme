@@ -647,7 +647,7 @@ Template Name: bar
 									</div>
 									<div class="txtItem">
 										<span class="price">110 грн</span>
-										<span class="title">BLIND CAT" RAY CHARLES SOUR 170 ml</span>
+										<span class="title">"BLIND CAT" RAY CHARLES SOUR 170 ml</span>
 										<span class="desc">Hayman's Old Tom botanical infused gin, lavender syrup, Suze Saveur d'Autrefois, Amaretto liq, fresh squeezed lime juice, egg white</span>
 									</div>
 									<div class="txtItem">
