@@ -1082,32 +1082,44 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">49 грн</span>
+										<span class="price">59 грн</span>
 										<span class="title">Творожный кейк с домашним вареньем 150/50 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">53 грн</span>
+										<span class="price">65 грн</span>
 										<span class="title">Красный бархат 200 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">45 грн</span>
+										<span class="price">55 грн</span>
 										<span class="title">Шоколадный торт 210 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">45 грн</span>
+										<span class="price">55 грн</span>
 										<span class="title">Десерт Анна Павлова 150 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">40 грн</span>
+										<span class="price">45 грн</span>
 										<span class="title">Ореховый торт 120 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">35 грн</span>
+										<span class="price">45 грн</span>
 										<span class="title">Крем-брюле 120 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">15 грн</span>
+										<span class="price">20 грн</span>
 										<span class="title">Домашнее мороженое 50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">50 грн</span>
+										<span class="title">Яблочно-клубничный крисп с шариком ванильного мороженого 130/50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">20 грн</span>
+										<span class="title">Конфеты ручной работы 8-15 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">50 грн</span>
+										<span class="title">Груша, запеченная в стиле крамбл 200 гр.</span>
 									</div>
 								</div>
 							</div>
