@@ -628,7 +628,42 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">86 грн</span>
 										<span class="title">WHISKY SOUR "TRADITIONAL OR RYE" 140 ml</span>
-										<span class="desc">Wild Turkey 101 bourbon or Rye bourbon, Suze Bitters orange, Sugar Cane syrup, egg white</span>
+										<span class="desc">Wild Turkey 101 bourbon or Rye bourbon, Suze Bitters orange, sugar cane syrup, egg white</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">90 грн</span>
+										<span class="title">NEW YORK SOUR "TRADITIONAL OR RYE" 180 ml</span>
+										<span class="desc">Jim Beam White Label or Rye, Sandeman Tawny porto, fresh squeezed lime juice, sugar cane syrup, egg white</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">120 грн</span>
+										<span class="title">PUBLISHING SOUR 120 ml</span>
+										<span class="desc">Teacher's Highland Cream, Strega liquore, Suze Bitters orange, fresh squeezed lime juice, sugar cane & caramel syrup, egg white</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">86 грн</span>
+										<span class="title">MR PEAR'S SOUR 160 ml</span>
+										<span class="desc">Wild Turkey 101 bourbon, fumigated pears cordial, muscat, fresh squeezed lime juice, Scrappy's Bitters Orleans, egg white</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">110 грн</span>
+										<span class="title">BLIND CAT" RAY CHARLES SOUR 170 ml</span>
+										<span class="desc">Hayman's Old Tom botanical infused gin, lavender syrup, Suze Saveur d'Autrefois, Amaretto liq, fresh squeezed lime juice, egg white</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">155 грн</span>
+										<span class="title">MEZCAL SOUR 140 ml</span>
+										<span class="desc">Mezcal Vida, tequila El Jimador Reposado, Agave Sec, kumquat, lemongrass syrup, fresh squeezed lime & orange, egg white</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">112 грн</span>
+										<span class="title">PLAYFUL BIRD 170 ml</span>
+										<span class="desc">Wild Turkey 101 bourbon, Cassis de Bourgogne, Fernet Branca, Campari, Miol Prosecco Treviso, Suze Bitters red</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">112 грн</span>
+										<span class="title">P.S. PARIS LOVER 160 ml</span>
+										<span class="desc">Gordon's Gin, Chartreuse Green, lavender syrup, Miol Prosecco Treviso, Peychaud's Bitters</span>
 									</div>
 								</div>
 							</div>
