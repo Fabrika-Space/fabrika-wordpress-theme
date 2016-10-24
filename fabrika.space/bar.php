@@ -895,7 +895,7 @@ Template Name: bar
 									</div>
 									<div class="txtItem">
 										<span class="price">60 грн</span>
-										<span class="title">"Гранола с йогуртом и ягодным джемом 300 гр.</span>
+										<span class="title">Гранола с йогуртом и ягодным джемом 300 гр.</span>
 									</div>
 								</div>
 							</div>
@@ -928,22 +928,6 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">140 грн</span>
 										<span class="title">Икра слабосолёная щуки с солодовым хлебом и сливочным маслом 50/120/50 гр.</span>
-									</div>
-									<div class="txtItem">
-										<span class="price"></span>
-										<span class="title"></span>
-									</div>
-									<div class="txtItem">
-										<span class="price"></span>
-										<span class="title"></span>
-									</div>
-									<div class="txtItem">
-										<span class="price"></span>
-										<span class="title"></span>
-									</div>
-									<div class="txtItem">
-										<span class="price"></span>
-										<span class="title"></span>
 									</div>
 								</div>
 							</div>
@@ -1024,7 +1008,7 @@ Template Name: bar
 									</div>
 									<div class="txtItem">
 										<span class="price">90 грн</span>
-										<span class="title">ФКуриное филе на гриле 150/150/50 гр.</span>
+										<span class="title">Куриное филе на гриле 150/150/50 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">85 грн</span>
