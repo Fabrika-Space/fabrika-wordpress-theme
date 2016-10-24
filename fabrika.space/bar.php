@@ -601,101 +601,34 @@ Template Name: bar
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>FABRIKA</span></div></span>
-											<span class="price">90 грн</span>
+											<span class="price">98 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barFabrika.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(165 ml) spicy rum, vermouth rosso, spicy mango cordial, raspberry, lime, egg white, pineapple</span>
-										<span class="desc">description</span>
-									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>CARROTINE</span></div></span>
-											<span class="price">100 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCarrotine.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(150 ml) gin, red vermouth, carrot cordial, spicy mango, lime, egg white</span>
-										<span class="desc">description</span>
-									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>THE RUM DIARY</span></div></span>
-											<span class="price">110 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barTheRumDiary.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(140 ml) rum plantation, bourbon, amaretto, lime cordial, mascarpone, egg white, mint</span>
+										<span class="composition">(180 ml) Rum Plantation Dark infused chili, vermouth Dolin Rouge, vermouth Cinzano 1757, lime cordial, raspberry, egg white</span>
 										<span class="desc">description</span>
 									</div>
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>MARVEL</span></div></span>
-											<span class="price">92 грн</span>
+											<span class="price">98 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barMarvel.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(200 ml) rum blanco, rum oro, aperol, peach liqueur, lime cordial, sea buckthorns, egg white</span>
+										<span class="composition">(200 ml) Matusalem Platino rum, Matusalem Anejo rum, Aperol, Cartron peach liq, lime cordial, sea buckthorn puree, egg white</span>
 										<span class="desc">description</span>
 									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>MICHURIN</span></div></span>
-											<span class="price">95 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barMichurin.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(140 ml) gin, lime cordial, cilantro, cucumber, egg white, mascarpone</span>
-										<span class="desc">description</span>
-									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>PEAR SOUR</span></div></span>
-											<span class="price">100 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barPearSour.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(150 ml) bourbon, pear cordial, lime, egg white</span>
-										<span class="desc">description</span>
-									</div>
-
 								</div>
 							</div>
 						</div>
 
 						<div class="categoryMenuBar">
-							<div class="titleCategoryMenuBar act">Летние коктейли</div>
+							<div class="titleCategoryMenuBar act">Sweet & Sour</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listBeautifulItems">
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>Strawberry Daiquiri</span></div></span>
-											<span class="price">95 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barStrawberryDaiquiri.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(150 ml) Rum, strawberry, lime, lemongrass syrup</span>
-										<span class="desc">description</span>
-									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>Red Basil Splash</span></div></span>
-											<span class="price">95 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barRedBasilSplash.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(160 ml) Gin, strawberry, basil, balsamic cream, lime</span>
-										<span class="desc">description</span>
-									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>Sail</span></div></span>
-											<span class="price">95 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barSail.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(220 ml) Rum, red vermouth, peach liqueur, strawberry foam, mint</span>
-										<span class="desc">description</span>
-									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>Creamy Smoothie</span></div></span>
-											<span class="price">53 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCreamySmoothie.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(200 ml) Strawberry, red basil, mascarpone, lemongrass, lime</span>
-										<span class="desc">description</span>
+									<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">86 грн</span>
+										<span class="title">WHISKY SOUR "TRADITIONAL OR RYE" 140 ml</span>
+										<span class="desc">Wild Turkey 101 bourbon or Rye bourbon, Suze Bitters orange, Sugar Cane syrup, egg white</span>
 									</div>
 								</div>
 							</div>
