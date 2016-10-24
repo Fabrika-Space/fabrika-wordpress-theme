@@ -854,19 +854,12 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">50 грн</span>
-										<span class="title">CHERRY LEMONADE 250 ml</span>
-										<span class="desc">Hibiscus, cherry, lime, juice, mint</span>
+										<span class="price">45 грн</span>
+										<span class="title">FRESH-SQUEEZED ORANGE JUICE 250 ml</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
-										<span class="title">CUCUMBER LEMONADE 250 ml</span>
-										<span class="desc">Cucumber, pear, lime, pear cordial, juice, egg white</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">50 грн</span>
-										<span class="title">CITRUS LEMONADE 250 ml</span>
-										<span class="desc">Lemongrass, fresh-squeezed lime juice, fresh-squeezed orange juice</span>
+										<span class="price">45 грн</span>
+										<span class="title">FRESH-SQUEEZED GRAPEFRUIT JUICE 250 ml</span>
 									</div>
 								</div>
 							</div>
@@ -877,11 +870,11 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">60 грн</span>
-										<span class="title">Омлет с начинкой на выбор 120 гр.</span>
+										<span class="price">70 грн</span>
+										<span class="title">Омлет с начинкой на выбор 120/50 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">90 грн</span>
+										<span class="price">95 грн</span>
 										<span class="title">Яйца Бенедикт 250 гр.</span>
 									</div>
 									<div class="txtItem">
@@ -893,12 +886,16 @@ Template Name: bar
 										<span class="title">Яйца скрэмбл 350 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">35 грн</span>
+										<span class="price">50 грн</span>
 										<span class="title">Овсяная каша на яблочном фреше 200/50 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">67 грн</span>
+										<span class="price">75 грн</span>
 										<span class="title">Сырники 200/50 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">60 грн</span>
+										<span class="title">"Гранола с йогуртом и ягодным джемом 300 гр.</span>
 									</div>
 								</div>
 							</div>
@@ -909,27 +906,27 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">55 грн</span>
-										<span class="title">Паштет из куриной печени с тостами 200/100/20 гр.</span>
+										<span class="price">60 грн</span>
+										<span class="title">Паштет из куриной печени с тостами 200/100/40 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">68 грн</span>
-										<span class="title">Хумус 180 гр.</span>
+										<span class="price">75 грн</span>
+										<span class="title">Хумус 180/50 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">85 грн</span>
-										<span class="title">Хумус с куриным филе 180/50 гр.</span>
+										<span class="price">90 грн</span>
+										<span class="title">Хумус с куриным филе 180/80/50 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">62 грн</span>
-										<span class="title">Фалафель в пите с соусом дзадзики 120/50 гр.</span>
+										<span class="price">75 грн</span>
+										<span class="title">Фалафель в пите с соусом дзадзики 130/50/50 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">140 грн</span>
+										<span class="price">155 грн</span>
 										<span class="title">Сырная тарелка мягких сыров c копченой грушей 150/150/25 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">120 грн</span>
+										<span class="price">140 грн</span>
 										<span class="title">Икра слабосолёная щуки с солодовым хлебом и сливочным маслом 50/120/50 гр.</span>
 									</div>
 									<div class="txtItem">
