@@ -797,7 +797,7 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">98-156 грн</span>
 										<span class="title">DRY MARTINI  100 ml</span>
-										<span class="desc">whisky, angostura bitters, sugar cane, sode</span>
+										<span class="desc">dry vermouth, gin, olive</span>
 										<span class="desc">Gin at your option: Gordon's, Hayman's Old Tom, Hendrick's Gin, Tanqueray #10</span>
 									</div>
 								</div>
