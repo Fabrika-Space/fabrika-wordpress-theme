@@ -777,6 +777,32 @@ Template Name: bar
 								</div>
 							</div>
 						</div>
+							
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Old School</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
+										<span class="price">86-210 грн</span>
+										<span class="title">OLD FASHIONED  100 ml</span>
+										<span class="desc">whisky, angostura bitters, sugar cane, sode</span>
+										<span class="desc">Whisky at your option: Four Roses, Wild Turkey 101 / Rye, Bulleit RYE , Teachers's Highland Cream, Woodford Reserve, Jim Beam Rye, Maker's Mark</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">96-217 грн</span>
+										<span class="title">MANHATTAN  100 ml</span>
+										<span class="desc">whisky, red vermouth, angostura bitters</span>
+										<span class="desc">Whisky at your option: Four Roses, Wild Turkey 101 / Rye, Ballantine`s Finest, Woodford Reserve, Jim Beam Rye, Bulleit Bourbon, Maker's Mark</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">98-156 грн</span>
+										<span class="title">DRY MARTINI  100 ml</span>
+										<span class="desc">whisky, angostura bitters, sugar cane, sode</span>
+										<span class="desc">Gin at your option: Gordon's, Hayman's Old Tom, Hendrick's Gin, Tanqueray #10</span>
+									</div>
+								</div>
+							</div>
+						</div>
 
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Крафтовое пиво</div>
