@@ -786,7 +786,7 @@ Template Name: bar
 										<span class="price">86-210 грн</span>
 										<span class="title">OLD FASHIONED  100 ml</span>
 										<span class="desc">whisky, angostura bitters, sugar cane, sode</span>
-										<span class="desc">Whisky at your option: Four Roses, Wild Turkey 101 / Rye, Bulleit RYE , Teachers's Highland Cream, Woodford Reserve, Jim Beam Rye, Maker's Mark</span>
+										<span class="desc">Whisky at your option: Four Roses, Wild Turkey 101 / Rye, Bulleit RYE , Teacher's Highland Cream, Woodford Reserve, Jim Beam Rye, Maker's Mark</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">96-217 грн</span>
