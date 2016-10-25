@@ -670,92 +670,109 @@ Template Name: bar
 						</div>
 
 						<div class="categoryMenuBar">
-							<div class="titleCategoryMenuBar act">Коктейли</div>
+							<div class="titleCategoryMenuBar act">Classic & Twists</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listBeautifulItems">
 									<div class="itemWithImage">
 										<div class="data">
 											<span class="title"><div><span>NEGRONI</span></div></span>
-											<span class="price">78 грн</span>
+											<span class="price">92 грн</span>
 										</div>
 										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barNegroni.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(100 ml) campari, vermouth, gin broker’s</span>
-										<span class="desc">description</span>
-									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>OLD FASHIONED</span></div></span>
-											<span class="price">70 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barOldFashioned.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(100 ml) angostura bitters, sugar, whiskey wild turkey 101</span>
-										<span class="desc">description</span>
-									</div>
-									<div class="itemWithImage">
-										<div class="data">
-											<span class="title"><div><span>DAIQUIRI</span></div></span>
-											<span class="price">90 грн</span>
-										</div>
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barDaiquiri.jpg" data-popupGalery="1" /></div>
-										<span class="composition">(125 ml) rum, lime, gomme syrup</span>
+										<span class="composition">(90 ml) Gordon's gin, Campari, vermouth Dolin Rouge, vermouth Cinzano 1757, Suze Bittters orange</span>
 										<span class="desc">description</span>
 									</div>
 								</div>
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">84 грн</span>
-										<span class="title">CLOVER CLUB 135 ml</span>
-										<span class="desc">Gin, raspberry, lime cordial, egg white</span>
+										<span class="price">117 грн</span>
+										<span class="title">LAST WORD 90 ml</span>
+										<span class="desc">Hayman's Old Tom gin infused botanical, Chartreuse Green, Marasquino liq, fresh squeezed lime juice, Suze Bitters orange</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">90 грн</span>
-										<span class="title">NEW TIME SOUR 170 ml</span>
-										<span class="desc">Bourbon, porto, lime cordial, egg white</span>
+										<span class="price">108 грн</span>
+										<span class="title">TUXEDO COCKTAIL 90 ml</span>
+										<span class="desc">Hayman's Old Tom gin, Manzanilla Deliciosa dry sherry, Suze Saveur d'Autrefois, Suze Bitters orange</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">80 грн</span>
-										<span class="title">WHISKEY SOUR 140 ml</span>
-										<span class="desc">Bourbon, lime cordial, egg white</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">95 грн</span>
-										<span class="title">WHITE RUSSIAN 130 ml</span>
-										<span class="desc">Vodka, kahlua, cream</span>
+										<span class="price">110 грн</span>
+										<span class="title">FIVE BULLETS 106 ml</span>
+										<span class="desc">Jim Beam rye bourbon, Kahlua, Sandeman Tawny porto, Creme de Cassis de Bourgogne, Scrappy's Bittters Orleans</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">98 грн</span>
-										<span class="title">COOPER 135 ml</span>
-										<span class="desc">Cointreau, aperol, lime, caramel</span>
+										<span class="title">CORPSE REVIVER #2 110 ml</span>
+										<span class="desc">Gordon's gin, Grand Marnier, Lillet Blanc, dash of Absinthe, fresh squeezed lime juice</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">73 грн</span>
+										<span class="price">119 грн</span>
+										<span class="title">BOHEMIAN WAY 110 ml</span>
+										<span class="desc">Becherovka Original, Sandeman Tawny porto, Marasquino liq, Laphroaig Select, Bittermens Boston Bittahs</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">106 грн</span>
+										<span class="title">DAIQUIRI HEMINGWAY / JAMAICA 130 ml</span>
+										<span class="desc">Jamaica Pot Still rum, Matusalem Platino rum, Marasquino liq, fresh squeezed grapefruit & lime juice</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">98 грн</span>
+										<span class="title">DAIQUIRI 110 ml</span>
+										<span class="desc">Matusalem Platino rum, Matusalem Anejo rum, lemongrass syrup, fresh squeezed lime juice</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">123 грн</span>
+										<span class="title">PROSPECTOR BY JAY JONES 90 ml</span>
+										<span class="desc">Luis Caballero Milenario Solera Reserva brandy, Chartreuse green, Carton triple sec, Creme de Cacao White, Peychaud's bitters</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">102 грн</span>
+										<span class="title">EL BOULEVARDINIO 100 ml</span>
+										<span class="desc">Four Roses bourbon, red sherry El Candado, Campari, vermouth Dolin Rouge, Cinzano 1757, Riga Black Currant, Scrappy's Bitters Orleans</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">96 грн</span>
 										<span class="title">BOULEVARDIER 90 ml</span>
-										<span class="desc">Bourbon, campari, vermouth rosso</span>
+										<span class="desc">Wild Turkey 101 bourbon, Campari, vermouth Dolin Rouge, vermouth Cinzano 1757, Suze Bitters orange</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">90 грн</span>
+										<span class="price">92 грн</span>
+										<span class="title">ESPRESSO MARTINI CURRANT 100 ml</span>
+										<span class="desc">Finlandia Currant, Kahlua, Riga Black Currant, coffee Doppio</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">106 грн</span>
+										<span class="title">PAPERBOY 100 ml</span>
+										<span class="desc">rum Plantation Original Dark, Hayman's Sloe gin, Cartron peach liq, vermouth Cinzano 1757, Bittermens Boston Bittahs</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">95 грн</span>
+										<span class="title">OAK VALLEY 95 ml</span>
+										<span class="desc">TAP 357 whisky, Mellow Corn American whisky, Suze Bitters orange</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">110 грн</span>
+										<span class="title">MARGARITA 98 ml</span>
+										<span class="desc">El Jimador Silver, Cartron Triple Sec, agave sec liq, fresh squeezed lime juice, salt</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">96 грн</span>
 										<span class="title">COSMOPOLITAN 110 ml</span>
-										<span class="desc">Vodka lime, cointreau, cranberry, lime</span>
+										<span class="desc">Finlandia Cranberry, Cartron Triple Sec, lemongrass syrup, fresh cranberries, fresh squeezed lime juice</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">90 грн</span>
-										<span class="title">MARGARITA 110 ml</span>
-										<span class="desc">Tequila, triple sec, lime</span>
+										<span class="price">95 грн</span>
+										<span class="title">WHITE RUSSIAN 120 ml</span>
+										<span class="desc">Finlandia vodka, Kahlua, cream</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">100 грн</span>
-										<span class="title">DRY MARTINI 100 ml</span>
-										<span class="desc">Dry vermouth, gin, olive</span>
+										<span class="price">130 грн</span>
+										<span class="title">LONG ISLAND ICED TEA 200 ml</span>
+										<span class="desc">Finlandia vodka, El Jimador Silver, Gordon's gin, Matusalem Platino rum, Triple Sec liq, fresh squeezed lime juice, coke</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">84 грн</span>
-										<span class="title">MANHATTAN 100 ml</span>
-										<span class="desc">Bourbon, vermouth rosso, angostura bitters</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">90 грн</span>
-										<span class="title">BLOODY MARY 220 ml</span>
-										<span class="desc">Vodka, tomato juice, celery, lemon, pepper, salt, worcestershire sauce, tabasco</span>
+										<span class="price">130 грн</span>
+										<span class="title">BLOODY MARY 200 ml</span>
+										<span class="desc">Finlandia vodka, special tomato pre mix "15 ingredients", fresh squeezed lime juice</span>
 									</div>
 								</div>
 							</div>
