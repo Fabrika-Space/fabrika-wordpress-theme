@@ -385,9 +385,9 @@ Template Name: event-zone
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapRedRoom.jpg" /></div>
 					</div>
 					<div class="item clear">
-						<div class="title bgTransparentBlue">синий зал</div>
+						<div class="title bgTransparentBlue">Синий зал</div>
 						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneBlue.jpg" /></div>
-						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapBlueRoom.jpg" /></div>
+						<div class="map"><img src="/wp-content/themes/fabrika.space/img/NewSmallMapBlueRoom.jpg" /></div>
 					</div>
 					<div class="item clear">
 						<div class="title bgTransparentGreen">Зеленый зал</div>
