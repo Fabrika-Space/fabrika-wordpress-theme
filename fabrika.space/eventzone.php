@@ -320,14 +320,24 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 час</td>
+													<td>1 час в будний день</td>
 													<td>—</td>
 													<td>250 грн</td>
 												</tr>
 												<tr>
-													<td>Целый день</td>
+													<td>1 час в выходной день</td>
+													<td>—</td>
+													<td>300 грн</td>
+												</tr>
+												<tr>
+													<td>Целый будний день</td>
 													<td>—</td>
 													<td>2500 грн</td>
+												</tr>
+												<tr>
+													<td>Целый выходной день</td>
+													<td>—</td>
+													<td>3000 грн</td>
 												</tr>
 											</table>
 										</div>
@@ -338,14 +348,24 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 час</td>
+													<td>1 час в будний день</td>
 													<td>—</td>
 													<td>500 грн</td>
 												</tr>
 												<tr>
-													<td>Целый день</td>
+													<td>1 час в выходной день</td>
+													<td>—</td>
+													<td>600 грн</td>
+												</tr>
+												<tr>
+													<td>Целый будний день</td>
 													<td>—</td>
 													<td>5000 грн</td>
+												</tr>
+												<tr>
+													<td>Целый выходной день</td>
+													<td>—</td>
+													<td>6000 грн</td>
 												</tr>
 											</table>
 										</div>
