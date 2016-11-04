@@ -49,7 +49,7 @@ Template Name: event-zone
 						</div>
 						<div class="item">
 							<div class="title">Red hall<br /> up to 500 seats<br /> on the thrid floor</div>
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomRed.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/gray scheme.jpg"/></div>
 							<div class="moreDetails"><a href="#moreRed">More details</a></div>
 						</div>
 					</div>
@@ -88,7 +88,7 @@ Template Name: event-zone
 
 					<div class="roomsDescription">
 						<div class="item" id="moreRed">
-							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineRedRoom.png');"></div>
+							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/grayLine.png');"></div>
 							<div class="txt">
 								<p><span class="name">Red Hall:</span> is the best choice for conferences, seminars, forums and other types of big public events. About 500 people can accommodate in the Red Hall on comfortable chairs.</p>
 								<p>Red Hall is equipped with an amplifier and 8 powerful speakers which allows to hold even an acoustic concert. The arrangement of sound equipment makes it possible to get the perfect audibility in every part of the Hall.</p>
@@ -247,7 +247,7 @@ Template Name: event-zone
 						</div>
 						<div class="item">
 							<div class="title">Красный зал<br /> на 500 человек<br /> на третьем этаже</div>
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomRed.png" /></div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/gray scheme.jpg" /></div>
 							<div class="moreDetails"><a href="#moreRed">Подробнее</a></div>
 						</div>
 					</div>
@@ -286,7 +286,7 @@ Template Name: event-zone
 
 					<div class="roomsDescription">
 						<div class="item" id="moreRed">
-							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineRedRoom.png');"></div>
+							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/grayLine.png');"></div>
 							<div class="txt">
 								<p><span class="name">Красный зал</span> - идеально подходит для проведения конференций, семинаров, форумов и других масштабных мероприятий. В нем на удобных стульях может комфортно разместиться до 500 человек.</p> 
 								<p>В зале есть усилитель звука и 8 колонок, мощности которых позволяют провести даже кинопоказ. Схема расположения звукового оборудования позволяет получить идеальную слышимость в любой точке зала.</p>
