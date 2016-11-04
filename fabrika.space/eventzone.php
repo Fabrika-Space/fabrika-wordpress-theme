@@ -48,7 +48,7 @@ Template Name: event-zone
 							<div class="moreDetails"><a href="#moreBlue">More details</a></div>
 						</div>
 						<div class="item">
-							<div class="title">Red hall<br /> up to 500 seats<br /> on the thrid floor</div>
+							<div class="title">Gray hall<br /> up to 500 seats<br /> on the thrid floor</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/gray scheme.jpg"/></div>
 							<div class="moreDetails"><a href="#moreRed">More details</a></div>
 						</div>
@@ -90,7 +90,7 @@ Template Name: event-zone
 						<div class="item" id="moreRed">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/grayLine.png');"></div>
 							<div class="txt">
-								<p><span class="name">Red Hall:</span> is the best choice for conferences, seminars, forums and other types of big public events. About 500 people can accommodate in the Red Hall on comfortable chairs.</p>
+								<p><span class="name">Gray Hall:</span> is the best choice for conferences, seminars, forums and other types of big public events. About 500 people can accommodate in the Red Hall on comfortable chairs.</p>
 								<p>Red Hall is equipped with an amplifier and 8 powerful speakers which allows to hold even an acoustic concert. The arrangement of sound equipment makes it possible to get the perfect audibility in every part of the Hall.</p>
 								<p>Location of Panasonic projector allows your guests to see the image in details from every corner. You can hold an event and carry out your presentation or video even in the sunniest day thanks to dense blinds and high contrast ratio of the projector.</p>
 							</div>
@@ -122,14 +122,24 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 hour</td>
+													<td>1 hour on weekdays</td>
 													<td>—</td>
 													<td>250 uah</td>
 												</tr>
 												<tr>
-													<td>A day</td>
+													<td>1 hour on weekends</td>
+													<td>—</td>
+													<td>300 uah</td>
+												</tr>
+												<tr>
+													<td>A weekday</td>
 													<td>—</td>
 													<td>2 500 uah</td>
+												</tr>
+												<tr>
+													<td>A day on weekend</td>
+													<td>—</td>
+													<td>3 000 uah</td>
 												</tr>
 											</table>
 										</div>
@@ -140,20 +150,30 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 hour</td>
+													<td>1 hour on weekdays</td>
 													<td>—</td>
 													<td>500 uah</td>
 												</tr>
 												<tr>
-													<td>A day</td>
+													<td>1 hour on weekends</td>
+													<td>—</td>
+													<td>600 uah</td>
+												</tr>
+												<tr>
+													<td>A weekday</td>
 													<td>—</td>
 													<td>5 000 uah</td>
+												</tr>
+												<tr>
+													<td>A day on weekend</td>
+													<td>—</td>
+													<td>6 000 uah</td>
 												</tr>
 											</table>
 										</div>
 									</div>
 									<div class="typePriceCategory">
-										<span class="title">Red hall</span>
+										<span class="title">Gray hall</span>
 										<span class="countPeople">500 seats</span>
 										<div class="table">
 											<table>
@@ -182,7 +202,7 @@ Template Name: event-zone
 				<div class="sectionTitle">Plans and photos</div>
 				<div class="sectionContent">
 					<div class="item clear">
-						<div class="title bgTransparentRed">Red hall</div>
+						<div class="title bgTransparentRed">Gray hall</div>
 						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneRed.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapRedRoom.jpg" /></div>
 					</div>
@@ -246,7 +266,7 @@ Template Name: event-zone
 							<div class="moreDetails"><a href="#moreBlue">Подробнее</a></div>
 						</div>
 						<div class="item">
-							<div class="title">Красный зал<br /> на 500 человек<br /> на третьем этаже</div>
+							<div class="title">Серый зал<br /> на 500 человек<br /> на третьем этаже</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/gray scheme.jpg" /></div>
 							<div class="moreDetails"><a href="#moreRed">Подробнее</a></div>
 						</div>
@@ -288,7 +308,7 @@ Template Name: event-zone
 						<div class="item" id="moreRed">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/grayLine.png');"></div>
 							<div class="txt">
-								<p><span class="name">Красный зал</span> - идеально подходит для проведения конференций, семинаров, форумов и других масштабных мероприятий. В нем на удобных стульях может комфортно разместиться до 500 человек.</p> 
+								<p><span class="name">Серый зал</span> - идеально подходит для проведения конференций, семинаров, форумов и других масштабных мероприятий. В нем на удобных стульях может комфортно разместиться до 500 человек.</p> 
 								<p>В зале есть усилитель звука и 8 колонок, мощности которых позволяют провести даже кинопоказ. Схема расположения звукового оборудования позволяет получить идеальную слышимость в любой точке зала.</p>
 								<p>Проектор расположен относительно экрана таким образом, что из любой точки в зале ваши гости увидят изображение в деталях. Плотные жалюзи и высокая контрастность проектора дают возможность проводить презентации даже в самый солнечный день.</p>
 							</div>
@@ -371,7 +391,7 @@ Template Name: event-zone
 										</div>
 									</div>
 									<div class="typePriceCategory">
-										<span class="title">Красный зал</span>
+										<span class="title">Серый зал</span>
 										<span class="countPeople">500 человек</span>
 										<div class="table">
 											<table>
@@ -400,7 +420,7 @@ Template Name: event-zone
 				<div class="sectionTitle">Планы и фото ивент-зон</div>
 				<div class="sectionContent">
 					<div class="item clear">
-						<div class="title bgTransparentRed">Красный зал</div>
+						<div class="title bgTransparentRed">Серый зал</div>
 						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneRed.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapRedRoom.jpg" /></div>
 					</div>
