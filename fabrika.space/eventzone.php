@@ -236,13 +236,13 @@ Template Name: event-zone
 							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_altexsoft.png" style="height: 55px;" />
 						</div>
 						<div class="item">
-							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_globallogic.png" style="height: 55px;" />
+							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_globallogic.png" style="height: 35px;" />
 						</div>
 						<div class="item">
 							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_nixsolutions.png" style="height: 55px;" />
 						</div>
 						<div class="item">
-							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_softserve.png" style="height: 55px;" />
+							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_softserve.png" style="height: 35px;" />
 						</div>
 					</div>
 				</div>
@@ -466,13 +466,13 @@ Template Name: event-zone
 							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_altexsoft.png" style="height: 35px;" />
 						</div>
 							<div class="item">
-							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_globallogic.png" style="height: 55px;" />
+							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_globallogic.png" style="height: 35px;" />
 						</div>
 						<div class="item">
 							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_nixsolutions.png" style="height: 55px;" />
 						</div>
 						<div class="item">
-							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_softserve.png" style="height: 55px;" />
+							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_softserve.png" style="height: 35px;" />
 						</div>
 					</div>
 				</div>
