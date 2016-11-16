@@ -244,6 +244,9 @@ Template Name: event-zone
 						<div class="item">
 							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_softserve.png" style="height: 35px;" />
 						</div>
+						<div class="item">
+							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_axon.png" style="height: 35px;" />
+						</div>
 					</div>
 				</div>
 			</div>
@@ -473,6 +476,9 @@ Template Name: event-zone
 						</div>
 						<div class="item">
 							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_softserve.png" style="height: 35px;" />
+						</div>
+						<div class="item">
+							<img src="/wp-content/themes/fabrika.space/img/ourClients/logo_axon.png" style="height: 35px;" />
 						</div>
 					</div>
 				</div>
