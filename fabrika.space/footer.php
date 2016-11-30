@@ -34,7 +34,7 @@
 				</div>
 				<div class="part">
 					<div class="item"><?php echo($lang=='en'?'Event-zone/Coworking:':'Ивент-зона/Коворкинг:') ?><br/>
-						<a href="tel:+380681001133" class="icon_tel">+38 (068) 100 11 33<br/>
+						<a href="tel:+380681001133" class="icon_tel">+38 (068123) 100 11 33<br/>
 						<a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></div>
 					<div class="item"><?php echo($lang=='en'?'Bar/Restaurant:':'Бар/ресторан:') ?><br/>
 						<a href="tel:+380681001155" class="icon_tel">+38 (068) 100 11 55</a></div>
@@ -145,6 +145,16 @@
  ga('send', 'pageview');
 
 </script>
+
+<!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?4P7ZcANKOXvpUxKHqORqvGCgJS882KVS";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zendesk Chat Script-->
 
 </body>
 </html>
