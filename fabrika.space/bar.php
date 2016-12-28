@@ -1014,8 +1014,8 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">90 грн</span>
-										<span class="title">Крылышки BBQ 250/50 гр.</span>
+										<span class="price">95 грн</span>
+										<span class="title">Крылья BBQ в сладком чили 400 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">90 грн</span>
@@ -1026,20 +1026,16 @@ Template Name: bar
 										<span class="title">Филе скумбрии на гриле 150/150/30 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">105 грн</span>
-										<span class="title">Рыба из хоспера с овощами гриль 300/150/50 гр.</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">70 грн</span>
-										<span class="title">Стейк Рибай за 100 гр.</span>
+										<span class="price">179 грн</span>
+										<span class="title">Рыба в соусе мису 400/200 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">95 грн</span>
 										<span class="title">Стейк New York за 100 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">165 грн</span>
-										<span class="title">Тальята с салатом из овощей гриль 180/200/50 гр.</span>
+										<span class="price">179 грн</span>
+										<span class="title">Тальята с салатом из овощей гриль 200/160/50 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">155 грн</span>
@@ -1050,12 +1046,16 @@ Template Name: bar
 										<span class="title">Fish & chips 130/150/50 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">145 грн</span>
-										<span class="title">Каре телятины с жареным картофелем и с печеным болгарским перцем 150/150/30 гр.</span>
+										<span class="price">90 грн</span>
+										<span class="title">Нежная куриная печень в сладком соусе порто c картофельным пюре 120/200/100 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">140 грн</span>
-										<span class="title">Говяжьи рёбрышки, томлёные в смокере с тушёной капустой 200/150 гр.</span>
+										<span class="price">145 грн</span>
+										<span class="title">Мусака 400 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">149 грн</span>
+										<span class="title">Свиные ребра "Одеон" 400 гр.</span>
 									</div>
 								</div>
 							</div>
@@ -1066,12 +1066,12 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">40 грн</span>
-										<span class="title">Картофель по-креольски 150 гр.</span>
+										<span class="price">49 грн</span>
+										<span class="title">Картофель по-креольски 200 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">48 грн</span>
-										<span class="title">Овощи гриль 150 гр.</span>
+										<span class="price">55 грн</span>
+										<span class="title">Овощи гриль 200 гр.</span>
 									</div>
 								</div>
 							</div>
