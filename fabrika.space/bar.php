@@ -601,7 +601,7 @@ Template Name: bar
 						</div>
 					</div>
 
-					<div class="rightSidebarMenuBar">
+					<!--<div class="rightSidebarMenuBar">
 						<div class="moduleRightSidebarMenuBar">
 							<span class="h2">New</span>
 							<div class="item">
@@ -611,7 +611,7 @@ Template Name: bar
 								</div>
 								<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCacao.jpg"></div>
 							</div>
-						</div>
+						</div>-->
 					</div>
 
 				</div>
@@ -1191,7 +1191,7 @@ Template Name: bar
 						
 					</div>
 
-					<div class="rightSidebarMenuBar">
+					<!--<div class="rightSidebarMenuBar">
 						<div class="moduleRightSidebarMenuBar">
 							<span class="h2">Новые напитки</span>
 							<div class="item">
@@ -1201,7 +1201,7 @@ Template Name: bar
 								</div>
 								<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCacao.jpg"></div>
 							</div>
-						</div>
+						</div>-->
 					</div>
 
 				</div>
