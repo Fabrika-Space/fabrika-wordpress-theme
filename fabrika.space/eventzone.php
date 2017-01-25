@@ -92,7 +92,7 @@ Template Name: event-zone
 							<div class="txt">
 								<p><span class="name">Gray Hall:</span> is the best choice for conferences, seminars, forums and other types of big public events. About 500 people can accommodate in the Red Hall on comfortable chairs.</p>
 								<p>Red Hall is equipped with an amplifier and 8 powerful speakers which allows to hold even an acoustic concert. The arrangement of sound equipment makes it possible to get the perfect audibility in every part of the Hall.</p>
-								<p>Location of Panasonic projector allows your guests to see the image in details from every corner. You can hold an event and carry out your presentation or video even in the sunniest day thanks to dense blinds and high contrast ratio of the projector.</p>
+								<p>Location of Panasonic projector allows your guests to see the image in details from every corner. You can hold an event and carry out your presentation or video even in the sunniest day thanks to dense blinds and high contrast ratio of the projector. Lobby of the third floor has am exhibition space with exhibits gallery suspension system, which is 28m long, lit by powerful LED lamps.</p>
 							</div>
 						</div>
 						<div class="item" id="moreBlue">
@@ -106,7 +106,7 @@ Template Name: event-zone
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineGreenRoom.png');"></div>
 							<div class="txt">
 								<p><span class="name">Green Hall:</span> is located on the second floor and can comfortably accommodate up to 50 people. We recommend to use it for press-conferences, workshops and educational meetings.</p>
-								<p>Stereo amplifier with 2 speakers provides good sound coverage for the Green Hall and the projector has the same features as in Blue and Red Halls, despite the smaller space.</p>
+								<p>Stereo amplifier with 2 speakers provides good sound coverage for the Green Hall and the projector has the same features as in Blue and Gray Halls, despite the smaller space.</p>
 							</div>
 						</div>
 					</div>
@@ -325,7 +325,7 @@ Template Name: event-zone
 							<div class="txt">
 								<p><span class="name">Серый зал</span> - идеально подходит для проведения конференций, семинаров, форумов и других масштабных мероприятий. В нем на удобных стульях может комфортно разместиться до 500 человек.</p> 
 								<p>В зале есть усилитель звука и 8 колонок, мощности которых позволяют провести даже кинопоказ. Схема расположения звукового оборудования позволяет получить идеальную слышимость в любой точке зала.</p>
-								<p>Проектор расположен относительно экрана таким образом, что из любой точки в зале ваши гости увидят изображение в деталях. Плотные жалюзи и высокая контрастность проектора дают возможность проводить презентации даже в самый солнечный день.</p>
+								<p>Проектор расположен относительно экрана таким образом, что из любой точки в зале ваши гости увидят изображение в деталях. Плотные жалюзи и высокая контрастность проектора дают возможность проводить презентации даже в самый солнечный день. В холле перед серым залом расположено выставочное пространство с галерейной системой подвески экспонатов длинной 28м, освещенное мощными светодиодными лампами.</p>
 							</div>
 						</div>
 						<div class="item" id="moreBlue">
@@ -339,7 +339,7 @@ Template Name: event-zone
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/imgRoomsDescription.jpg'), url('/wp-content/themes/fabrika.space/img/lineGreenRoom.png');"></div>
 							<div class="txt">
 								<p><span class="name">Зеленый зал</span> - мы рекомендуем использовать для пресс-конференций, мастер-классов и небольших образовательных встреч.</p> 
-								<p>Усилитель звука с 2 колонками обеспечивает достаточное для площади зала покрытие, а проектор имеет те же возможности, что и в синем и красном зале, несмотря на меньший размер.</p>
+								<p>Усилитель звука с 2 колонками обеспечивает достаточное для площади зала покрытие, а проектор имеет те же возможности, что и в синем и сером зале, несмотря на меньший размер.</p>
 							</div>
 						</div>
 					</div>
