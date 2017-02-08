@@ -269,7 +269,7 @@ Template Name: coworking
 				<div class="sectionContent">
 					<div class="mapWrapper">
 						<span class="subtitleCoworking">Working seats</span>
-						<img src="/wp-content/themes/fabrika.space/img/coworkingWorkPlace.gif" />
+						<img src="/wp-content/themes/fabrika.space/img/coworkingScheme.jpg" />
 					</div>
 					<div class="mapWrapper">
 						<span class="subtitleCoworking">Lounge</span>
@@ -587,7 +587,7 @@ Template Name: coworking
 				<div class="sectionContent">
 					<div class="mapWrapper">
 						<span class="subtitleCoworking">Зона работы</span>
-						<img src="/wp-content/themes/fabrika.space/img/coworkingWorkPlace.gif" />
+						<img src="/wp-content/themes/fabrika.space/img/coworkingScheme.jpg" />
 					</div>
 					<div class="mapWrapper">
 						<span class="subtitleCoworking">Зона отдыха</span>
