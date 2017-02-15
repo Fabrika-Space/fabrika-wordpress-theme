@@ -34,7 +34,7 @@ Template Name: bar
 					<div class="worktimeAboutBar">
 						<img src="/wp-content/themes/fabrika.space/img/services/imgServiceWorktime.png" />
 						<div class="txt">
-							<p>Working hours<br />Friday and Saturday - 9:00 to 3:00<br />Sunday to Thursday - 9:00 to 24:00</p>
+							<p>Working hours<br />Friday and Saturday - 10:00 to 3:00<br />Sunday to Thursday - 10:00 to 00:00</p>
 							<p>Blagovischenska str. 1, Kharkiv, Ukraine</p>
 						</div>
 					</div>
@@ -758,7 +758,7 @@ Template Name: bar
 					<div class="worktimeAboutBar">
 						<img src="/wp-content/themes/fabrika.space/img/services/imgServiceWorktime.png" />
 						<div class="txt">
-							<p>Мы рады вас видеть<br /> семь дней в неделю<br />в Пятницу и Субботу с 9:00 до 3:00<br />с Воскресенья по Четверг с 9:00 до 24:00</p>
+							<p>Мы рады вас видеть<br /> семь дней в неделю<br />в Пятницу и Субботу с 10:00 до 03:00<br />с Воскресенья по Четверг с 10:00 до 00:00</p>
 							<p>Харьков,<br /> ул. Благовещенская(бывш. Карла Маркса), 1</p>
 						</div>
 					</div>
