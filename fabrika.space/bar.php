@@ -26,9 +26,9 @@ Template Name: bar
 
 			<div class="section aboutBar bgWhite clear">
 				<div class="sectionTitle borderBottomTitle">About us</div>
-				<div class="sectionContent clear">
+				<div class="sectionContent">
 					<div class="txtAboutBar">
-						<p>The most soulful bar of Kharkiv is situated in the former factory building with five-meter high ceilings.
+						<p>The most soulful bar of Kharkiv is situated in the former factory building with five-meter high ceilings.</p>
 						<p>You can still feel the charm of the early XX century in the renovated space of Fabrika thanks to authentic elements of design and interior. Excellent cuisine, variety of drinks and unique atmosphere will make you want to come back for more once you visit us for the first time.</p>
 					</div>
 					<div class="worktimeAboutBar">
@@ -41,13 +41,13 @@ Template Name: bar
 				</div>
 			</div>
 
-			<div class="section menuBar bgWhite">
+			<div class="section menuBar bgWhite clear">
 				<div class="sectionTitle borderBottomTitle">The menu</div>
-				<div class="sectionContent clear">
-					
+				<div class="sectionContent">
 					<div class="contentMenuBar">
+
 						<div class="categoryMenuBar">
-						<div class="titleCategoryMenuBar act">Fabrika Concept Cocktails</div>
+							<div class="titleCategoryMenuBar act">Fabrika Concept Cocktails</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listBeautifulItems">
 									<div class="itemWithImage">
@@ -132,15 +132,16 @@ Template Name: bar
 										<span class="desc">description</span>
 									</div>
 									<div class="listTxtItems">
-									       <div class="txtItem">
-										<span class="price">95 uah</span>
-										<span class="title">MR PEARS SOUR 150 ml</span>
-										<span class="desc">Bourbon Four Roses, Smoked Pear, Fresh Squeezed Lemon Juice, Egg White</span>
-									</div>
-									       <div class="txtItem">
-										<span class="price">120 uah</span>
-										<span class="title">PURPLE FIZZ 200 ml</span>
-										<span class="desc">Vodka Absolut Citron, Cointreau, Liquor Peach, Syrup Passion Fruit, Fresh Squeezed Lemon Juice, Purple Soda Water</span>
+										<div class="txtItem">
+											<span class="price">95 uah</span>
+											<span class="title">MR PEARS SOUR 150 ml</span>
+											<span class="desc">Bourbon Four Roses, Smoked Pear, Fresh Squeezed Lemon Juice, Egg White</span>
+										</div>
+										<div class="txtItem">
+											<span class="price">120 uah</span>
+											<span class="title">PURPLE FIZZ 200 ml</span>
+											<span class="desc">Vodka Absolut Citron, Cointreau, Liquor Peach, Syrup Passion Fruit, Fresh Squeezed Lemon Juice, Purple Soda Water</span>
+										</div>
 									</div>
 								</div>
 							</div>
@@ -149,8 +150,7 @@ Template Name: bar
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Classic & Twists</div>
 							<div class="bodyCategoryMenuBar">
-								<div class="listBeautifulItems">
-									<div class="listTxtItems">
+								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">105-220 uah</span>
 										<span class="title">OLD FASHIONED 90 ml</span>
@@ -294,13 +294,12 @@ Template Name: bar
 								</div>
 							</div>
 						</div>
-							
+
 						<div class="categoryMenuBar">
-						        <div class="titleCategoryMenuBar act">Set of Shots</div>
-						        <div class="bodyCategoryMenuBar">
-							        <div class="listBeautifulItems">
-									<div class="listTxtItems">
-								  	<div class="txtItem">
+							<div class="titleCategoryMenuBar act">Set of Shots</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
 										<span class="price">105 uah</span>
 										<span class="title">SEA BUCKTHORN SET 150 ml</span>
 										<span class="desc">Vodka Finlandia, Sea Buckthorn, Fresh Squeezed Lemon Juice, Syrup Salted Caramel</span>
@@ -318,21 +317,21 @@ Template Name: bar
 								</div>
 							</div>
 						</div>
-							
-							<div class="categoryMenuBar">
-						        <div class="titleCategoryMenuBar act">Mocktails</div>
-						        <div class="bodyCategoryMenuBar">
-							        <div class="listBeautifulItems">
-									<div class="listTxtItems">
-								  	<div class="txtItem">
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Mocktails</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
 										<span class="price">50 uah</span>
 										<span class="title">CITRUS LEMONADE 240 ml</span>
 										<span class="desc">Fresh Squeezed Orange & Lemon Juice, Lime, Sugar Syrup, Soda Water</span>
 									</div>
-										<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">50 uah</span>
 										<span class="title">MANGO & CARAMEL LEMONADE 240 ml</span>
 										<span class="desc">Fresh Squeezed Lemon Juice, Syrup Salted Caramel, Syrup Spicy Mango, Apple Juice, Soda Water</span>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -673,7 +672,7 @@ Template Name: bar
 								</div>
 							</div>
 						</div>
-						
+
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Sweets</div>
 							<div class="bodyCategoryMenuBar">
@@ -723,7 +722,8 @@ Template Name: bar
 						</div>
 					</div>
 
-					<!--<div class="rightSidebarMenuBar">
+					<!--
+					<div class="rightSidebarMenuBar">
 						<div class="moduleRightSidebarMenuBar">
 							<span class="h2">New</span>
 							<div class="item">
@@ -733,9 +733,9 @@ Template Name: bar
 								</div>
 								<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCacao.jpg"></div>
 							</div>
-						</div>-->
+						</div>
 					</div>
-
+					-->
 				</div>
 			</div>
 
@@ -854,13 +854,14 @@ Template Name: bar
 										<span class="composition">(120 ml) Gin Hayman's Sloe, Gin Gordon's, Fresh Squeezed Lemon Juice, Sugar Syrup, Egg White, Soda Water / Gin Gordon's, Syrup Grenadine, Fresh Squeezed Lemon Juice, Egg White, Soda Water</span>
 										<span class="desc">description</span>
 									</div>
-									<div class="listTxtItems">
-									       <div class="txtItem">
+								</div>
+								<div class="listTxtItems">
+									<div class="txtItem">
 										<span class="price">95 грн</span>
 										<span class="title">MR PEARS SOUR 150 ml</span>
 										<span class="desc">Bourbon Four Roses, Smoked Pear, Fresh Squeezed Lemon Juice, Egg White</span>
 									</div>
-									       <div class="txtItem">
+									<div class="txtItem">
 										<span class="price">120 грн</span>
 										<span class="title">PURPLE FIZZ 200 ml</span>
 										<span class="desc">Vodka Absolut Citron, Cointreau, Liquor Peach, Syrup Passion Fruit, Fresh Squeezed Lemon Juice, Purple Soda Water</span>
@@ -872,8 +873,7 @@ Template Name: bar
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Classic & Twists</div>
 							<div class="bodyCategoryMenuBar">
-								<div class="listBeautifulItems">
-									<div class="listTxtItems">
+								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">105-220 грн</span>
 										<span class="title">OLD FASHIONED 90 ml</span>
@@ -929,8 +929,7 @@ Template Name: bar
 										<span class="title">DAIQUIRI HEMINGWAY 115 ml</span>
 										<span class="desc">Rum Havana Club Anejo 3 Anos, Marasquino, Fresh Squeezed Grapefruit & Lime Juice</span>
 									</div>
-									</div>
-										<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">95 грн</span>
 										<span class="title">PAPER PLANE 80 ml</span>
 										<span class="desc">Bourbon Four Roses, Aperol, Amaro Montenegro, Fresh Squeezed Lemon Juice</span>
@@ -1018,23 +1017,22 @@ Template Name: bar
 								</div>
 							</div>
 						</div>
-							
+
 						<div class="categoryMenuBar">
-						        <div class="titleCategoryMenuBar act">Set of Shots</div>
-						        <div class="bodyCategoryMenuBar">
-							        <div class="listBeautifulItems">
-									<div class="listTxtItems">
-								  	<div class="txtItem">
+							<div class="titleCategoryMenuBar act">Set of Shots</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
 										<span class="price">105 грн</span>
 										<span class="title">SEA BUCKTHORN SET 150 ml</span>
 										<span class="desc">Vodka Finlandia, Sea Buckthorn, Fresh Squeezed Lemon Juice, Syrup Salted Caramel</span>
 									</div>
-										<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">120 грн</span>
 										<span class="title">COOPER SET 150 ml</span>
 										<span class="desc">Whiskey Jack Daniel's Tennesse, Cointreau, Aperol, Syrup Passion Fruit, Fresh Squeezed Lemon Juice</span>
 									</div>
-										<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">120 грн</span>
 										<span class="title">PINE SET 150 ml</span>
 										<span class="desc">Gin Gordon's, Becherovka, Cointreau, Fresh Squeezed Lemon Juice</span>
@@ -1042,21 +1040,21 @@ Template Name: bar
 								</div>
 							</div>
 						</div>
-							
-							<div class="categoryMenuBar">
-						        <div class="titleCategoryMenuBar act">Mocktails</div>
-						        <div class="bodyCategoryMenuBar">
-							        <div class="listBeautifulItems">
-									<div class="listTxtItems">
-								  	<div class="txtItem">
+
+						<div class="categoryMenuBar">
+							<div class="titleCategoryMenuBar act">Mocktails</div>
+							<div class="bodyCategoryMenuBar">
+								<div class="listTxtItems">
+									<div class="txtItem">
 										<span class="price">50 грн</span>
 										<span class="title">CITRUS LEMONADE 240 ml</span>
 										<span class="desc">Fresh Squeezed Orange & Lemon Juice, Lime, Sugar Syrup, Soda Water</span>
 									</div>
-										<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">50 грн</span>
 										<span class="title">MANGO & CARAMEL LEMONADE 240 ml</span>
 										<span class="desc">Fresh Squeezed Lemon Juice, Syrup Salted Caramel, Syrup Spicy Mango, Apple Juice, Soda Water</span>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -1449,7 +1447,8 @@ Template Name: bar
 						
 					</div>
 
-					<!--<div class="rightSidebarMenuBar">
+					<!--
+					<div class="rightSidebarMenuBar">
 						<div class="moduleRightSidebarMenuBar">
 							<span class="h2">Новые напитки</span>
 							<div class="item">
@@ -1459,8 +1458,9 @@ Template Name: bar
 								</div>
 								<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCacao.jpg"></div>
 							</div>
-						</div>-->
+						</div>
 					</div>
+					-->
 
 				</div>
 			</div>
