@@ -117,7 +117,7 @@ get_header();
 					</a>
 					<a href="/bar/" class="item">
 						<div class="itemImg">
-							<img src="/wp-content/themes/fabrika.space/img/barNew.jpg" />
+							<img src="/wp-content/themes/fabrika.space/img/bar.jpg" />
 						</div>
 						<div class="itemLayerOverImg">
 							<div class="itemTitle">Bar</div>
@@ -401,7 +401,7 @@ get_header();
 					</a>
 					<a href="/bar/" class="item">
 						<div class="itemImg">
-							<img src="/wp-content/themes/fabrika.space/img/barNew.jpg" />
+							<img src="/wp-content/themes/fabrika.space/img/bar.jpg" />
 						</div>
 						<div class="itemLayerOverImg">
 							<div class="itemTitle">Бар</div>
