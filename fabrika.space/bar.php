@@ -206,8 +206,7 @@ Template Name: bar
 										<span class="title">DAIQUIRI HEMINGWAY 115 ml</span>
 										<span class="desc">Rum Havana Club Anejo 3 Anos, Marasquino, Fresh Squeezed Grapefruit & Lime Juice</span>
 									</div>
-									</div>
-										<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">95 uah</span>
 										<span class="title">PAPER PLANE 80 ml</span>
 										<span class="desc">Bourbon Four Roses, Aperol, Amaro Montenegro, Fresh Squeezed Lemon Juice</span>
