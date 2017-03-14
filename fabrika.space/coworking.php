@@ -196,7 +196,7 @@ Template Name: coworking
 
 								<div class="grayLine"></div>
 								<div class="titlePriceTeam">Teams of over 3 persons get individual offers</div>
-								<!--div class="notePriceTeam2">* До конца 2015 года действует специальная скидка —50%. При оплате за Январь 2016 до конца Декабря 2015 скидка -20%.</div-->
+								<div class="notePriceTeam2">*Get a 10% discount by paying one year forward or 5% discount by paying 6 months forward</div>
 							</div>
 						</div>
 					</div>
@@ -514,7 +514,7 @@ Template Name: coworking
 
 								<div class="grayLine"></div>
 								<div class="titlePriceTeam">Больше трех человек — оговаривается индивидуально</div>
-								<!--div class="notePriceTeam2">* До конца 2015 года действует специальная скидка —50%. При оплате за Январь 2016 до конца Декабря 2015 скидка -20%.</div-->
+								<div class="notePriceTeam2">При оплате на год предоставляется 10% скидка, при оплате на пол года вперед — 5% скидка от общей суммы</div>
 							</div>
 						</div>
 					</div>
