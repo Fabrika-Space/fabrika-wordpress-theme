@@ -209,7 +209,7 @@ Template Name: event-zone
 					</div>
 					<div class="item clear">
 						<div class="title bgTransparentBlue">Blue hall</div>
-						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneBlue.jpg" /></div>
+						<div class="img"><img src="/wp-content/themes/fabrika.space/img/bluehall.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/NewSmallMapBlueRoom.jpg" /></div>
 					</div>
 					<div class="item clear">
@@ -443,7 +443,7 @@ Template Name: event-zone
 					</div>
 					<div class="item clear">
 						<div class="title bgTransparentBlue">Синий зал</div>
-						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneBlue.jpg" /></div>
+						<div class="img"><img src="/wp-content/themes/fabrika.space/img/bluehall.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/NewSmallMapBlueRoom.jpg" /></div>
 					</div>
 					<div class="item clear">
