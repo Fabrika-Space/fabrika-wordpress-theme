@@ -43,7 +43,7 @@ Template Name: event-zone
 							<div class="moreDetails"><a href="#moreGreen">More details</a></div>
 						</div>
 						<div class="item">
-							<div class="title">Blue Hall<br /> up to 150 seats<br /> on the second floor</div>
+							<div class="title">Blue Hall<br /> up to 120 seats<br /> on the second floor</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomBlue.png" /></div>
 							<div class="moreDetails"><a href="#moreBlue">More details</a></div>
 						</div>
@@ -277,7 +277,7 @@ Template Name: event-zone
 							<div class="moreDetails"><a href="#moreGreen">Подробнее</a></div>
 						</div>
 						<div class="item">
-							<div class="title">Синий зал<br /> на 150 человек<br /> на втором этаже</div>
+							<div class="title">Синий зал<br /> на 120 человек<br /> на втором этаже</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomBlue.png" /></div>
 							<div class="moreDetails"><a href="#moreBlue">Подробнее</a></div>
 						</div>
