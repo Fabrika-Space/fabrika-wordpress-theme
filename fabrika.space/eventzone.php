@@ -147,7 +147,7 @@ Template Name: event-zone
 									</div>
 									<div class="typePriceCategory">
 										<span class="title">Blue hall</span>
-										<span class="countPeople">150 seats</span>
+										<span class="countPeople">120 seats</span>
 										<div class="table">
 											<table>
 												<tr>
@@ -381,7 +381,7 @@ Template Name: event-zone
 									</div>
 									<div class="typePriceCategory">
 										<span class="title">Синий зал</span>
-										<span class="countPeople">150 человек</span>
+										<span class="countPeople">120 человек</span>
 										<div class="table">
 											<table>
 												<tr>
