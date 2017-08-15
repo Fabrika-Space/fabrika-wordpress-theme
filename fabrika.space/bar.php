@@ -1317,7 +1317,7 @@ Template Name: bar
 								<div class="listTxtItems">
 									<div class="txtItem">
 										<span class="price">88 грн</span>
-										<span class="title">"Завтрак №1 120/50 гр.</span>
+										<span class="title">Завтрак №1 120/50 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">125 грн</span>
@@ -1332,7 +1332,7 @@ Template Name: bar
 										<span class="title">Яйца Скрэмбл с лососем 400 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price"119 грн</span>
+										<span class="price">119 грн</span>
 										<span class="title">Яйца "Бенедикт" 280 гр.</span>
 									</div>
 									<div class="txtItem">
@@ -1509,7 +1509,7 @@ Template Name: bar
 										<span class="title">Кебаб "Fabrika" из индейки 150/50/45 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">125 грн</span>
+										<span class="price">129 грн</span>
 										<span class="title">Кебаб "Fabrika" из курицы 150/50/45 гр</span>
 									</div>
 									<div class="txtItem">
