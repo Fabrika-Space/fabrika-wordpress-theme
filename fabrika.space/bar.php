@@ -1227,20 +1227,19 @@ Template Name: bar
 										<span class="desc">Fresh Squeezed Orange & Lemon Juice, Lime, Sugar Syrup, Soda Water</span>
 									</div>
 									<div class="txtItem">
-											<span class="price">50 грн</span>
-											<span class="title">MANGO & CARAMEL LEMONADE 250 ml</span>
-											<span class="desc">Fresh Squeezed Lemon Juice, Syrup Salted Caramel, Syrup Spice Mango, Apple Juice, Soda Water</span>
-										</div>
-										<div class="txtItem">
-											<span class="price">50 грн</span>
-											<span class="title">CUCUMBER & PEAR LEMONADE 250 ml</span>
-											<span class="desc">Cucumber, Mint, Pear Juice, Fresh Squeezed Lemon Juice, Apple Juice, Soda Water</span>
-										</div>
-										<div class="txtItem">
-											<span class="price">50 грн</span>
-											<span class="title">PINEAPPLE & HIBISCUS LEMONADE 250 ml</span>
-											<span class="desc">Hibiscus Syrup, Mint, Fresh Squeezed Lemon Juice, Cherry Juice, Soda Water</span>
-										</div>
+										<span class="price">50 грн</span>
+										<span class="title">MANGO & CARAMEL LEMONADE 250 ml</span>
+										<span class="desc">Fresh Squeezed Lemon Juice, Syrup Salted Caramel, Syrup Spice Mango, Apple Juice, Soda Water</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">50 грн</span>
+										<span class="title">CUCUMBER & PEAR LEMONADE 250 ml</span>
+										<span class="desc">Cucumber, Mint, Pear Juice, Fresh Squeezed Lemon Juice, Apple Juice, Soda Water</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">50 грн</span>
+										<span class="title">PINEAPPLE & HIBISCUS LEMONADE 250 ml</span>
+										<span class="desc">Hibiscus Syrup, Mint, Fresh Squeezed Lemon Juice, Cherry Juice, Soda Water</span>
 									</div>
 								</div>
 							</div>
@@ -1489,8 +1488,9 @@ Template Name: bar
 										<span class="price">118 грн</span>
 										<span class="title">Скумбрия на гриле с гарниром на выбор 150/150/50 гр.</span>
 									</div>
-									<div class="txtItem">199 грн</span>
-										<span class="price">Тальята с овощами гриль 160/150/50 гр.</span>
+									<div class="txtItem">
+										<span class="price">199 грн</span>
+										<span class="title">Тальята с овощами гриль 160/150/50 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">124 грн</span>
