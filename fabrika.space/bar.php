@@ -768,8 +768,8 @@ Template Name: bar
 				<div class="sectionTitle borderBottomTitle">Барная карта</div>
 				<div class="sectionContent clear">
 					
-					<!--<div class="contentMenuBar">
-						<div class="categoryMenuBar">
+					<div class="contentMenuBar">
+						<!--<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Fabrika Concept Cocktails</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listBeautifulItems">
@@ -927,7 +927,6 @@ Template Name: bar
 								</div>
 							</div>
 						</div>
-					</div>
 
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Tiki</div>
