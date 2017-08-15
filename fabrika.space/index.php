@@ -330,15 +330,23 @@ get_header();
 				<div class="blockContacts">
 					<div class="blockContactsText">
 						<ul>
-							<li><span class="icon_location">Харьков, ул. Благовещенская, 1 (бывшая Карла Маркса)</span></li>
+							<li><span class="icon_location">Харьков, ул. Благовещенская, 1</span></li>
 							<li>
-								<span class="icon_tel">Ивент-зона/Коворкинг:</span><br/>
+								<span class="icon_tel">Ивент-зона:</span><br/>
 								<a href="tel:+380681001133">+38 (068) 100 11 33</a><br/>
 								<a href="tel:+380995023246">+38 (099) 502 32 46</a>
 							</li>
 							<li>
+								<span class="icon_tel">Коворкинг:</span><br/>
+								<a href="tel:+380681001133">+38 (068) 100 11 77</a><br/>
+							</li>
+							<li>
 								<span class="icon_tel">Бар/Ресторан:</span><br/>
 								<a href="tel:+380681001155">+38 (068) 100 11 55</a><br/>
+							</li>
+							<li>
+								<span class="icon_tel">:</span>Организация банкетов, кейтеринг:<br/>
+								<a href="tel:+380681001155">+38 (068) 100 11 66</a><br/>
 							</li>
 							<li><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></li>
 						</ul>
