@@ -33,12 +33,27 @@
 					</div>
 				</div>
 				<div class="part">
-					<div class="item"><?php echo($lang=='en'?'Event-zone/Coworking:':'Ивент-зона/Коворкинг:') ?><br/>
-						<a href="tel:+380681001133" class="icon_tel">+38 (068) 100 11 33<br/>
-						<a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a></div>
-					<div class="item"><?php echo($lang=='en'?'Bar/Restaurant:':'Бар/ресторан:') ?><br/>
-						<a href="tel:+380681001155" class="icon_tel">+38 (068) 100 11 55</a></div>
-					<div class="item"><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></div>
+					<div class="item">
+						<?php echo($lang=='en'?'Event-zone:':'Ивент-зона:') ?><br/>
+						<a href="tel:+380681001133" class="icon_tel">+38 (068) 100 11 33</a><br/>
+						<a href="tel:+380681001144" class="icon_tel">+38 (068) 100 11 44</a><br/>
+						<a href="tel:+380995023246" class="icon_tel">+38 (099) 502 32 46</a>
+					</div>
+					<div class="item">
+						<?php echo($lang=='en'?'Coworking:':'Коворкинг:') ?><br/>
+						<a href="tel:+380681001177" class="icon_tel">+38 (099) 100 11 77</a>
+					</div>
+					<div class="item">
+						<?php echo($lang=='en'?'Bar/Restaurant:':'Бар/ресторан:') ?><br/>
+						<a href="tel:+380681001155" class="icon_tel">+38 (068) 100 11 55</a>
+					</div>
+					<div class="item">
+						<?php echo($lang=='en'?'Catering:':'Кейтеринг, организация банкетов:') ?><br/>
+						<a href="tel:+380681001166" class="icon_tel">+38 (068) 100 11 66</a>
+					</div>
+					<div class="item">
+						<a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a>
+					</div>
 				</div>
 				<div class="part">
 					<label class="item" for="mce-EMAIL"><?php echo($lang=='en'?'Keep up with our latest events':'Будь в курсе последних событий') ?></label>

@@ -334,19 +334,20 @@ get_header();
 							<li>
 								<span class="icon_tel">Ивент-зона:</span><br/>
 								<a href="tel:+380681001133">+38 (068) 100 11 33</a><br/>
-								<a href="tel:+380995023246">+38 (099) 502 32 46</a>
+								<a href="tel:+380995023246">+38 (099) 502 32 46</a><br/>
+								<a href="tel:+380681001144">+38 (068) 100 11 44</a>
 							</li>
 							<li>
 								<span class="icon_tel">Коворкинг:</span><br/>
-								<a href="tel:+380681001133">+38 (068) 100 11 77</a><br/>
+								<a href="tel:+380681001177">+38 (068) 100 11 77</a>
 							</li>
 							<li>
 								<span class="icon_tel">Бар/Ресторан:</span><br/>
-								<a href="tel:+380681001155">+38 (068) 100 11 55</a><br/>
+								<a href="tel:+380681001155">+38 (068) 100 11 55</a>
 							</li>
 							<li>
-								<span class="icon_tel">:</span>Организация банкетов, кейтеринг:<br/>
-								<a href="tel:+380681001155">+38 (068) 100 11 66</a><br/>
+								<span class="icon_tel">Организация банкетов, кейтеринг:</span><br/>
+								<a href="tel:+380681001166">+38 (068) 100 11 66</a>
 							</li>
 							<li><a href="mailto:info@fabrika.space" class="icon_mail">info@fabrika.space</a></li>
 						</ul>
