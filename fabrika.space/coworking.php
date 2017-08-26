@@ -500,23 +500,6 @@ Template Name: coworking
 						</div>
 					</div>
 
-					<div class="priceCategory">
-						<div class="head">
-							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgTeam.png" /></div>
-							<div class="title">Командам</div>
-						</div>
-						<div class="body">
-							<div class="teamPricing">
-								<div class="titlePriceTeam">Три человека — 8100 грн в месяц</div>
-								<div class="notePriceTeam">(3 фиксированных места по цене не фиксированных)</div>
-								
-								<span class="btnPayCoworking" data-title="Три человека - 8100 грн" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiODEwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIzINGH0LXQu9C%2B0LLQtdC60LAgIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=wf9elQp2afQdzQhMq2HIUPgD0%2BU%3D">Оплатить</span>
-
-								<div class="grayLine"></div>
-								<div class="titlePriceTeam">Больше трех человек — оговаривается индивидуально</div>
-								<div class="notePriceTeam2">При оплате на год предоставляется 10% скидка, при оплате на пол года вперед — 5% скидка от общей суммы</div>
-							</div>
-						</div>
 					</div>
 				</div>
 			</div>
