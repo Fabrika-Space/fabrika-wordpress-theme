@@ -366,7 +366,7 @@ Template Name: coworking
 
 							<div class="phone">
 								<div class="label">телефон</div>
-								<div class="prefixPhone">+380</div>
+								<div class="prefixPhone">+38</div>
 								<div class="codePhone"><input type="text" maxlength="3" name="phone3" /></div>
 								<div class="numbPhone"><input type="text" maxlength="9" name="phone9" /></div>
 							</div>
