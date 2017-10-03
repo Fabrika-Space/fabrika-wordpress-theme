@@ -259,18 +259,28 @@ Template Name: event-zone
 			<h1>Ивент-зона</h1>
 
 			<div class="section eventRooms bgWhite clear">
-				<div class="sectionTitle borderBottomTitle">три пространства в фабрике</div>
+				<div class="sectionTitle borderBottomTitle">пять пространств в фабрике</div>
 				<div class="sectionContent">
 					<div class="descEventRooms">
-						<p>Fabrika.space предоставляет 3 зала для проведения различных мероприятий.</p>
+						<p>Fabrika.space предоставляет 5 залов для проведения различных мероприятий.</p>
 					</div>
 					<div class="subdescEventRooms">
-						<p>Залы расположены на втором и третьем этаже здания, построенного в 1929 году. Высокие потолки, элементы промышленного интерьера, обилие света и отличная аккустика создают идеальную базу для проведения мероприятий на 50-500 человек.</p>
+						<p>Залы расположены на нулевом, втором и третьем этаже здания, построенного в 1929 году. Высокие потолки, элементы промышленного интерьера, обилие света и отличная аккустика создают идеальную базу для проведения мероприятий на 30-500 человек.</p>
 						<p>Каждое помещение оснащено мягкими стульями, современным мультимедийным оборудованием и приточно-вытяжной вентиляцией, везде работает Wi-Fi.</p>
 						<p>В залах установлены проекторы Panasonic, которые позволяют воспроизводить изображения и видео с разрешением до 1024х768рх.</p>
 						<p>Мы обеспечиваем полную техническую поддержку при проведении мероприятий. Вам понадобится только ноутбук и материал для презентации. Мы так же берем на себя организацию кофе-брейков, ланчей и видео-записи ваших мероприятий, настройку звука, света и аппаратуры.</p>
 					</div>
 					<div class="listEventRooms">
+						<div class="item">
+							<div class="title">Classroom<br /> на 30 человек<br /> на нулевом этаже</div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomGreen.png" /></div>
+							<div class="moreDetails"><a href="#moreGreen">Подробнее</a></div>
+						</div>
+						<div class="item">
+							<div class="title">Зеленый зал<br /> на 70 человек<br /> на нулевом этаже</div>
+							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomGreen.png" /></div>
+							<div class="moreDetails"><a href="#moreGreen">Подробнее</a></div>
+						</div>
 						<div class="item">
 							<div class="title">Зеленый зал<br /> на 50 человек<br /> на втором этаже</div>
 							<div class="img"><img src="/wp-content/themes/fabrika.space/img/imgEventroomGreen.png" /></div>
@@ -344,6 +354,20 @@ Template Name: event-zone
 								<p>Усилитель звука с 2 колонками обеспечивает достаточное для площади зала покрытие, а проектор имеет те же возможности, что и в синем и сером зале, несмотря на меньший размер.</p>
 							</div>
 						</div>
+						<div class="item" id="moreBlue">
+							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/eventzoneBluePreview.jpg'), url('/wp-content/themes/fabrika.space/img/lineBlueRoom.png');"></div>
+							<div class="txt">
+								<p><span class="name">Красный зал</span> отлично подходит для проведения семинаров, мастер-классов, профессиональных встреч. Небольшое, очень светлое и уютное помещение не отвлекает от мероприятия.</p>
+								<p>4 колонки и большой экран дают возможность без проблем проводить в зале презентации и кино-показы</p>
+							</div>
+							<div class="item" id="moreBlue">
+							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/eventzoneBluePreview.jpg'), url('/wp-content/themes/fabrika.space/img/lineBlueRoom.png');"></div>
+							<div class="txt">
+								<p><span class="name">Classroom</span> - идеальный вариант для проведения занятий для максимум 30 человек: тренингов, курсов, воркшопов. В зале стоят раскладные столы, на которых учащиеся могут удобно разместить ноутбуки, блокноты для записей.</p>
+								<p>2 30-ваттных колонки дают достаточное количества звука для небольшого помещения, на экране можно показывать презентации.</p>
+							</div>
+						</div>
+						</div>
 					</div>
 
 					<div class="sectionTitle">цены</div>
@@ -351,6 +375,62 @@ Template Name: event-zone
 						<div class="priceCategory">
 							<div class="body">
 								<div class="typePriceCategories">
+									<div class="typePriceCategory">
+										<span class="title">Classroom</span>
+										<span class="countPeople">30 человек</span>
+										<div class="table">
+											<table>
+												<tr>
+													<td>1 час в будний день</td>
+													<td>—</td>
+													<td>250 грн</td>
+												</tr>
+												<tr>
+													<td>1 час в выходной день</td>
+													<td>—</td>
+													<td>300 грн</td>
+												</tr>
+												<tr>
+													<td>Целый будний день</td>
+													<td>—</td>
+													<td>2500 грн</td>
+												</tr>
+												<tr>
+													<td>Целый выходной день</td>
+													<td>—</td>
+													<td>3000 грн</td>
+												</tr>
+											</table>
+										</div>
+									</div>	
+									<div class="typePriceCategory">
+										<span class="title">Красный зал</span>
+										<span class="countPeople">70 человек</span>
+										<div class="table">
+											<table>
+												<tr>
+													<td>1 час в будний день</td>
+													<td>—</td>
+													<td>350 грн</td>
+												</tr>
+												<tr>
+													<td>1 час в выходной день</td>
+													<td>—</td>
+													<td>400 грн</td>
+												</tr>
+												<tr>
+													<td>Целый будний день</td>
+													<td>—</td>
+													<td>3500 грн</td>
+												</tr>
+												<tr>
+													<td>Целый выходной день</td>
+													<td>—</td>
+													<td>4000 грн</td>
+												</tr>
+											</table>
+										</div>	
+									</div>							
 									<div class="typePriceCategory">
 										<span class="title">Зеленый зал</span>
 										<span class="countPeople">50 человек</span>
@@ -450,6 +530,16 @@ Template Name: event-zone
 						<div class="title bgTransparentGreen">Зеленый зал</div>
 						<div class="img"><img src="/wp-content/themes/fabrika.space/img/eventzoneGreen.jpg" /></div>
 						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapGreenRoom.jpg" /></div>
+					</div>
+					<div class="item clear">
+						<div class="title bgTransparentBlue">Красный зал</div>
+						<div class="img"><img src="/wp-content/themes/fabrika.space/img/redHall70people.jpg" /></div>
+						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapRedHall.png" /></div>
+					</div>
+					<div class="item clear">
+						<div class="title bgTransparentBlue">Classroom</div>
+						<div class="img"><img src="/wp-content/themes/fabrika.space/img/classroom.jpg" /></div>
+						<div class="map"><img src="/wp-content/themes/fabrika.space/img/smallMapClassroom.png" /></div>
 					</div>
 				</div>
 			</div>
