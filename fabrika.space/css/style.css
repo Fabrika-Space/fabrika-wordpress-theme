@@ -2135,6 +2135,14 @@ input[type="email"] {
 	background: rgba(102,153,0,0.5);
 }
 
+.bgTransparentClassroom {
+	background: rgba(174,29,247,0.5);
+}
+
+.bgTransparentReed {
+	background: rgba(213,26,32,0.5);
+}
+
 .plansAndPhotosEventRooms .item .lastEvent {
 	padding: 50px 0 50px 50px;
 	width: 350px;
