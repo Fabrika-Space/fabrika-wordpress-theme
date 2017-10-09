@@ -41,7 +41,7 @@
 					</div>
 					<div class="item">
 						<?php echo($lang=='en'?'Coworking:':'Коворкинг:') ?><br/>
-						<a href="tel:+380681001177" class="icon_tel">+38 (099) 100 11 77</a>
+						<a href="tel:+380681001177" class="icon_tel">+38 (068) 100 11 77</a>
 					</div>
 					<div class="item">
 						<?php echo($lang=='en'?'Bar/Restaurant:':'Бар/ресторан:') ?><br/>
