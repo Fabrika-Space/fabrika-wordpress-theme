@@ -360,12 +360,11 @@ Template Name: event-zone
 								<p><span class="name">Красный зал</span> отлично подходит для проведения семинаров, мастер-классов, профессиональных встреч. Небольшое, очень светлое и уютное помещение не отвлекает от мероприятия.</p>
 								<p>4 колонки и большой экран дают возможность без проблем проводить в зале презентации и кино-показы</p>
 							</div>
-							<div class="item" id="moreBlue">
-								<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/eventzoneBluePreview.jpg'), url('/wp-content/themes/fabrika.space/img/lineBlueRoom.png');"></div>
-								<div class="txt">
-									<p><span class="name">Classroom</span> - идеальный вариант для проведения занятий для максимум 30 человек: тренингов, курсов, воркшопов. В зале стоят раскладные столы, на которых учащиеся могут удобно разместить ноутбуки, блокноты для записей.</p>
-									<p>2 30-ваттных колонки дают достаточное количества звука для небольшого помещения, на экране можно показывать презентации.</p>
-								</div>
+						<div class="item" id="moreBlue">
+							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/eventzoneBluePreview.jpg'), url('/wp-content/themes/fabrika.space/img/lineBlueRoom.png');"></div>
+							<div class="txt">
+								<p><span class="name">Classroom</span> - идеальный вариант для проведения занятий для максимум 30 человек: тренингов, курсов, воркшопов. В зале стоят раскладные столы, на которых учащиеся могут удобно разместить ноутбуки, блокноты для записей.</p>
+								<p>2 30-ваттных колонки дают достаточное количества звука для небольшого помещения, на экране можно показывать презентации.</p>
 							</div>
 						</div>
 					</div>
@@ -381,22 +380,12 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 час в будний день</td>
-													<td>—</td>
-													<td>250 грн</td>
-												</tr>
-												<tr>
-													<td>1 час в выходной день</td>
+													<td>1 час</td>
 													<td>—</td>
 													<td>300 грн</td>
 												</tr>
 												<tr>
-													<td>Целый будний день</td>
-													<td>—</td>
-													<td>2500 грн</td>
-												</tr>
-												<tr>
-													<td>Целый выходной день</td>
+													<td>Целый день</td>
 													<td>—</td>
 													<td>3000 грн</td>
 												</tr>
@@ -409,22 +398,12 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 час в будний день</td>
-													<td>—</td>
-													<td>350 грн</td>
-												</tr>
-												<tr>
-													<td>1 час в выходной день</td>
+													<td>1 час</td>
 													<td>—</td>
 													<td>400 грн</td>
 												</tr>
 												<tr>
-													<td>Целый будний день</td>
-													<td>—</td>
-													<td>3500 грн</td>
-												</tr>
-												<tr>
-													<td>Целый выходной день</td>
+													<td>Целый день</td>
 													<td>—</td>
 													<td>4000 грн</td>
 												</tr>
@@ -437,22 +416,12 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 час в будний день</td>
-													<td>—</td>
-													<td>250 грн</td>
-												</tr>
-												<tr>
-													<td>1 час в выходной день</td>
+													<td>1 час</td>
 													<td>—</td>
 													<td>300 грн</td>
 												</tr>
 												<tr>
-													<td>Целый будний день</td>
-													<td>—</td>
-													<td>2500 грн</td>
-												</tr>
-												<tr>
-													<td>Целый выходной день</td>
+													<td>Целый день</td>
 													<td>—</td>
 													<td>3000 грн</td>
 												</tr>
@@ -465,22 +434,12 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 час в будний день</td>
-													<td>—</td>
-													<td>500 грн</td>
-												</tr>
-												<tr>
-													<td>1 час в выходной день</td>
+													<td>1 час день</td>
 													<td>—</td>
 													<td>600 грн</td>
 												</tr>
 												<tr>
-													<td>Целый будний день</td>
-													<td>—</td>
-													<td>5000 грн</td>
-												</tr>
-												<tr>
-													<td>Целый выходной день</td>
+													<td>Целый день</td>
 													<td>—</td>
 													<td>6000 грн</td>
 												</tr>
