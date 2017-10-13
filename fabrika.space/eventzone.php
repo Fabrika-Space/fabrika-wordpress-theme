@@ -360,6 +360,7 @@ Template Name: event-zone
 								<p><span class="name">Красный зал</span> отлично подходит для проведения семинаров, мастер-классов, профессиональных встреч. Небольшое, очень светлое и уютное помещение не отвлекает от мероприятия.</p>
 								<p>4 колонки и большой экран дают возможность без проблем проводить в зале презентации и кино-показы</p>
 							</div>
+						</div>
 						<div class="item" id="moreBlue">
 							<div class="img" style="background-image: url('/wp-content/themes/fabrika.space/img/eventzoneBluePreview.jpg'), url('/wp-content/themes/fabrika.space/img/lineBlueRoom.png');"></div>
 							<div class="txt">
@@ -468,7 +469,7 @@ Template Name: event-zone
 							</div>
 						</div>
 					</div>
-					<div class="txtHelpPricing">Вся информация по телефону +38(068)100-11-44 и info@fabrika.space</div>
+					<div class="txtHelpPricing">Вся информация по телефону +38(068)100-11-33 и info@fabrika.space</div>
 				</div>
 			</div>
 			
