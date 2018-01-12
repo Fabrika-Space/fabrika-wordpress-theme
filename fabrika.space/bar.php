@@ -1519,7 +1519,7 @@ Template Name: bar
 									</div>
 									<div class="txtItem">
 										<span class="price">97 грн</span>
-										<span class="title">Крем-суп из шампиньонов белых грибов 300 гр.</span>
+										<span class="title">Крем-суп из шампиньонов и белых грибов 300 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">75 грн</span>
@@ -1563,7 +1563,7 @@ Template Name: bar
 									</div>-->
 									<div class="txtItem">
 										<span class="price">128 грн</span>
-										<span class="title">"Стейк New York 100 гр.</span>
+										<span class="title">Стейк New York 100 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">165 грн</span>
@@ -1583,7 +1583,7 @@ Template Name: bar
 									</div>
 									<div class="txtItem">
 										<span class="price">135 грн</span>
-										<span class="title">"Ньокки в сливочно-грибном соусе с добавлением бекона и сыра Grana Padano 400 гр.</span>
+										<span class="title">Ньокки в сливочно-грибном соусе с добавлением бекона и сыра Grana Padano 400 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">159 грн</span>
