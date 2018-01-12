@@ -875,29 +875,29 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">120 грн</span>
+										<span class="price">125 грн</span>
 										<span class="title">FABRIKA 155 ml</span>
-										<span class="desc">Rum Captain Morgan Spiced Gold, Vermouth Cinzano 1757, Raspberry, Syrup Spicy Mango, Fresh Squeezed Lemon Juice, Egg White</span>
+										<span class="desc">Rum Captain Morgan Spiced Gold, Vermout Cinzano 1757, Raspberry, Syrup Spicy Mango, Fresh Squeezed Lemon Juice, Egg White</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">115 грн</span>
 										<span class="title">NICE CREAM 160 ml</span>
-										<span class="desc">Finlandia Vodka, Passion Fruit, Syrup Vanilla, Fresh Squeezed Lemon Juice, </span>
+										<span class="desc">Vodka Finlandia, Passion Fruit, Syrup Vanilla, Fresh Squeezed Lemon Juice, Cream</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">95 грн</span>
+										<span class="price">100 грн</span>
 										<span class="title">MRS. PEARS SOUR 120 ml</span>
-										<span class="desc">Vodka Absolut Pears, Syrup Salted Caramel, Fresh Squeezed Lemon Juice, Egg White</span>
+										<span class="desc">Vodka Absolut Pear, Syrup Salted Caramel, Fresh Squeezed Lemon Juice, Egg White</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">95 грн</span>
+										<span class="price">100 грн</span>
 										<span class="title">KRIPTONYTE 150 ml</span>
-										<span class="desc">Vodka Absolute Pears, Becherovka Lemond, Syrup Matcha Green Tea, Fresh Squeezed Lemon Juice, Egg White</span>
+										<span class="desc">Absolut Pears, Becherovka Lemond, Syrup Matcha Green Tea, Fresh Squeezed Lemon Juice, Egg White</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">115 грн</span>
 										<span class="title">AMARETTO SOUR 120 ml</span>
-										<span class="desc">Whiskey Jack Daniel's Old #7, Amaretto, Fresh Squeezed Lemon Juice, Egg White</span>
+										<span class="desc">Whiskey Jack Daniel's Tennesse, Amaretto, Fresh Squeezed Lemon Juice, Egg White</span>
 									</div>
 									<!--<div class="txtItem">
 										<span class="price">105 грн</span>
@@ -905,29 +905,29 @@ Template Name: bar
 										<span class="desc">Cachaca Canario, Liquor Chartreuse Green, Basil, Fresh Squeezed Pineapple Juice, Fresh Squeezed Lime Juice, Egg White</span>
 									</div>-->
 									<div class="txtItem">
-										<span class="price">145 грн</span>
+										<span class="price">165 грн</span>
 										<span class="title">FIJI 170 ml</span>
-										<span class="desc">Vodka Absolut Vanilla, Liquor Coconut, Syrup Spice Mango, Fresh Squeezed Lemon Juice, Egg White</span>
+										<span class="desc">Absolut Vanilia, Liquor Coconut, Syrup Spicy Mango, Fresh Squeezed Lemon Juice, Egg White</span>
 									</div>
 										<div class="txtItem">
-										<span class="price">125 грн</span>
+										<span class="price">135 грн</span>
 										<span class="title">PASSION SOUR 150 ml</span>
-										<span class="desc">Gin Gordon's, Passion Fruit, Fresh Squeezed Orange & Lemon Juice, Egg White</span>
+										<span class="desc">Gin Gordon's, Passion Fruit, Fresh Squeezed Orange&Lemon Juice, Egg White</span>
 									</div>
 										<div class="txtItem">
 										<span class="price">115 грн</span>
 										<span class="title">COOKIE FOR BREAKFAST 135 ml</span>
-										<span class="desc">Rum Havana Club Anejo 3 Anos, Campari, Fresh Squeezed Orange & Lemon Juice, Haselnut Syrup</span>
+										<span class="desc">Rum Havana Club Anejo 3 Anos, Campari, Fresh Squeezed Orange&Lemon Juice, Haselnut Syrup</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">95 грн</span>
+										<span class="price">100 грн</span>
 										<span class="title">CHRISTMAS MIRACLE 115 ml</span>
-										<span class="desc">Gin Gordon's, Vermouth Cinzano 1757, Syrup Cinnamon, Fresh Squeezed Orange & Lemon Juice, Soda Water</span>
+										<span class="desc">Gin Gordon's, Vermout Cinzano 1757, Syrup Cinnamon, Fresh Squeezed Orange&Lemon Juice, Soda Water</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">115 грн</span>
 										<span class="title">ALICE IS FALLING 80 ml</span>
-										<span class="desc">Gin Gordon's, Lillet Blanc, Liquor Strega</span>
+										<span class="desc">Gin Gordon's, Lillet Blanc, Liqour Raspberry, Liquor Strega</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">115 грн</span>
@@ -935,7 +935,7 @@ Template Name: bar
 										<span class="desc">Rum Captain Morgan Spiced Gold, Syrup Orgeat, Fresh Squeezed Lime Juice, Angostura Bitter</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">145 грн</span>
+										<span class="price">185 грн</span>
 										<span class="title">SMOKED 110 ml</span>
 										<span class="desc">Tequila Olmeca Blanco, Del Maguey Mezcal Vida, Syrup Orgeat, Fresh Squeezed Lemon Juice</span>
 									</div>
@@ -945,27 +945,27 @@ Template Name: bar
 										<span class="desc">Gin Gordon's Infused Botanical, Liquor Peach, Syrup Passion Fruit, Fresh Squeezed Lemon Juice, Soda Water</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">95 грн</span>
+										<span class="price">100 грн</span>
 										<span class="title">POMEGRANATE GIN FIZZ 190 ml</span>
 										<span class="desc">Gin Gordon's, Syrup Grenadine, Fresh Squeezed Lemon Juice, Egg White, Soda Water</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">115 грн</span>
+										<span class="price">100 грн</span>
 										<span class="title">FIZZY 130 ml</span>
-										<span class="desc">Vodka Absolut Vanilla, Liqour Peach, Raspberry, Sparkling Wine</span>
+										<span class="desc">Absolut Vanilia, Liquor Peach, Raspberry, Sparkling Wine</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">125 грн</span>
 										<span class="title">AUTUMN PIE 170 ml</span>
-										<span class="desc">Georgia Moon Apple Pie, Liqour Peach, Cointreau, Fresh Squeezed Grapefruit & Lemon Juice, Egg White</span>
+										<span class="desc">Georgia Moon Apple Pie, Liquor Peach, Cointreau, Fresh Squeezed Grapefruit&Lemon Juice, Egg White</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">145 грн</span>
+										<span class="price">165 грн</span>
 										<span class="title">FINE LADY 100 ml</span>
 										<span class="desc">Gin Gordon's, Vodka Absolut, Liquor St. Germain, Fresh Squeezed Lime Juice</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">220 грн</span>
+										<span class="price">230 грн</span>
 										<span class="title">ELYXIR 250 ml</span>
 										<span class="desc">Vodka Absolut Elyx, Vodka Absolut Mango, Liquor Coconut, Liquor Marasquino, Fresh Squeezed Pineapple & Lime Juice</span>
 									</div>
@@ -1116,57 +1116,27 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">130-220 грн</span>
+										<span class="price">115-210 грн</span>
 										<span class="title">OLD FASHIONED 90 ml</span>
-										<span class="desc">Whisky (Wild Turkey / Woodford Reserve / Bulleit / Bulleit Rye / Maker's Mark), Cane Sugar, Angostura Bitter, Soda Water</span>
+										<span class="desc">Whisky (Wild Turkey / Bulleit / Bulleit Rye / Woodford Reserve/ Maker's Mark), Cane Sugar, Angostura Bitter, Soda Water</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">130-220 грн</span>
+										<span class="price">265 грн</span>
+										<span class="title">OLD FASHIONED ZACAPA 90 ml</span>
+										<span class="desc">Zacapa 23 y.o., Cane Sugar, Angostura Bitter, Soda water</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">115-210 грн</span>
 										<span class="title">MANHATTAN 90 ml</span>
-										<span class="desc">Whisky (Wild Turkey / Woodford Reserve / Bulleit / Bulleit Rye / Maker's Mark), Vermout Rosso, Angostura Bitter</span>
+										<span class="desc">Whisky (Wild Turkey /Bulleit / Bulleit Rye / Woodford Reserve/ Maker's Mark), Vermout Rosso, Angostura Bitter</span>
 									</div>
 										<div class="txtItem">
-										<span class="price">125-175 грн</span>
+										<span class="price">230 грн</span>
 										<span class="title">DRY MARTINI 90 ml</span>
-										<span class="desc">Gin (Old Tom / Hendrick's / Botanist / Tanqueray № 10), Vermout Dry, Olive</span>
+										<span class="desc">Gin Monkey 47, Vermout Dolin Dry, Olives</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">105 грн</span>
-										<span class="title">WHISKY SOUR 115 ml</span>
-										<span class="desc">Bourbon Four Roses, Fresh Squeezed Lemon Juice, Sugar Syrup, Angostura Bitters, Egg White</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">95 грн</span>
-										<span class="title">NEGRONI 90 ml</span>
-										<span class="desc">Gin Gordon's, Campari, Vermout Dolin Rouge, Vermout Cinzano 1757</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">95 грн</span>
-										<span class="title">GRAPEFRUIT NEGRONI 120 ml</span>
-										<span class="desc">Vodka Finlandia Grapefruit, Campari, Vermouth Cinzano 1757, Fresh Squeezed Grapefruit Juice</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">115 грн</span>
-										<span class="title">BOULEVARDIER 90 ml</span>
-										<span class="desc">Bourbon Wild Turkey, Campari, Vermouth Dolin Rouge, Vermouth Cinzano 1757</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">120 грн</span>
-										<span class="title">EL BOULEVARDINIO 100 ml</span>
-										<span class="desc">Bourbon Wild Turkey, Campari, Vermouth Dolin Rouge, Vermouth Cinzano 1757, Sherry Pedro Ximenez</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">130 грн</span>
-										<span class="title">MARTINEZ 105 ml</span>
-										<span class="desc">Gin Hayman's Old Tom, Vermouth Cinzano 1757, Marasquino</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">130 грн</span>
-										<span class="title">PENICILLIN 100 ml</span>
-										<span class="desc">Whisky Ballantine's Finest, Honey, Ginger, Fresh Squeezed Lemon Juice, Whisky Laphroaig Select</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">105 грн</span>
+										<span class="price">100 грн</span>
 										<span class="title">WHISKY SOUR 115 ml</span>
 										<span class="desc">Bourbon Wild Turkey, Fresh Squeezed Lemon Juice, Sugar Syrup, Angostura Bitters, Egg White</span>
 									</div>
@@ -1176,56 +1146,86 @@ Template Name: bar
 										<span class="desc">Bourbon Wild Turkey, Fresh Squeezed Lemon Juice, Sugar Syrup, Porto Sandeman Tawny, Angostura Bitters, Egg White</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">95 грн</span>
+										<span class="price">135 грн</span>
+										<span class="title">PISCO SOUR 125 ml</span>
+										<span class="desc">Pisco Capel, Fresh Squeezed Lime Juice, Sugar Syrup, Angostura Bitter, Egg White</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">125 грн</span>
 										<span class="title">DAIQUIRI 110 ml</span>
 										<span class="desc">Rum Havana Club Anejo 3 Anos, Sugar Syrup, Fresh Squeezed Lime Juice</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">135 грн</span>
-										<span class="title">DAIQUIRI HEMINGWAY 115 ml</span>
-										<span class="desc">Rum Havana Club Anejo 3 Anos, Marasquino, Fresh Squeezed Grapefruit & Lime Juice</span>
+										<span class="price">155 грн</span>
+										<span class="title">MARGARITA 90 ml</span>
+										<span class="desc">Tequila El Himador Silver, Cointreau, Fresh Squeezed Lime Juice</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">105 грн</span>
-										<span class="title">AVIATION 100 ml</span>
-										<span class="desc">Gin Gordon's, Marasquino, Liquor, Fresh Squeezed Lemon Juice</span>
+										<span class="price">155 грн</span>
+										<span class="title">PENICILLIN 100 ml</span>
+										<span class="desc">Whisky Ballantine's Finest, Honey, Ginger, Fresh Squeezed Lemon Juice, Laphroaig Select</span>
 									</div>
-									<!--<div class="txtItem">
-										<span class="price">95 грн</span>
-										<span class="title">ESPRESSO MARTINI CURRANT 100 ml</span>
-										<span class="desc">Tequila Olmeca Altos Reposado 100% Agave, Tequila Olmeca Blanco, Cointreau, Fresh Squeezed Lime Juice</span>
-									</div>-->
 									<div class="txtItem">
-										<span class="price">95 грн</span>
-										<span class="title">ESPRESSO MARTINI CURRANT 100 ml</span>
-										<span class="desc">Vodka Absolut Vanilla, Kahlua, Espresso</span>
-									</div>
-									<!--<div class="txtItem">
-										<span class="price">95 грн</span>
-										<span class="title">ESPRESSO BETON 210 ml</span>
-										<span class="desc">Becherovka, Syrup Salted Caramel, Espresso, Tonic</span>
-									</div>-->
-									<!--<div class="txtItem">
-										<span class="price">95 грн</span>
-										<span class="title">VESPER MARTINI ELDERFLOWER 100 ml</span>
-										<span class="desc">Gin Beefeater, Vodka Absolut, Lillet Blanc, St. Germain</span>
-									</div>-->
-									<div class="txtItem">
-										<span class="price">105 грн</span>
-										<span class="title">WHITE RUSSIAN 110 ml</span>
+										<span class="price">115 грн</span>
+										<span class="title">WHITE RUSSIAN 100 ml</span>
 										<span class="desc">Vodka Finlandia, Kahlua, Cream</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">110 грн</span>
+										<span class="price">115 грн</span>
 										<span class="title">COSMOPOLITAN 120 ml</span>
 										<span class="desc">Vodka Absolut Citron, Cointreau, Fresh Cranberries, Fresh Squeezed Lime Juice</span>
 									</div>
-									<!--<div class="txtItem">
-										<span class="price">125 грн</span>
-										<span class="title">VESPER MARTINI ELDERFLOWER 115 ml</span>
-										<span class="desc">Gin Beefeater, Vodka Absolut, Lilet Blanc, St. Germain</span>
-									</div>-->
 									<div class="txtItem">
+										<span class="price">125 грн</span>
+										<span class="title">BLOODY MARY 225 ml</span>
+										<span class="desc">Vodka Finlandia, Tomato Juice, Fresh Squeezed Lemon Juice, Sauce Tabasco, Sauce Worcestershire, Sauce Smoked, Salt, Pepper, Celery, Olives</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">125 грн</span>
+										<span class="title">GIN TONIC ELDERFLOWER 210 ml</span>
+										<span class="desc">Gin Gordon's, Liquor St. Germain, Tonic, Cucumber</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">145 грн</span>
+										<span class="title">APEROL SPRITZ 200 ml</span>
+										<span class="desc">Aperol, Prosecco Bortolomiol, Soda Water, Orange</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">165 грн</span>
+										<span class="title">LONG ISLAND ICED TEA 215 ml</span>
+										<span class="desc">Vodka Finlandia, Gin Gordon's, Tequila El Himador Silver, Rum Havana Club Anejo 3 Anos, Cointreau, Fresh Squeezed Lemon Juice, Coke</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">115 грн</span>
+										<span class="title">NEGRONI 90 ml</span>
+										<span class="desc">Gin Gordon's, Campari, Vermout Cinzano 1757</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">185 грн</span>
+										<span class="title">AZTEC NEGRONI 90 ml</span>
+										<span class="desc">Del Maguey Mezcal Vida, Campari, Vermout Cinzano 1757, Chocolate Bitter</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">115 грн</span>
+										<span class="title">BOULEVARDIER 90 ml</span>
+										<span class="desc">Bourbon Four Roses, Campari, Vermout Cinzano 1757</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">125 грн</span>
+										<span class="title">EL BOULEVARDINIO 100 ml</span>
+										<span class="desc">Bourbon Four Roses, Campari, Vermout Cinzano 1757, Sherry Pedro Ximenez</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">115 грн</span>
+										<span class="title">AVIATION 100 ml</span>
+										<span class="desc">Gin Gordon's, Liquor Marasquino, Liquor Crème de Violette, Fresh Squeezed Lemon Juice</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">165 грн</span>
+										<span class="title">MARTINEZ 105 ml</span>
+										<span class="desc">Gin Hayman's Old Tom, Vermout Cinzano 1757, Liquor Marasquino</span>
+									</div>
+									<!--<div class="txtItem">
 										<span class="price">105 грн</span>
 										<span class="title">BLOODY MARY 225 ml</span>
 										<span class="desc">VVodka Finlandia, Tomato Juice, Fresh Squeezed Lemon Juice, Sauce Tabasco, Sauce Worcestershire, Salt, Pepper, Celery, Olives</span>
@@ -1234,7 +1234,7 @@ Template Name: bar
 										<span class="price">115 грн</span>
 										<span class="title">MARGARITA 90 ml</span>
 										<span class="desc">Vodka Finlandia, Gin Gordon's, Tequila El Jimador Silver, Rum Havana Club Anejo 3 Anos, Cointreau, Fresh Squeezed Lemon Juice, Coke</span>
-									</div>
+									</div>-->
 								</div>
 							</div>
 						</div>
@@ -1244,19 +1244,19 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">115 грн</span>
+										<span class="price">140 грн</span>
 										<span class="title">STHORM SET 150 ml</span>
-										<span class="desc">Vodka Finlandia, Sea Buckthorn, Fresh Squeezed Lemon Juice, Syrup Salted Caramel</span>
+										<span class="desc">Vodka Finlandia, Sea Buckthorm, Fresh Squeezed Lemon Juice, Syrup Salted Caramel</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">130 грн</span>
+										<span class="price">140 грн</span>
 										<span class="title">COOPER SET 150 ml</span>
-										<span class="desc">Whisky Jack Daniel's Tennesse, Cointreau, Aperol, Syrup Passion Fruit, Fresh Squeezed Lemon Juice</span>
+										<span class="desc">Whiskey Jack Daniel's Tennesse, Cointreau, Aperol, Syrup Passion Fruit, Fresh Squeezed Lemon Juice</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">130 грн</span>
+										<span class="price">140 грн</span>
 										<span class="title">PINE SET 150 ml</span>
-										<span class="desc">Gin Gordon's, Becherovka, Cointreau, Fresh Squeezed Lemon Juice</span>
+										<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>
 									</div>
 								</div>
 							</div>
@@ -1267,14 +1267,14 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">55 грн</span>
 										<span class="title">CITRUS LEMONADE 250 ml</span>
-										<span class="desc">Fresh Squeezed Orange & Lemon Juice, Lime, Sugar Syrup, Soda Water</span>
+										<span class="desc">Fresh Squeezed Orange&Lemon Juice, Lime, Sugar Syrup, Soda Water</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">50 грн</span>
+										<span class="price">55 грн</span>
 										<span class="title">MANGO & CARAMEL LEMONADE 250 ml</span>
-										<span class="desc">Fresh Squeezed Lemon Juice, Syrup Salted Caramel, Syrup Spice Mango, Apple Juice, Soda Water</span>
+										<span class="desc">Fresh Squeezed Lemon Juice, Syrup Salted Caramel,Syrup Spicy Mango, Apple Juice, Soda Water</span>
 									</div>
 									<!--<div class="txtItem">
 										<span class="price">50 грн</span>
@@ -1283,36 +1283,127 @@ Template Name: bar
 									</div>-->
 									<div class="txtItem">
 										<span class="price">50 грн</span>
-										<span class="title">PINEAPPLE & HIBISCUS LEMONADE 250 ml</span>
-										<span class="desc">Hibiscus Syrup, Mint, Fresh Squeezed Lemon Juice, Cherry Juice, Soda Water</span>
+										<span class="title">PASSION FRUIT LEMONADE 250 ml</span>
+										<span class="desc">Passion Fruit, Fresh Squeezed Lemon Juice, Honey Syrup, Ginger, Soda Water</span>
 									</div>
 								</div>
 							</div>
 						</div>
 
 						<div class="categoryMenuBar">
-							<div class="titleCategoryMenuBar act">Крафтовое пиво</div>
+							<div class="titleCategoryMenuBar act">Wine</div>
 							<div class="bodyCategoryMenuBar">
-								<div class="listBeautifulItems">
-									<div class="itemWithImage">
-										<div class="img"><img src="/wp-content/themes/fabrika.space/img/barCraftBeer.jpg" data-popupGalery="1" /></div>
-									</div>
-								</div>
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">130 грн</span>
-										<span class="title">Punk IPA 330 ml</span>
-										<span class="desc">BrewDog</span>
+										<span class="price">90/450 грн</span>
+										<span class="title">PINOT GRIGIO FIORILE 150/750 ml</span>
+										<!--<span class="desc">Vodka Finlandia, Sea Buckthorm, Fresh Squeezed Lemon Juice, Syrup Salted Caramel</span>-->
 									</div>
 									<div class="txtItem">
-										<span class="price">130 грн</span>
-										<span class="title">Dead Pony Club 330 ml</span>
-										<span class="desc">BrewDog</span>
+										<span class="price">105/525 грн</span>
+										<span class="title">RIESLING DR. LOOSEN 150/750 ml</span>
+										<!--<span class="desc">Whiskey Jack Daniel's Tennesse, Cointreau, Aperol, Syrup Passion Fruit, Fresh Squeezed Lemon Juice</span>
+									</div>-->
+									</div>	
+									<div class="txtItem">
+										<span class="price">105/525 грн</span>
+										<span class="title">GEWURZTRAMINER VILLA WOLF 150/750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
 									<div class="txtItem">
-										<span class="price">140 грн</span>
-										<span class="title">De Molen Mooi & Meedogenloos 330 ml</span>
-										<span class="desc">Brouwerij de Molen</span>
+										<span class="price">135/675 грн</span>
+										<span class="title">SAUVIGNON BLANC MARLBOROUGH SUN 150/750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">550 грн</span>
+										<span class="title">ROCCAPERCIATA GRILLO 750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">100/500 грн</span>
+										<span class="title">ROSE D'ANJOU CHATELAIN DESJACQUES 150/750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">500 грн</span>
+										<span class="title">ROSATELLO RUFFINO 750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">675 грн</span>
+										<span class="title">SAUVIGNON ROSE MARLBOROUGH SUN 750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">70/350 грн</span>
+										<span class="title">CHIRAZ CAPPO 150/750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">80/400 грн</span>
+										<span class="title">SYRAH-MERLOT RESERVE DE L'AUBE 150/750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">105/525 грн</span>
+										<span class="title">MALBEC PORTILLO 150/750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">120/600 грн</span>
+										<span class="title">ENTRECOTE GOURMET PERE&FILS 150/750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">675 грн</span>
+										<span class="title">CHIANTI SUPERIOR RUFFINO 750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">725 грн</span>
+										<span class="title">CHATEAU GALAU COTES DE BOURG 750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">135/625 грн</span>
+										<span class="title">PROSECCO BORTOLOMIOL 150/750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">600 грн</span>
+										<span class="title">CAVA JAUME SERRA 750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">675 грн</span>
+										<span class="title">CANTI ASTI DOCG 750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">675 грн</span>
+										<span class="title">CAFÉ DE PARIS LITCHI 750 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">55 грн</span>
+										<span class="title">PORTO TAWNY SANDEMAN 150 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">60 грн</span>
+										<span class="title">SHERRY MANZANILLA DELICIOSA 150 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">75 грн</span>
+										<span class="title">PORTO TAYLOR'S SELECT RESERVE 150 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
+									</div>
+									<div class="txtItem">
+										<span class="price">75 грн</span>
+										<span class="title">SHERRY PEDRO XIMINEZ LEYENDA 150 ml</span>
+										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
 								</div>
 							</div>
@@ -1323,14 +1414,19 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">95 грн</span>
+										<span class="price">115 грн</span>
 										<span class="title">MULLED WINE 220 ml</span>
-										<span class="desc">Red Wine Shiraz Osaado, Fresh Orange & Lemon, Raspberry Puree, Honey, Spice</span>
+										<span class="desc">Red Wine Shiraz Osaado, Fresh Orange&Lemon, Raspberry Puree, Honey, Spice</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">85 грн</span>
 										<span class="title">IRISH COFFEE 170 ml</span>
-										<span class="desc">JWhisky Jameson, Espresso, Sugar Cane, Whipped Cream</span>
+										<span class="desc">Whiskey Jameson, Espresso, Sugar Cane, Whipped Cream</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">125 грн</span>
+										<span class="title">CINNAMON CREAM 175 ml</span>
+										<span class="desc">Whisky Spicebox Cinnamon, Apple Juice, Lemon, Butter, Whipped Cream, Spice</span>
 									</div>
 								</div>
 							</div>
