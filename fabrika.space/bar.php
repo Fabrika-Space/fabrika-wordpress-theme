@@ -1387,22 +1387,22 @@ Template Name: bar
 									</div>
 									<div class="txtItem">
 										<span class="price">55 грн</span>
-										<span class="title">PORTO TAWNY SANDEMAN 150 ml</span>
+										<span class="title">PORTO TAWNY SANDEMAN 50 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
 									<div class="txtItem">
 										<span class="price">60 грн</span>
-										<span class="title">SHERRY MANZANILLA DELICIOSA 150 ml</span>
+										<span class="title">SHERRY MANZANILLA DELICIOSA 50 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
 									<div class="txtItem">
 										<span class="price">75 грн</span>
-										<span class="title">PORTO TAYLOR'S SELECT RESERVE 150 ml</span>
+										<span class="title">PORTO TAYLOR'S SELECT RESERVE 50 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
 									<div class="txtItem">
 										<span class="price">75 грн</span>
-										<span class="title">SHERRY PEDRO XIMINEZ LEYENDA 150 ml</span>
+										<span class="title">SHERRY PEDRO XIMINEZ LEYENDA 50 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
 								</div>
