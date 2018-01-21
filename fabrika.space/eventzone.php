@@ -386,9 +386,14 @@ Template Name: event-zone
 													<td>300 грн</td>
 												</tr>
 												<tr>
-													<td>Целый день</td>
+													<td>10-12 часов</td>
 													<td>—</td>
 													<td>3000 грн</td>
+												</tr>
+												<tr>
+													<td>13й, 14й час, и более</td>
+													<td>—</td>
+													<td>300 грн</td>
 												</tr>
 											</table>
 										</div>
@@ -404,9 +409,14 @@ Template Name: event-zone
 													<td>400 грн</td>
 												</tr>
 												<tr>
-													<td>Целый день</td>
+													<td>10-12 часов</td>
 													<td>—</td>
 													<td>4000 грн</td>
+												</tr>
+												<tr>
+													<td>13й, 14й час, и более</td>
+													<td>—</td>
+													<td>400 грн</td>
 												</tr>
 											</table>
 										</div>	
@@ -422,9 +432,14 @@ Template Name: event-zone
 													<td>300 грн</td>
 												</tr>
 												<tr>
-													<td>Целый день</td>
+													<td>10-12 часов</td>
 													<td>—</td>
 													<td>3000 грн</td>
+												</tr>
+												<tr>
+													<td>13й, 14й час, и более</td>
+													<td>—</td>
+													<td>300 грн</td>
 												</tr>
 											</table>
 										</div>
@@ -440,9 +455,14 @@ Template Name: event-zone
 													<td>600 грн</td>
 												</tr>
 												<tr>
-													<td>Целый день</td>
+													<td>10-12 часов</td>
 													<td>—</td>
 													<td>6000 грн</td>
+												</tr>
+												<tr>
+													<td>13й, 14й час, и более</td>
+													<td>—</td>
+													<td>600 грн</td>
 												</tr>
 											</table>
 										</div>
@@ -458,9 +478,14 @@ Template Name: event-zone
 													<td>1500 грн</td>
 												</tr>
 												<tr>
-													<td>Целый день</td>
+													<td>10-12 часов</td>
 													<td>—</td>
 													<td>15000 грн</td>
+												</tr>
+												<tr>
+													<td>13й, 14й час, и более</td>
+													<td>—</td>
+													<td>1500 грн</td>
 												</tr>
 											</table>
 										</div>
