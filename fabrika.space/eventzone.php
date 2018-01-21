@@ -391,7 +391,7 @@ Template Name: event-zone
 													<td>3000 грн</td>
 												</tr>
 												<tr>
-													<td>13й, 14й час, и более</td>
+													<td>12 часов +</td>
 													<td>—</td>
 													<td>300 грн</td>
 												</tr>
@@ -414,7 +414,7 @@ Template Name: event-zone
 													<td>4000 грн</td>
 												</tr>
 												<tr>
-													<td>13й, 14й час, и более</td>
+													<td>12 часов +</td>
 													<td>—</td>
 													<td>400 грн</td>
 												</tr>
@@ -437,7 +437,7 @@ Template Name: event-zone
 													<td>3000 грн</td>
 												</tr>
 												<tr>
-													<td>13й, 14й час, и более</td>
+													<td>12 часов +</td>
 													<td>—</td>
 													<td>300 грн</td>
 												</tr>
@@ -460,7 +460,7 @@ Template Name: event-zone
 													<td>6000 грн</td>
 												</tr>
 												<tr>
-													<td>13й, 14й час, и более</td>
+													<td>12 часов +</td>
 													<td>—</td>
 													<td>600 грн</td>
 												</tr>
@@ -483,7 +483,7 @@ Template Name: event-zone
 													<td>15000 грн</td>
 												</tr>
 												<tr>
-													<td>13й, 14й час, и более</td>
+													<td>12 часов +</td>
 													<td>—</td>
 													<td>1500 грн</td>
 												</tr>
