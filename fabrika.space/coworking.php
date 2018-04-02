@@ -84,51 +84,41 @@ Template Name: coworking
 											<tr>
 												<td>1 hour</td>
 												<td>—</td>
-												<td>90 UAH</td>
+												<td>100 UAH</td>
 											</tr>
 											<tr>
 												<!--<td colspan="3">
-													<span class="btnPayCoworking" data-title="1 hour - 90 UAH" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiOTAiLCJjdXJyZW5jeSI6IlVBSCIsImRlc2NyaXB0aW9uIjoiMSDRh9Cw0YEgIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=2HKMMEocSgeCUo%2F2uouO0KvSVYY%3D">Purchase</span>
+													<span class="btnPayCoworking" data-title="1 hour - 100 UAH" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMTAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjEg0YfQsNGBIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=xZVmTOc24yIumDtcbB31mwpWAOQ%3D">Purchase</span>
 												</td>-->
 											</tr>
 											<tr>
 												<td>2 hours</td>
 												<td>—</td>
-												<td>150 UAH</td>
-											</tr>
-											<tr>
-												<!--<td colspan="3">
-													<span class="btnPayCoworking" data-title="2 hours - 150 UAH" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTUwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjIg0YfQsNGB0LAgICIsInR5cGUiOiJidXkiLCJsYW5ndWFnZSI6InJ1In0%3D&signature=cdu7mMhXSp8DjMAMsgpAeF1K%2FKk%3D">Purchase</span>
-												</td>-->
-											</tr>
-											<tr>
-												<td>3 hours</td>
-												<td>—</td>
 												<td>180 UAH</td>
 											</tr>
 											<tr>
 												<!--<td colspan="3">
-													<span class="btnPayCoworking" data-title="3 hours - 180 UAH" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTgwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjMg0YfQsNGB0LAgICIsInR5cGUiOiJidXkiLCJsYW5ndWFnZSI6InJ1In0%3D&signature=XXSlsGmaYpRGL5XRRDDcC7TliEU%3D">Purchase</span>
+													<span class="btnPayCoworking" data-title="2 hours - 180 UAH" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMTgwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjIg0YfQsNGB0LAiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSJ9&signature=AVdjPrxT6CC0I4YPER2fhK1V76I%3D">Purchase</span>
 												</td>-->
 											</tr>
 											<tr class="border">
 												<td>1 day</td>
 												<td>—</td>
-												<td>180 UAH</td>
+												<td>220 UAH</td>
 											</tr>
 											<tr>
 												<!--<td colspan="3">
-													<span class="btnPayCoworking" data-title="1 day - 180 UAH" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTgwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjEg0LTQtdC90YwgIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=KrQi7IlNEkjI7sSRJgqyhvjM0fg%3D">Purchase</span>
+													<span class="btnPayCoworking" data-title="1 day - 220 UAH" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMjIwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjEg0LTQtdC90YwiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSJ9&signature=NCTp%2BlUqnaOBaJSZMlFxgnB6g8Y%3D">Purchase</span>
 												</td>-->
 											</tr>
 											<tr>
 												<td>5 days</td>
 												<td>—</td>
-												<td>650 UAH</td>
+												<td>800 UAH</td>
 											</tr>
 											<tr>
 												<!--<td colspan="3">
-													<span class="btnPayCoworking" data-title="5 days - 650 UAH" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiNjUwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjUg0LTQvdC10LkgIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=zaJzEsNgAmqTsqGw4Prlu2J%2Fj9o%3D">Purchase</span>
+													<span class="btnPayCoworking" data-title="5 days - 800 UAH" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiODAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjUg0LTQvdC10LkgIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=pjkLQYvIWSiTVYmCUMc4oq0%2FBbs%3D">Purchase</span>
 												</td>-->
 											</tr>
 										</table>
@@ -141,11 +131,11 @@ Template Name: coworking
 											<tr>
 												<td>1 month</td>
 												<td>—</td>
-												<td>2900 UAH</td>
+												<td>3400 UAH</td>
 											</tr>
 											<tr>
 												<!--<td colspan="3">
-													<span class="btnPayCoworking" data-title="1 month - 2900 UAH" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMjkwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIxINC80LXRgdGP0YYg0L%2FQu9Cw0LLQsNGO0YnQtdC1INC80LXRgdGC0L4gIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=okz8xf%2FVpWzpw1nhYN3slkwPfU0%3D">Purchase</span>
+													<span class="btnPayCoworking" data-title="1 month - 3400 UAH" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMzQwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIxINC80LXRgdGP0YYg0YTQuNC60YHQuNGA0L7QstCw0L3QvdC%2B0LUg0LzQtdGB0YLQviIsInR5cGUiOiJidXkiLCJsYW5ndWFnZSI6InJ1In0%3D&signature=bGEyhdU7xcnOCKKssEb9ukTBgek%3D">Purchase</span>
 												</td>-->
 											</tr>
 										</table>
@@ -158,21 +148,21 @@ Template Name: coworking
 											<tr>
 												<td>10 days</td>
 												<td>—</td>
-												<td>1200 UAH</td>
+												<td>1500 UAH</td>
 											</tr>
 											<tr>
 												<!--<td colspan="3">
-													<span class="btnPayCoworking" data-title="10 days - 1200 UAH" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMTIwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIxMCDQtNC90LXQuSAiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSJ9&signature=MKb8nDHYQiCr9MJKwgBUb9T49VE%3D">Purchase</span>
+													<span class="btnPayCoworking" data-title="10 days - 1500 UAH" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMTUwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIxMCDQtNC90LXQuSAiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSJ9&signature=bAL%2Fbp1aiobi5HrxNwyOrSlbyf0%3D">Purchase</span>
 												</td>-->
 											</tr>
 											<tr>
 												<td>1 month</td>
 												<td>—</td>
-												<td>2700 UAH</td>
+												<td>3200 UAH</td>
 											</tr>
 											<tr>
 												<!--<td colspan="3">
-													<span class="btnPayCoworking" data-title="1 month - 2700 UAH" data-url="https://www.liqpay.com/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTg1MjQ1MDYwODIyIiwiYW1vdW50IjoiMjcwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIxINC80LXRgdGP0YYg0L%2FQu9Cw0LLQsNGO0YnQtdC1INC80LXRgdGC0L4gIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=Kmy4W5Kgk6Mgmze5Npsl%2F5glWQI%3D">Purchase</span>
+													<span class="btnPayCoworking" data-title="1 month - 3200 UAH" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMzIwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIxINC80LXRgdGP0YYg0L3QtSDRhNC40LrRgdC40YDQvtCy0LDQvdC90L7QtSDQvNC10YHRgtC%2BIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=1o5RXvmvyKdXY9Xxamf%2B3pnqHL0%3D">Purchase</span>
 												</td>-->
 											</tr>
 										</table>
