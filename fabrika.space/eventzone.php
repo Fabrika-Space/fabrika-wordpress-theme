@@ -123,24 +123,14 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 hour on weekdays</td>
+													<td>1 hour</td>
 													<td>—</td>
-													<td>250 uah</td>
+													<td>400 uah</td>
 												</tr>
 												<tr>
-													<td>1 hour on weekends</td>
+													<td>1 day</td>
 													<td>—</td>
-													<td>300 uah</td>
-												</tr>
-												<tr>
-													<td>A weekday</td>
-													<td>—</td>
-													<td>2 500 uah</td>
-												</tr>
-												<tr>
-													<td>A day on weekend</td>
-													<td>—</td>
-													<td>3 000 uah</td>
+													<td>4 000 uah</td>
 												</tr>
 											</table>
 										</div>
@@ -151,24 +141,14 @@ Template Name: event-zone
 										<div class="table">
 											<table>
 												<tr>
-													<td>1 hour on weekdays</td>
+													<td>1 hour</td>
 													<td>—</td>
-													<td>500 uah</td>
+													<td>700 uah</td>
 												</tr>
 												<tr>
-													<td>1 hour on weekends</td>
+													<td>1 day</td>
 													<td>—</td>
-													<td>600 uah</td>
-												</tr>
-												<tr>
-													<td>A weekday</td>
-													<td>—</td>
-													<td>5 000 uah</td>
-												</tr>
-												<tr>
-													<td>A day on weekend</td>
-													<td>—</td>
-													<td>6 000 uah</td>
+													<td>7 000 uah</td>
 												</tr>
 											</table>
 										</div>
@@ -184,7 +164,7 @@ Template Name: event-zone
 													<td>1 500 uah</td>
 												</tr>
 												<tr>
-													<td>A day</td>
+													<td>10 hours</td>
 													<td>—</td>
 													<td>15 000 uah</td>
 												</tr>
@@ -406,6 +386,29 @@ Template Name: event-zone
 												<tr>
 													<td>1 час</td>
 													<td>—</td>
+													<td>450 грн</td>
+												</tr>
+												<tr>
+													<td>10-12 часов</td>
+													<td>—</td>
+													<td>4500 грн</td>
+												</tr>
+												<tr>
+													<td>12 часов +</td>
+													<td>—</td>
+													<td>450 грн</td>
+												</tr>
+											</table>
+										</div>	
+									</div>							
+									<div class="typePriceCategory">
+										<span class="title">Зеленый зал</span>
+										<span class="countPeople">50 человек</span>
+										<div class="table">
+											<table>
+												<tr>
+													<td>1 час</td>
+													<td>—</td>
 													<td>400 грн</td>
 												</tr>
 												<tr>
@@ -419,29 +422,6 @@ Template Name: event-zone
 													<td>400 грн</td>
 												</tr>
 											</table>
-										</div>	
-									</div>							
-									<div class="typePriceCategory">
-										<span class="title">Зеленый зал</span>
-										<span class="countPeople">50 человек</span>
-										<div class="table">
-											<table>
-												<tr>
-													<td>1 час</td>
-													<td>—</td>
-													<td>300 грн</td>
-												</tr>
-												<tr>
-													<td>10-12 часов</td>
-													<td>—</td>
-													<td>3000 грн</td>
-												</tr>
-												<tr>
-													<td>12 часов +</td>
-													<td>—</td>
-													<td>300 грн</td>
-												</tr>
-											</table>
 										</div>
 									</div>
 									<div class="typePriceCategory">
@@ -452,17 +432,17 @@ Template Name: event-zone
 												<tr>
 													<td>1 час день</td>
 													<td>—</td>
-													<td>600 грн</td>
+													<td>700 грн</td>
 												</tr>
 												<tr>
 													<td>10-12 часов</td>
 													<td>—</td>
-													<td>6000 грн</td>
+													<td>7000 грн</td>
 												</tr>
 												<tr>
 													<td>12 часов +</td>
 													<td>—</td>
-													<td>600 грн</td>
+													<td>700 грн</td>
 												</tr>
 											</table>
 										</div>
