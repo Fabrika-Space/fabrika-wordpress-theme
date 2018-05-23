@@ -764,11 +764,11 @@ Template Name: bar
 				</div>
 			</div>
 
-			<!--<div class="section menuBar bgWhite">
+			<div class="section menuBar bgWhite">
 				<div class="sectionTitle borderBottomTitle">Барная карта</div>
 				<div class="sectionContent clear">
 					
-					<div class="contentMenuBar">
+					<!--<div class="contentMenuBar">
 						<<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Fabrika Concept Cocktails</div>
 							<div class="bodyCategoryMenuBar">
