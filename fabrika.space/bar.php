@@ -41,7 +41,7 @@ Template Name: bar
 				</div>
 			</div>
 
-			<div class="section menuBar bgWhite clear">
+			<!--<div class="section menuBar bgWhite clear">
 				<div class="sectionTitle borderBottomTitle">The menu</div>
 				<div class="sectionContent">
 					<div class="contentMenuBar">
@@ -764,12 +764,12 @@ Template Name: bar
 				</div>
 			</div>
 
-			<div class="section menuBar bgWhite">
+			<!--<div class="section menuBar bgWhite">
 				<div class="sectionTitle borderBottomTitle">Барная карта</div>
 				<div class="sectionContent clear">
 					
 					<div class="contentMenuBar">
-						<!--<div class="categoryMenuBar">
+						<<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Fabrika Concept Cocktails</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listBeautifulItems">
@@ -870,7 +870,7 @@ Template Name: bar
 							</div>
 						</div>-->
 
-						<div class="categoryMenuBar">
+						<!--<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">FABRIKA CONCEPT COCKTAILS</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
@@ -898,13 +898,13 @@ Template Name: bar
 										<span class="price">115 грн</span>
 										<span class="title">AMARETTO SOUR 120 ml</span>
 										<span class="desc">Whiskey Jack Daniel's Tennesse, Amaretto, Fresh Squeezed Lemon Juice, Egg White</span>
-									</div>
+									</div>-->
 									<!--<div class="txtItem">
 										<span class="price">105 грн</span>
 										<span class="title">GREEN WOOD SOUR 125 ml</span>
 										<span class="desc">Cachaca Canario, Liquor Chartreuse Green, Basil, Fresh Squeezed Pineapple Juice, Fresh Squeezed Lime Juice, Egg White</span>
 									</div>-->
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">165 грн</span>
 										<span class="title">FIJI 170 ml</span>
 										<span class="desc">Absolut Vanilia, Liquor Coconut, Syrup Spicy Mango, Fresh Squeezed Lemon Juice, Egg White</span>
@@ -971,7 +971,7 @@ Template Name: bar
 									</div>
 								</div>
 							</div>
-						</div>
+						</div>-->
 
 						<!--<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Tiki</div>
@@ -1000,7 +1000,7 @@ Template Name: bar
 										<span class="title">PINK LEMONADE 190 ml</span>
 										<span class="desc">Rose Semi-Sweet Wine, Liquor Rose, Fresh Squeezed Orange & Lemon Juice, Soda Water</span>
 									</div>
-									<!--<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">75 грн</span>
 										<span class="title">GARDEN GNOME 195 ml</span>
 										<span class="desc">Vodka Absolut Pears, Liquor Chartreuse Green, Vermoith Dry, Basil, Cucumber, Fresh Squeezed Lemon Juice, Soda Water</span>
@@ -1051,7 +1051,7 @@ Template Name: bar
 							<div class="titleCategoryMenuBar act">Spritz</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
-									<!--<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">`120 грн</span>
 										<span class="title">FABRIKA APEROL SPRITZ 160 ml</span>
 										<span class="desc">Aperol, Sparkling Wine, Rediced Orange</span>
@@ -1109,7 +1109,7 @@ Template Name: bar
 									</div>
 								</div>
 							</div>
-						</div>-->
+						</div>
 
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Classic & Twists</div>
@@ -1225,7 +1225,7 @@ Template Name: bar
 										<span class="title">MARTINEZ 105 ml</span>
 										<span class="desc">Gin Hayman's Old Tom, Vermout Cinzano 1757, Liquor Marasquino</span>
 									</div>
-									<!--<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">105 грн</span>
 										<span class="title">BLOODY MARY 225 ml</span>
 										<span class="desc">VVodka Finlandia, Tomato Juice, Fresh Squeezed Lemon Juice, Sauce Tabasco, Sauce Worcestershire, Salt, Pepper, Celery, Olives</span>
@@ -1234,7 +1234,7 @@ Template Name: bar
 										<span class="price">115 грн</span>
 										<span class="title">MARGARITA 90 ml</span>
 										<span class="desc">Vodka Finlandia, Gin Gordon's, Tequila El Jimador Silver, Rum Havana Club Anejo 3 Anos, Cointreau, Fresh Squeezed Lemon Juice, Coke</span>
-									</div>-->
+									</div>
 								</div>
 							</div>
 						</div>
@@ -1276,11 +1276,11 @@ Template Name: bar
 										<span class="title">MANGO & CARAMEL LEMONADE 250 ml</span>
 										<span class="desc">Fresh Squeezed Lemon Juice, Syrup Salted Caramel,Syrup Spicy Mango, Apple Juice, Soda Water</span>
 									</div>
-									<!--<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">50 грн</span>
 										<span class="title">CUCUMBER & PEAR LEMONADE 250 ml</span>
 										<span class="desc">Cucumber, Mint, Pear Juice, Fresh Squeezed Lemon Juice, Apple Juice, Soda Water</span>
-									</div>-->
+									</div>
 									<div class="txtItem">
 										<span class="price">50 грн</span>
 										<span class="title">PASSION FRUIT LEMONADE 250 ml</span>
@@ -1297,110 +1297,110 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">90/450 грн</span>
 										<span class="title">PINOT GRIGIO FIORILE 150/750 ml</span>
-										<!--<span class="desc">Vodka Finlandia, Sea Buckthorm, Fresh Squeezed Lemon Juice, Syrup Salted Caramel</span>-->
-									</div>
+										<span class="desc">Vodka Finlandia, Sea Buckthorm, Fresh Squeezed Lemon Juice, Syrup Salted Caramel</span>-->
+									<!--</div>
 									<div class="txtItem">
 										<span class="price">105/525 грн</span>
 										<span class="title">RIESLING DR. LOOSEN 150/750 ml</span>
 										<!--<span class="desc">Whiskey Jack Daniel's Tennesse, Cointreau, Aperol, Syrup Passion Fruit, Fresh Squeezed Lemon Juice</span>
 									</div>-->
-									</div>	
+									<!--</div>	
 									<div class="txtItem">
 										<span class="price">105/525 грн</span>
 										<span class="title">GEWURZTRAMINER VILLA WOLF 150/750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">135/675 грн</span>
 										<span class="title">SAUVIGNON BLANC MARLBOROUGH SUN 150/750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">550 грн</span>
 										<span class="title">ROCCAPERCIATA GRILLO 750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">100/500 грн</span>
 										<span class="title">ROSE D'ANJOU CHATELAIN DESJACQUES 150/750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">500 грн</span>
 										<span class="title">ROSATELLO RUFFINO 750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">675 грн</span>
 										<span class="title">SAUVIGNON ROSE MARLBOROUGH SUN 750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">70/350 грн</span>
 										<span class="title">CHIRAZ CAPPO 150/750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">80/400 грн</span>
 										<span class="title">SYRAH-MERLOT RESERVE DE L'AUBE 150/750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">105/525 грн</span>
 										<span class="title">MALBEC PORTILLO 150/750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">120/600 грн</span>
 										<span class="title">ENTRECOTE GOURMET PERE&FILS 150/750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">675 грн</span>
 										<span class="title">CHIANTI SUPERIOR RUFFINO 750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">725 грн</span>
 										<span class="title">CHATEAU GALAU COTES DE BOURG 750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">135/625 грн</span>
 										<span class="title">PROSECCO BORTOLOMIOL 150/750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">600 грн</span>
 										<span class="title">CAVA JAUME SERRA 750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">675 грн</span>
 										<span class="title">CANTI ASTI DOCG 750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">675 грн</span>
 										<span class="title">CAFÉ DE PARIS LITCHI 750 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">55 грн</span>
 										<span class="title">PORTO TAWNY SANDEMAN 50 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">60 грн</span>
 										<span class="title">SHERRY MANZANILLA DELICIOSA 50 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">75 грн</span>
 										<span class="title">PORTO TAYLOR'S SELECT RESERVE 50 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">75 грн</span>
 										<span class="title">SHERRY PEDRO XIMINEZ LEYENDA 50 ml</span>
 										<!--<span class="desc">Beefeater, Becherovka, Cointreau, Fresh Squeezed Orange Juice</span>-->
@@ -1409,7 +1409,7 @@ Template Name: bar
 							</div>
 						</div>
 
-						<div class="categoryMenuBar">
+						<!--<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Hot Tipple</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
@@ -1453,7 +1453,7 @@ Template Name: bar
 						</div>-->
 
 						<div class="categoryMenuBar">
-							<div class="titleCategoryMenuBar act">Завтраки c 10:00 до 19:00. Чай, кофе или сок на ваш выбор</div>
+							<div class="titleCategoryMenuBar act">Завтраки c 10:00 до 17:00. Чай, кофе или сок на ваш выбор</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
@@ -1461,15 +1461,15 @@ Template Name: bar
 										<span class="title">Завтрак №1 120/35/150 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">110 грн</span>
-										<span class="title">Завтрак №2 180/110 гр.</span>
+										<span class="price">119 грн</span>
+										<span class="title">Завтрак №2 220/110 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">135 грн</span>
 										<span class="title">Яйца "Хэмингуэй" 200/110 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">115 грн</span>
+										<span class="price">125 грн</span>
 										<span class="title">Яйца Скрэмбл с беконом 240/100 гр.</span>
 									</div>
 									<div class="txtItem">
@@ -1489,7 +1489,7 @@ Template Name: bar
 										<span class="title">Овсянка на яблочном фреше 300 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">97 грн</span>
+										<span class="price">111 грн</span>
 										<span class="title">Шакшука 300 гр.</span>
 									</div>
 								</div>
@@ -1501,12 +1501,12 @@ Template Name: bar
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
 									<div class="txtItem">
-										<span class="price">165 грн</span>
+										<span class="price">185 грн</span>
 										<span class="title">Идеальное плато закусок 200 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">210 грн</span>
-										<span class="title">Сырная тарелка 105/70/100 гр.</span>
+										<span class="title">Сырная тарелка 105/100/70 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">87 грн</span>
@@ -1514,14 +1514,14 @@ Template Name: bar
 									</div>
 									<div class="txtItem">
 										<span class="price">94 грн</span>
-										<span class="title">Фалафель в пите с соусом дзадзики и классическим хумусом 120/50/50 гр.</span>
+										<span class="title">Фалафель в пите с соусом дзадзики и сальсой из свежих овощей 120/80/50 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">169 грн</span>
 										<span class="title">Тигровые креветки в сливочном соусе 130/60 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">79 грн</span>
+										<span class="price">89 грн</span>
 										<span class="title">Тарама 150/80 гр.</span>
 									</div>
 									<div class="txtItem">
@@ -1529,7 +1529,7 @@ Template Name: bar
 										<span class="title">Хумус 170/150 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">79 грн</span>
+										<span class="price">69 грн</span>
 										<span class="title">Хумус с грибами 150/60/150 гр.</span>
 									</div>
 									<div class="txtItem">
@@ -1540,11 +1540,15 @@ Template Name: bar
 										<span class="price">115 грн</span>
 										<span class="title">Пикантные крылышки в сладком чили 250 гр.</span>
 									</div>
-									<!--<div class="txtItem">
-										<span class="price">99/119/134/164 грн</span>
-										<span class="title">Тортилья по-гречески с курицей/телятиной/лососем 300/350 гр.</span>
+									<div class="txtItem">
+										<span class="price">138 грн</span>
+										<span class="title">Жареный сыр Халуми 100/60/60 гр.</span>
 									</div>
-								</div>-->
+									<div class="txtItem">
+										<span class="price">89 грн</span>
+										<span class="title">Норвежская сельдь 120/120 гр.</span>
+									</div>
+								</div>
 							</div>
 						</div>
 
@@ -1569,20 +1573,24 @@ Template Name: bar
 										<span class="title">Салат из курицы 300 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">125 грн</span>
+										<span class="price">135 грн</span>
 										<span class="title">Салат с тунцом 300 гр.</span>
 									</div>
-									<!--<div class="txtItem">
-										<span class="price">165 грн</span>
-										<span class="title">Салат с тигровыми креветками 270 гр.</span>
-									</div>-->
 									<div class="txtItem">
-										<span class="price">210 грн</span>
+										<span class="price">249 грн</span>
 										<span class="title">Салат со средиземноморским осьминогом 250 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">145 грн</span>
 										<span class="title">Салат из рапанов 180 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">129 грн</span>
+										<span class="title">Салат с жареным сыром Халуми 200 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">125 грн</span>
+										<span class="title">Салат с киноа 370 гр.</span>
 									</div>
 								</div>
 							</div>
@@ -1593,23 +1601,27 @@ Template Name: bar
 							<div class="titleCategoryMenuBar act">Супы</div>
 							<div class="bodyCategoryMenuBar">
 								<div class="listTxtItems">
-									<!--<div class="txtItem">
-										<span class="price">75 грн</span>
-										<span class="title">Окрошка с курицей 300 гр.</span>
-									</div>-->
 									<div class="txtItem">
-										<span class="price">75 грн</span>
-										<span class="title">Согревающий чечевичный суп с копченым перцем 300 гр.</span>
+										<span class="price">85 грн</span>
+										<span class="title">Окрошка с курицей 300 гр.</span>
 									</div>
 									<div class="txtItem">
+										<span class="price">125 грн</span>
+										<span class="title">Окрошка с сёмгой 300 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">85 грн</span>
+										<span class="title">Чечевичный суп с копченым перцем 300 гр.</span>
+									</div>
+									<!--<div class="txtItem">
 										<span class="price">97 грн</span>
 										<span class="title">Томатный суп с нутом и копченым ягненком 300 гр.</span>
-									</div>
+									</div>-->
 									<div class="txtItem">
-										<span class="price">97 грн</span>
+										<span class="price">110 грн</span>
 										<span class="title">Финская уха с семгой и сливками 300 гр.</span>
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">63 грн</span>
 										<span class="title">Куриный бульон с домашней лапшой 300 гр.</span>
 									</div>
@@ -1620,7 +1632,7 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">75 грн</span>
 										<span class="title">Тыквенный крем-суп с имбирем, кинзой и тыквенными семечками 300 гр.</span>
-									</div>
+									</div>-->
 								</div>
 							</div>
 						</div>
@@ -1633,64 +1645,68 @@ Template Name: bar
 										<span class="price">175 грн</span>
 										<span class="title">Мидии в сливочном соусе 290 гр.</span>
 									</div>
-									<!--<div class="txtItem">
-										<span class="price">169 грн</span>
-										<span class="title">Тигровые креветки в сливочном соусе 250 гр.</span>
-									</div>-->
+									<div class="txtItem">
+										<span class="price">115 грн</span>
+										<span class="title">Домашняя паста с соусом песто и помидорами черри 250 гр.</span>
+									</div>
+									<div class="txtItem">
+										<span class="price">149 грн</span>
+										<span class="title">Домашняя паста со сливочно-грибным соусом 250 гр.</span>
+									</div>
 									<div class="txtItem">
 										<span class="price">165 грн</span>
 										<span class="title">Морской окунь со шпинатом 1 шт.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">138 грн</span>
+										<span class="price">158 грн</span>
 										<span class="title">Fish & Chips 130/150/50 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">118 грн</span>
+										<span class="price">125 грн</span>
 										<span class="title">Скумбрия в смокере с гарниром на выбор 150/150/50 гр.</span>
 									</div>
 									<div class="txtItem">
 										<span class="price">210 грн</span>
-										<span class="title">Тальята с овощами гриль 160/150/50 гр.</span>
+										<span class="title">Тальята с овощами гриль и соусом Porto 160/150/50 гр.</span>
 									</div>
-									<!--<div class="txtItem">
-										<span class="price">124 грн</span>
-										<span class="title">Fish & Chips 130/150/50 гр.</span>
-									</div>-->
+									<div class="txtItem">
+										<span class="price">159 грн</span>
+										<span class="title">Рыба печеная в хоспере со спаржевой фасолью 160/200 гр.</span>
+									</div>
 									<div class="txtItem">
 										<span class="price">128 грн</span>
 										<span class="title">Стейк New York 100 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">165 грн</span>
+										<span class="price">175 грн</span>
 										<span class="title">Кебаб "Fabrika" из баранины 140/50/45 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">145 грн</span>
+										<span class="price">155 грн</span>
 										<span class="title">Кебаб "Fabrika" из индейки 140/50/45 гр.</span>
 									</div>
-									<!--<div class="txtItem">
+									<div class="txtItem">
 										<span class="price">129 грн</span>
-										<span class="title">Кебаб "Fabrika" из курицы 150/50/45 гр</span>
-									</div>-->
+										<span class="title">Пикантные крылышки в сладком чили 350 гр</span>
+									</div>
 									<div class="txtItem">
 										<span class="price">125 грн</span>
 										<span class="title">Куриное филе из хоспера с гарниром на выбор 150/150/50 гр.</span>
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">135 грн</span>
 										<span class="title">Ньокки в сливочно-грибном соусе с добавлением бекона и сыра Grana Padano 400 гр.</span>
+									</div>-->
+									<div class="txtItem">
+										<span class="price">128 грн</span>
+										<span class="title">Стейк Rib-eye 100 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">159 грн</span>
-										<span class="title">Морской язык со спаржевой фасолью 160/200 гр.</span>
-									</div>
-									<div class="txtItem">
-										<span class="price">165 грн</span>
+										<span class="price">175 грн</span>
 										<span class="title">Оссо буко из индейки 250/100/200 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">165 грн</span>
+										<span class="price">169 грн</span>
 										<span class="title">Свиные ребра BBQ 220/120/35 гр.</span>
 									</div>
 									<div class="txtItem">
@@ -1698,14 +1714,14 @@ Template Name: bar
 										<span class="title">Салат Wok с куриным филе 250 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">85/115/130 грн</span>
+										<span class="price">89/115/130 грн</span>
 										<span class="title">Киноа с овощами. Добавки: курица, телятина 300 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">85/115/130 грн</span>
-										<span class="title">Соба с овощами и домашним соусом терияки. Добавки: курица, телятина 300 гр.</span>
+										<span class="price">89/115/130/149 грн</span>
+										<span class="title">Соба с овощами и классическим / домашним соусом терияки. Добавки: курица, телятина, морепродукты 300 гр.</span>
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">99 грн</span>
 										<span class="title">Соба с курицей и овощами 300 гр.</span>
 									</div>
@@ -1716,7 +1732,7 @@ Template Name: bar
 									<div class="txtItem">
 										<span class="price">125 грн</span>
 										<span class="title">Соба с морепродуктами и овощами 300 гр.</span>
-									</div>
+									</div>-->
 								</div>
 							</div>
 						</div>
@@ -1734,7 +1750,7 @@ Template Name: bar
 										<span class="title">Спаржевая фасоль 200 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">49 грн</span>
+										<span class="price">55 грн</span>
 										<span class="title">Шпинат с грибами, тушеный в сливках 200 гр.</span>
 									</div>
 									<!--<div class="txtItem">
@@ -1750,7 +1766,7 @@ Template Name: bar
 										<span class="title">Картофель по-креольски 200 гр.</span>
 									</div>
 									<div class="txtItem">
-										<span class="price">38 грн</span>
+										<span class="price">49 грн</span>
 										<span class="title">Картофельное пюре 200 гр.</span>
 									</div>
 									<!--<div class="txtItem">
@@ -1797,10 +1813,10 @@ Template Name: bar
 										<span class="price">89 грн</span>
 										<span class="title">Черничный кейк 170 гр.</span>
 									</div>
-									<div class="txtItem">
+									<!--<div class="txtItem">
 										<span class="price">69 грн</span>
 										<span class="title">Морковный пирог 180 гр.</span>
-									</div>
+									</div>-->
 									<!--<div class="txtItem">
 										<span class="price">20 грн</span>
 										<span class="title">Конфеты ручной работы 8-15 гр.</span>
