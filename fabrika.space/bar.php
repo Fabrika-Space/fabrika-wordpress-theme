@@ -1452,6 +1452,11 @@ Template Name: bar
 							</div>
 						</div>-->
 
+						<div class="section menuBar bgWhite clear">
+				<div class="sectionTitle borderBottomTitle">The menu</div>
+				<div class="sectionContent">
+					<div class="contentMenuBar">
+
 						<div class="categoryMenuBar">
 							<div class="titleCategoryMenuBar act">Завтраки c 10:00 до 17:00. Чай, кофе или сок на ваш выбор</div>
 							<div class="bodyCategoryMenuBar">
