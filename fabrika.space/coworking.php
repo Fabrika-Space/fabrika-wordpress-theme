@@ -396,7 +396,7 @@ Template Name: coworking
 											</tr>
 											<tr>
 												<td colspan="3">
-													<span class="btnPayCoworking" data-title="1 час - 100 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMTAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjEg0YfQsNGBIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=xZVmTOc24yIumDtcbB31mwpWAOQ%3D">Оплатить</span>
+													<span class="btnPayCoworking" data-title="1 час - 100 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTc3MzkwNjAwMjYiLCJhbW91bnQiOiIxMDAiLCJjdXJyZW5jeSI6IlVBSCIsImRlc2NyaXB0aW9uIjoiMSDRh9Cw0YEgIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=UsYlLwpHgcEferv5yhfp242zfpg%3D">Оплатить</span>
 												</td>
 											</tr>
 											<tr>
@@ -406,7 +406,7 @@ Template Name: coworking
 											</tr>
 											<tr>
 												<td colspan="3">
-													<span class="btnPayCoworking" data-title="2 часа - 180 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMTgwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjIg0YfQsNGB0LAiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSJ9&signature=AVdjPrxT6CC0I4YPER2fhK1V76I%3D">Оплатить</span>
+													<span class="btnPayCoworking" data-title="2 часа - 180 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTc3MzkwNjAwMjYiLCJhbW91bnQiOiIxODAiLCJjdXJyZW5jeSI6IlVBSCIsImRlc2NyaXB0aW9uIjoiMiDRh9Cw0YHQsCAiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSJ9&signature=AVHUgTkz9ebqiek4Ejs7K1h%2BjnM%3D">Оплатить</span>
 												</td>
 											</tr>
 											<!--<tr>
@@ -426,7 +426,7 @@ Template Name: coworking
 											</tr>
 											<tr>
 												<td colspan="3">
-													<span class="btnPayCoworking" data-title="1 день - 220 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMjIwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjEg0LTQtdC90YwiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSJ9&signature=NCTp%2BlUqnaOBaJSZMlFxgnB6g8Y%3D">Оплатить</span>
+													<span class="btnPayCoworking" data-title="1 день - 220 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTc3MzkwNjAwMjYiLCJhbW91bnQiOiIyMjAiLCJjdXJyZW5jeSI6IlVBSCIsImRlc2NyaXB0aW9uIjoiMSDQtNC10L3RjCIsInR5cGUiOiJidXkiLCJsYW5ndWFnZSI6InJ1In0%3D&signature=oXQlSaJ4ZbbsAZRy9kO6voyK4ks%3D">Оплатить</span>
 												</td>
 											</tr>
 											<tr>
@@ -436,7 +436,7 @@ Template Name: coworking
 											</tr>
 											<tr>
 												<td colspan="3">
-													<span class="btnPayCoworking" data-title="5 дней - 800 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiODAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjUg0LTQvdC10LkgIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=pjkLQYvIWSiTVYmCUMc4oq0%2FBbs%3D">Оплатить</span>
+													<span class="btnPayCoworking" data-title="5 дней - 800 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTc3MzkwNjAwMjYiLCJhbW91bnQiOiI4MDAiLCJjdXJyZW5jeSI6IlVBSCIsImRlc2NyaXB0aW9uIjoiNSDQtNC90LXQuSIsInR5cGUiOiJidXkiLCJsYW5ndWFnZSI6InJ1In0%3D&signature=o6mdKbf4DI7chrNTRk6hXK%2FjQHs%3D">Оплатить</span>
 												</td>
 											</tr>
 										</table>
@@ -453,7 +453,7 @@ Template Name: coworking
 											</tr>
 											<tr>
 												<td colspan="3">
-													<span class="btnPayCoworking" data-title="1 месяц - 3400 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMzQwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIxINC80LXRgdGP0YYg0YTQuNC60YHQuNGA0L7QstCw0L3QvdC%2B0LUg0LzQtdGB0YLQviIsInR5cGUiOiJidXkiLCJsYW5ndWFnZSI6InJ1In0%3D&signature=bGEyhdU7xcnOCKKssEb9ukTBgek%3D">Оплатить</span>
+													<span class="btnPayCoworking" data-title="1 месяц - 3400 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTc3MzkwNjAwMjYiLCJhbW91bnQiOiIzNDAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjEg0LzQtdGB0Y%2FRhiAo0YTQuNC60YHQuNGA0L7QstCw0L3QvdC%2B0LUg0LzQtdGB0YLQvikiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSJ9&signature=j4G2GRIwkEsph7EgdxJgn2W5STI%3D">Оплатить</span>
 												</td>
 											</tr>
 										</table>
@@ -470,7 +470,7 @@ Template Name: coworking
 											</tr>
 											<tr>
 												<td colspan="3">
-													<span class="btnPayCoworking" data-title="10 дней - 1500 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMTUwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIxMCDQtNC90LXQuSAiLCJ0eXBlIjoiYnV5IiwibGFuZ3VhZ2UiOiJydSJ9&signature=bAL%2Fbp1aiobi5HrxNwyOrSlbyf0%3D">Оплатить</span>
+													<span class="btnPayCoworking" data-title="10 дней - 1500 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTc3MzkwNjAwMjYiLCJhbW91bnQiOiIxNTAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjEwINC00L3QtdC5IiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=pBN03vcrQ4MGANjsW9yYCWkmk%2Fc%3D">Оплатить</span>
 												</td>
 											</tr>
 											<tr>
@@ -480,7 +480,7 @@ Template Name: coworking
 											</tr>
 											<tr>
 												<td colspan="3">
-													<span class="btnPayCoworking" data-title="1 месяц - 3200 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTU4ODI2ODMxMzIwIiwiYW1vdW50IjoiMzIwMCIsImN1cnJlbmN5IjoiVUFIIiwiZGVzY3JpcHRpb24iOiIxINC80LXRgdGP0YYg0L3QtSDRhNC40LrRgdC40YDQvtCy0LDQvdC90L7QtSDQvNC10YHRgtC%2BIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&signature=1o5RXvmvyKdXY9Xxamf%2B3pnqHL0%3D">Оплатить</span>
+													<span class="btnPayCoworking" data-title="1 месяц - 3200 грн" data-url="https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTc3MzkwNjAwMjYiLCJhbW91bnQiOiIzMjAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6IjEg0LzQtdGB0Y%2FRhiAo0L3QtSDRhNC40LrRgdC40YDQvtCy0LDQvdC90L7QtSDQvNC10YHRgtC%2BKSIsInR5cGUiOiJidXkiLCJsYW5ndWFnZSI6InJ1In0%3D&signature=9ZavMl7szpaN41wo4eetrTPlZJ4%3D">Оплатить</span>
 												</td>
 											</tr>
 										</table>
